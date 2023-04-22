@@ -1,0 +1,1083 @@
+<?xml version='1.0' encoding='utf-8'?>
+<webwork-representations>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-1" ww-id="webwork-1">
+    <static seed="1" source="local/uw-stout/math120-sulvn-R-4/problem1.pg">
+      <statement><p>When multiplied and simplified, the expression</p>
+<p><m>2\, (6 x^2+3 x+7)-7\, (4 x^2+4 x+7) =</m> 
+<fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-16x^{2}-22x-35</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem1.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-2" ww-id="webwork-2">
+    <static seed="2" source="local/uw-stout/math120-sulvn-R-4/problem2.pg">
+      <statement><p>When simplified, the expression</p>
+<p><m>\displaystyle
+(4 x^2+5 x+5)+(7 x^2-5 x-3)</m> 
+= <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>11x^{2}+2</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem2.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-3" ww-id="webwork-3">
+    <static seed="3" source="local/uw-stout/math120-sulvn-R-4/problem4.pg">
+      <statement><p>Multiply and simplify, the following expression.</p>
+<p><m>\displaystyle
+(3 x -2)(2 x+5)</m>
+= 
+<fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>6x^{2}+11x-10</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem4.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-4" ww-id="webwork-4">
+    <static seed="4" source="local/uw-stout/math120-sulvn-R-4/problem5.pg">
+      <statement><p>Multiply and simplify the following expression:</p>
+<p><m>\displaystyle
+(3 x -8)(3 x+8)</m>
+= 
+<fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>9x^{2}-64</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem5.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-5" ww-id="webwork-5">
+    <static seed="5" source="local/uw-stout/math120-sulvn-R-4/problem6.pg">
+      <statement><p>Find the following expression when multiplied and simplified.</p>
+<p><m>(5 x+4)^2</m>
+=
+<fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>25x^{2}+40x+16</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem6.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-6" ww-id="webwork-6">
+    <static seed="6" source="local/uw-stout/math120-sulvn-R-4/problem7.pg">
+      <statement><p>Multiply and simplify the following expression.</p>
+<p><m>(4 -2 x)^2</m>=
+<fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>4x^{2}-16x+16</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem7.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-7" ww-id="webwork-7">
+    <static seed="7" source="local/uw-stout/math120-sulvn-R-4/problem8.pg">
+      <statement><p>Multipy and simplify the following expression.</p>
+<p><m>\displaystyle
+(6 x+6)(6 x-3)</m> 
+=<fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>36x^{2}+18x-18</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem8.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem8.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-8" ww-id="webwork-8">
+    <static seed="8" source="local/uw-stout/math120-sulvn-R-4/problem3.pg">
+      <statement><p>Multiply and simplify the following expression</p>
+<p><m>\displaystyle
+(x-7)(x^2+3 x+2)</m> 
+= <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>x^{3}-4x^{2}-19x-14</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem3.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-9" ww-id="webwork-9">
+    <static seed="9" source="local/uw-stout/math120-sulvn-R-4/problem9.pg">
+      <statement><p>Given that</p>
+<p><m>\displaystyle
+P(x) = 9 x^3 + 9 x - 5,</m></p>
+<p><m>\displaystyle
+Q(x) = x^2 +4 x +8,</m></p>
+<p><m>\displaystyle
+R(x) = x^3 - 3</m></p>
+<p>Then</p>
+<p><m>P + Q =</m> <fillin name="AnSwEr0001" characters="40"/></p>
+<p>and</p>
+<p><m>R(P+Q) =</m> <fillin name="AnSwEr0002" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>9x^{3}+x^{2}+13x+3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9x^{6}+x^{5}+13x^{4}-24x^{3}-3x^{2}-39x-9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem9.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/problem9.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-10" ww-id="webwork-10">
+    <static seed="10" source="local/uw-stout/math120-sulvn-R-4/sulvn-R-4-85.pg">
+      <statement><p>Simplify the following algebraic expression:</p>
+<p><m>2 ( 7 x + 8 ) - 5 
+=</m> 
+<fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>14x+11</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-R-4-85.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-R-4-85.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-11" ww-id="webwork-11">
+    <static seed="11" source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-91.pg">
+      <statement><p>Simplify the following algebraic expression:</p>
+<p><m>\displaystyle 
+2\, ( 4 y + 3 ) - 2\, ( 5 y + 4) 
+=</m> 
+<fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-2y+\left(-2\right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-91.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-91.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-12" ww-id="webwork-12">
+    <static seed="12" source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-93.pg">
+      <statement><p>Simplify the following algebraic expression:</p>
+<p><m>\displaystyle 
+3 -  9\, ( 7 - (8 y - 7 ) )  
+=</m> 
+<fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>72y+\left(-123\right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-93.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-93.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-13" ww-id="webwork-13">
+    <static seed="13" source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-96.pg">
+      <statement><p>Simplify the following algebraic expression:</p>
+<p><m>\displaystyle
+5 x^2 + 6 - [ 3 (x^2 - 6) + 7]
+=</m> 
+<fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>2x^{2}+17</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-96.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-96.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-14" ww-id="webwork-14">
+    <static seed="14" source="local/uw-stout/math120-sulvn-R-5/problem-2.pg">
+      <statement><p>Factor the polynomial as much as possible.</p>
+<p><m>\displaystyle
+x^{2}-2x-8</m></p>
+<p>Your answer : <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(x-4)*(x+2)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-2.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-15" ww-id="webwork-15">
+    <static seed="15" source="local/uw-stout/math120-sulvn-R-5/problem-3-1.pg">
+      <statement><p>Factor the polynomial <m>x^2-49</m> as much as possible.</p>
+<p>Your answer is <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>[x+(-7)]*(x+7)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-3-1.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-3-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-16" ww-id="webwork-16">
+    <static seed="16" source="local/uw-stout/math120-sulvn-R-5/problem-3.pg">
+      <statement><p>Factor the polynomial <m>4 x^2-36</m> as much as possible.</p>
+<p>Your answer is <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>4*(x-3)*(x+3)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-3.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-17" ww-id="webwork-17">
+    <static seed="17" source="local/uw-stout/math120-sulvn-R-5/problem-4.pg">
+      <statement><p>Factor the polynomial as much as possible.</p>
+<p><m>\displaystyle
+16 x^2-24 x+9</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(4*x-3)^2</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-4.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-18" ww-id="webwork-18">
+    <static seed="18" source="local/uw-stout/math120-sulvn-R-5/problem-5-2.pg">
+      <statement><p>Factor the polynomial <m>x^3+125</m>. 
+Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(x+5)*(x^2-5*x+25)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-5-2.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-5-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-19" ww-id="webwork-19">
+    <static seed="19" source="local/uw-stout/math120-sulvn-R-5/problem-5.pg">
+      <statement><p>Factor the polynomial.</p>
+<p><m>\displaystyle
+x^3-8</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(x-2)*(x^2+2*x+4)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-5.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-20" ww-id="webwork-20">
+    <static seed="20" source="local/uw-stout/math120-sulvn-R-5/problem-10.pg">
+      <statement><p>Factor the polynomial as much as possible.</p>
+<p><m>\displaystyle
+t^4+4 t^3-5 t^2</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>t^2*(t-1)*(t+5)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-10.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-10.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-21" ww-id="webwork-21">
+    <static seed="21" source="local/uw-stout/math120-sulvn-R-5/problem-6.pg">
+      <statement><p>Factor the polynomial as much as possible</p>
+<p><m>25x^{3}+175x^{2}-4x-28</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(5*x-2)*(5*x+2)*(x+7)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-6.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-22" ww-id="webwork-22">
+    <static seed="22" source="local/uw-stout/math120-sulvn-R-5/problem-7.pg">
+      <statement><p>Factor the polynomial as much as possible.</p>
+<p><m>\displaystyle
+16a^{2}-8ab+b^{2}-81</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(4*a-b-9)*(4*a-b+9)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-7.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-23" ww-id="webwork-23">
+    <static seed="23" source="local/uw-stout/math120-sulvn-R-5/problem-9.pg">
+      <statement><p>Factor the polynomial as much as possible.</p>
+<p><m>\displaystyle
+9x^{8}-y^{6}</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>(3*x^4+y^3)*(3*x^4-y^3)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-9.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-9.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-24" ww-id="webwork-24">
+    <static seed="24" source="local/uw-stout/math120-sulvn-R-5/problem-1.pg">
+      <statement><p>Factor the polynomial as much as possible</p>
+<p><m>\displaystyle
+(x-3)(x+6)^2-(x-3)^2(x+6)</m></p>
+<p>Your answer <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>9*(x-3)*(x+6)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-1.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-25" ww-id="webwork-25">
+    <static seed="25" source="local/uw-stout/math120-sulvn-R-5/problem-11.pg">
+      <statement><p>Factor the polynomial as much as possible.</p>
+<p><m>\displaystyle
+343x^{6}-64y^{9}</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <hint/>
+      <answer>
+        <p>(7*x^2-4*y^3)*(49*x^4+28*x^2*y^3+16*y^6)</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-11.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-R-5/problem-11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-26" ww-id="webwork-26">
+    <static seed="26" source="Library/FortLewis/Algebra/3-1-Solving-equations/MCH1-3-1-04-Solving-equations.pg">
+      <statement><p>Solve the equation <m>\displaystyle -9 + 7 r = -4 r</m>.</p>
+<p><m>r =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{9}{11}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/FortLewis/Algebra/3-1-Solving-equations/MCH1-3-1-04-Solving-equations.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/FortLewis/Algebra/3-1-Solving-equations/MCH1-3-1-04-Solving-equations.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-27" ww-id="webwork-27">
+    <static seed="27" source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p01.pg">
+      <statement><p>Solve for <m>x</m>: <m>9 x + 7 = 2</m></p>
+<p>Answer:  <m>x</m> = <fillin name="AnSwEr0001" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.555555555555556</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p01.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p01.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-28" ww-id="webwork-28">
+    <static seed="28" source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03.pg">
+      <statement><p>Solve for <m>x</m>: <m>5(x+3)=3 x+3</m></p>
+<p>Answer:  <m>x</m> = <fillin name="AnSwEr0001" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-6</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-29" ww-id="webwork-29">
+    <static seed="29" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_05.pg">
+      <statement><p>Solve the equation <m>\displaystyle 3(c+1)+7=-2(c-3)-3</m>.</p>
+<p><m>c =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Solution. </alert></p>
+</statement>
+      <answer>
+        <p>
+          <m>-{\frac{7}{5}}</m>
+        </p>
+      </answer>
+      <solution><p><me>\begin{array}{rcl}
+   3(c+1)+7\amp =\amp -2(c-3)-3,\\[1em]
+   3c+3\cdot1+7\amp =\amp -2c-2\cdot(-3)-3,\\[1em]
+   3c+10\amp =\amp -2c+3,\\[1em]
+   (3+2)c\amp =\amp 3-10,\\[1em]
+   c\amp =\amp \displaystyle\frac{3-10}{3+2}\\[1em]
+   \amp =\amp -{\frac{7}{5}}.
+   \end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_05.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_05.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-30" ww-id="webwork-30">
+    <static seed="30" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_06.pg">
+      <statement><p>Solve the equation <m>\displaystyle \frac{3a+6}{4a-5}=\frac{9}{2}</m>.</p>
+<p><m>a =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Solution. </alert></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{19}{10}}</m>
+        </p>
+      </answer>
+      <solution><p><me>\begin{array}{rcl}
+   \displaystyle \frac{3a+6}{4a-5}\amp =\amp \displaystyle\frac{9}{2},\\[1em]
+   2\cdot(3a+6)\amp =\amp 9(4a-5),\\[1em]
+   6a+12\amp =\amp 36a-45,\\[1em]
+   (6-36)a\amp =\amp -45-12,\\[1em]
+   a\amp =\amp \displaystyle{\frac{19}{10}}.
+   \end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_06.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_06.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-31" ww-id="webwork-31">
+    <static seed="31" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_07.pg">
+      <statement><p>Solve the equation <m>\displaystyle \frac{4}{3-b}=\frac{5}{b-4}</m>.</p>
+<p><m>b =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Solution. </alert></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{31}{9}}</m>
+        </p>
+      </answer>
+      <solution><p><me>\begin{array}{rcl}
+   \displaystyle \frac{4}{3-b}\amp =\amp \displaystyle \frac{5}{b-4},\\[1em]
+   4\cdot(b-4)\amp =\amp 5\cdot(3-b),\\ [1em]
+   4b-16\amp =\amp 15-5b,\\[1em]
+   4b+5b\amp =\amp 15+16,\\[1em]
+   b\amp =\amp \displaystyle \frac{15+16}{4+5}\\ [1em]
+   \amp =\amp  \displaystyle {\frac{31}{9}}.
+   \end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_07.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_07.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-32" ww-id="webwork-32">
+    <static seed="32" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_08.pg">
+      <statement><p>Solve the equation <m>\displaystyle \frac{5}{x}=\frac{2}{4x}+1</m>.</p>
+<p><m>x =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Solution. </alert></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{9}{2}}</m>
+        </p>
+      </answer>
+      <solution><p><me>\begin{array}{rcl}
+   \displaystyle \frac{5}{x}\amp =\amp \displaystyle\frac{2}{4x}+1,\\[1em]
+   \displaystyle 4x\cdot\frac{5}{x}\amp =\amp 4x\cdot\left(\displaystyle\frac{2}{4x}+1\right),\\[1em]
+   \displaystyle 20\amp =\amp 2+4x,\\[1em]
+   \displaystyle 4x\amp =\amp 18,\\[1em]
+   \displaystyle x\amp =\amp \displaystyle{\frac{9}{2}}.
+   \end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_08.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_08.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-33" ww-id="webwork-33">
+    <static seed="33" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_09.pg">
+      <statement><p>Solve the equation <m>\displaystyle \frac{x}{5x-3}=\frac{3}{1}</m>.</p>
+<p><m>x =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Solution. </alert></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{9}{14}}</m>
+        </p>
+      </answer>
+      <solution><p><me>\begin{array}{rcl}
+   1 x\amp =\amp 3 (5x-3)\\[1em]
+          \amp =\amp 15 x-9,\\[1em]
+   1x-15 x\amp =\amp -9,\\[1em]
+   (1-15)x\amp =\amp -9,\\[1em]
+   x\amp =\amp \displaystyle\frac{-9}{-14}\\[1em]
+   \amp =\amp {\frac{9}{14}}.
+   \end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_09.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_09.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-34" ww-id="webwork-34">
+    <static seed="34" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_10.pg">
+      <statement><p>Solve the equation <m>\displaystyle 6x
+-\frac{1}{2}(5-5x)=\frac{-1}{4}(x+6)</m>.</p>
+<p><m>x =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{4}{35}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_10.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_10.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-35" ww-id="webwork-35">
+    <static seed="35" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_11.pg">
+      <statement><p>Solve the equation <m>\displaystyle 0.5 (g - 9) = 0.7 (g - 3)</m>.</p>
+<p><m>g =</m>
+<fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-12</m>
+        </p>
+      </answer>
+      <solution><p><me>0.5 (g - 9) = 0.7 (g - 3),</me></p>
+<p><me>{  10 \cdot  } 0.5 (g - 9) =  10 \cdot  0.7 (g - 3),</me></p>
+<p><me>5 (g - 9) = 7 (g - 3),</me></p>
+<p><me>5 g-45=7 g-21,</me></p>
+<p><me>g=\frac{45-21}{5-7}=-12.</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_11.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-36" ww-id="webwork-36">
+    <static seed="36" source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_12_new.pg">
+      <statement><p>Solve for <m>k</m>.
+<me>\frac{9}{8} k + \frac{-6}{5} = -8 - \frac{5}{6} k</me></p>
+<p><m>k =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-{\frac{272}{45}}</m>
+        </p>
+      </answer>
+      <solution><p><me>\frac{9}{8}k + \frac{-6}{5} = -8 - \frac{5}{6}k,</me></p>
+<p><me>\frac{9}{8}k + \frac{5}{6}k = -8 - \frac{-6}{5}</me></p>
+<p><me>\begin{array}{ccl}
+k \amp =\amp  \displaystyle\frac{-8 - \frac{-6}{5}}{\frac{9}{8} + \frac{5}{6}}\\[2em]
+  \amp =\amp  \displaystyle\frac{5\cdot8\cdot6\cdot(-8 - \frac{-6}{5})}{5\cdot8\cdot6\cdot(\frac{9}{8} + \frac{5}{6})}\\[2em]
+ \amp =\amp  \displaystyle -{\frac{272}{45}}.
+\end{array}</me></p>
+<p><me/></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_12_new.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_12_new.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-37" ww-id="webwork-37">
+    <static seed="37" source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03b.pg">
+      <statement><p>Solve for <m>x</m>: <m>4(x+2)=2( x+2 ) +5</m></p>
+<p>Answer:  <m>x</m> = <fillin name="AnSwEr0001" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-1.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03b.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03b.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-38" ww-id="webwork-38">
+    <static seed="38" source="local/Library/Rochester/setAlgebra08LinearEqns/srw1_5_14b.pg">
+      <statement><p>Solve the equation for <m>x</m></p>
+<p><me>6 (x- 90457873)+3 = -8 (x - 90457873)-25</me></p>
+<p><m>x =</m> <fillin name="AnSwEr0001" characters="15"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-38767659</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Rochester/setAlgebra08LinearEqns/srw1_5_14b.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Rochester/setAlgebra08LinearEqns/srw1_5_14b.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-39" ww-id="webwork-39">
+    <static seed="39" source="local/PREP_2011_College_Algebra/01_Linear_Equations/areaandperimeterProblem.pg">
+      <statement><p>Find the perimeter and area of a rectangle with Length = 10 ft and Width = 10 ft.</p>
+<p>Perimeter = <fillin name="AnSwEr0001" characters="15"/>   <url href="/webwork2_files/helpFiles/Units.html">units</url></p>
+<p>Area =         <fillin name="AnSwEr0002" characters="15"/>   <url href="/webwork2_files/helpFiles/Units.html">units</url></p>
+<p>Find the perimeter and area of a square with Side = 3 ft.</p>
+<p>Perimeter = <fillin name="AnSwEr0003" characters="15"/> <url href="/webwork2_files/helpFiles/Units.html">units</url></p>
+<p>Area =          <fillin name="AnSwEr0004" characters="15"/> <url href="/webwork2_files/helpFiles/Units.html">units</url></p>
+<p>Find the circumference and area of a circle with Radius = 4 ft. (Round to 2 digits)</p>
+<p>Circumference = <fillin name="AnSwEr0005" characters="15"/>  <url href="/webwork2_files/helpFiles/Units.html">units</url></p>
+<p>Area =                 <fillin name="AnSwEr0006" characters="15"/>  <url href="/webwork2_files/helpFiles/Units.html">units</url></p>
+<p>If the rectangle was a rectangular room in your home and the square was a square room in your home and you were going to carpet the room with the least area at a cost of 5.75 dollars per square foot, how much would you spend on buying the carpet (Round to 2 digits) <fillin name="AnSwEr0007" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>40\ {\rm ft}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>100\ {\rm ft^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>12\ {\rm ft}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9\ {\rm ft^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>25.1327\ {\rm ft}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>50.2654\ {\rm ft^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\$51.75</m>
+        </p>
+      </answer>
+      <solution><p>The perimeter and area of a rectangle are given by</p>
+<p><alert><m>Perimeter = 2L + 2W</m> and <m>Area = LW</m></alert></p>
+<p>The perimeter and area of a square are given by</p>
+<p><alert><m>Perimeter = 4S</m> and <m>Area = S^2</m></alert></p>
+<p>The circumference and area of a circle are given by</p>
+<p><alert><m>Circumference = 2 \pi\ R</m> and <m>Area = \pi\  R^2</m></alert></p>
+<p>To find the total bill for the carpet, use the smallest area between the rectangle and square and multiply that area by the cost per square unit of carpeting.</p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/areaandperimeterProblem.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/areaandperimeterProblem.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-40" ww-id="webwork-40">
+    <static seed="40" source="Library/ASU-topics/setQuadraticFunction/sw3_3_1a.pg">
+      <statement><p>Solve the equation <m>x^2- x - 6  =0</m> by factoring.</p>
+<p>The solution(s) are <fillin name="AnSwEr0001" characters="25"/></p>
+<p><alert>Note:</alert>
+If there is more than one answer, give them as a comma separated
+list.  If there are none, enter <em>NONE</em>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>3, -2</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setQuadraticFunction/sw3_3_1a.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setQuadraticFunction/sw3_3_1a.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-41" ww-id="webwork-41">
+    <static seed="41" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem3.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>361 x^2 = 144</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{12}{19}}, -{\frac{12}{19}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem3.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-42" ww-id="webwork-42">
+    <static seed="42" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem1.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>x^2 = 225</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>15, -15</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem1.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-43" ww-id="webwork-43">
+    <static seed="43" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem2.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>x^2 - 289 = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>17, -17</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem2.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-44" ww-id="webwork-44">
+    <static seed="44" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem4.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>361 - 324 x^2  = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{19}{18}}, -{\frac{19}{18}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem4.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-45" ww-id="webwork-45">
+    <static seed="45" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem5.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>\displaystyle\frac{12}{7} x^2 = \displaystyle\frac{5292}{847}</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{21}{11}}, -{\frac{21}{11}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem5.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-46" ww-id="webwork-46">
+    <static seed="46" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem6.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>\displaystyle\frac{20}{17} x^2 - \displaystyle\frac{180}{272} = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{3}{4}}, -{\frac{3}{4}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem6.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-47" ww-id="webwork-47">
+    <static seed="47" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem7.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>6x^{2}-x = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>0, {\frac{1}{6}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem7.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-48" ww-id="webwork-48">
+    <static seed="48" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem8.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>\displaystyle\frac{13}{4} x  =  \displaystyle\frac{-6}{5} x^2</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>0, -{\frac{65}{24}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem8.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem8.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-49" ww-id="webwork-49">
+    <static seed="49" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem9.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>x^{2}+18x+45 = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>-3, -15</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem9.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem9.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-50" ww-id="webwork-50">
+    <static seed="50" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem10.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>7x^{2}-15x+8 = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>1, {\frac{8}{7}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem10.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem10.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-51" ww-id="webwork-51">
+    <static seed="51" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem11.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>12x^{2}+31x-85 = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{5}{3}}, -{\frac{17}{4}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem11.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-52" ww-id="webwork-52">
+    <static seed="52" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem12.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>\displaystyle 4x^{2} - {\frac{9}{2}}x+\left(-5\right) = 3x^{2} - {\frac{2}{3}}x+\left(-2\right)</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\frac{9}{2}}, -{\frac{2}{3}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem12.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem12.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-53" ww-id="webwork-53">
+    <static seed="53" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem13.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>4x^{2}-15x-11 = 0</m></p>
+<p>Your answer: 
+<fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>4.37812, -0.628123</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem13.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-54" ww-id="webwork-54">
+    <static seed="54" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem14.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>-11x^{2}-3x-8 = 0</m></p>
+<p>Your answer: 
+<fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\rm no\ real\ solutions}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem14.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem14.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-55" ww-id="webwork-55">
+    <static seed="55" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem15.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>x^2 + 9 = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>{\rm no\ real\ solutions}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem15.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem15.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-56" ww-id="webwork-56">
+    <static seed="56" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem16.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>(x + 14)^2 = 36</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>-8, -20</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem16.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem16.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-57" ww-id="webwork-57">
+    <static seed="57" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem17.pg">
+      <statement><p>Find all real solutions of the following equation:</p>
+<p><m>(5x+1)^2 - \displaystyle\frac{64}{9} = 0</m></p>
+<p>Your answer: <fillin name="AnSwEr0001" characters="60"/></p>
+<p><alert> Note: </alert> you have to use fractions, not decimals in your answer.</p>
+<p><alert> Note: </alert> if there are several solutions, enter those separated by commas.</p>
+<p><alert> Note: </alert> if there are no real solutions, enter <em> no real solutions </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>-{\frac{11}{15}}, {\frac{1}{3}}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem17.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem17.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-58" ww-id="webwork-58">
+    <static seed="58" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-1.pg">
+      <statement><p>A rectangular garden is 20 ft longer than it is wide.
+Its area is 2400 <m>\text{ft}^2</m>. What are its dimensions?</p>
+<p>Its width equals <fillin name="AnSwEr0001" characters="20"/> and its length equals <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>40</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>60</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-1.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-59" ww-id="webwork-59">
+    <static seed="59" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-2.pg">
+      <statement><p>A box with a square base and no top is to be made from a square piece of 
+carboard by cutting 5 in. squares from each corner and folding up the sides. 
+The box is to hold 10580 <m>\text{in}^3</m>. How big a piece of cardboard is needed?</p>
+<p>Your answer is: <fillin name="AnSwEr0001" characters="10"/> in. by <fillin name="AnSwEr0002" characters="10"/> in.</p>
+</statement>
+      <answer>
+        <p>
+          <m>56</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>56</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-2.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-60" ww-id="webwork-60">
+    <static seed="60" source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg">
+      <statement><p>The surface area of a cube is <m>136</m> <m>\text{cm}^2</m>.  What is the volume of the cube?</p>
+<p>Note:  Your answer must be a number or a decimal.  It may not contain any arithmetic
+operations.</p>
+<p>The volume of the cube is  <fillin name="AnSwEr0001" characters="10"/> <m>\text{cm}^3</m>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>107.915</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg" domain="http://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg"/>
+  </webwork-reps>
+</webwork-representations>
