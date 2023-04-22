@@ -1,5 +1,5 @@
-## ww2-collegeAlgebra-exers
+## ww2-collegeAlgebra
 
-A compilation (written in PreTeXt) of the homework exerices from the [WeBWorK2's](https://webwork.maa.org/wiki/WeBWorK_Main_Page) [Model College Algebra Course](https://webwork.maa.org/wiki/ModelCourses/CollegeAlgebra).  Best accessed via GitHub Pages at [ww2-collegeAlgebra](htts://justineuro.github.io/ww2-collegeAlgebra).  
+A compilation of the homework exerices from the [WeBWorK2's](https://webwork.maa.org/wiki/WeBWorK_Main_Page) [Model College Algebra Course](https://webwork.maa.org/wiki/ModelCourses/CollegeAlgebra).  Best accessed via GitHub Pages at [ww2-collegeAlgebra](htt;s://justineuro.github.io/ww2-collegeAlgebra).  
 
 The syllabus and Sample pdf files of these homework exercises are available from the [MAA site](https://webwork.maa.org/wiki/ModelCourses/CollegeAlgebra) of this model course.
