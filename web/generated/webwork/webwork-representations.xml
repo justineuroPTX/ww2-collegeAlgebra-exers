@@ -1080,4 +1080,384 @@ operations.</p>
     <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg"/>
   </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-61" ww-id="webwork-61">
+    <static seed="61" source="Library/maCalcDB/setAlgebra11ComplexNumbers/adding.pg">
+      <statement><p>Evaluate the expression <m>(5-6i)+(8-4i)</m> and
+write the result in the form <m>a+ b i</m>.</p>
+<p>The sum is <fillin name="AnSwEr0001" characters="20"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>13-10i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/adding.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/adding.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-62" ww-id="webwork-62">
+    <static seed="62" source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_13.pg">
+      <statement><p>Evaluate the expression <m>(6  +    1 i)+(2  +    8 i)</m> and
+write the result in the form <m>a+ b i</m>.</p>
+<p>The real number <m>a</m> equals <fillin name="AnSwEr0001" characters="15"/></p>
+<p>The real number <m>b</m> equals <fillin name="AnSwEr0002" characters="15"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_13.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-63" ww-id="webwork-63">
+    <static seed="63" source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_17.pg">
+      <statement><p>Evaluate the expression <m>(8  -    5 i)-(-8  +    4 i)</m> and
+write the result in the form <m>a+ b i</m>.</p>
+<p>The real number <m>a</m> equals <fillin name="AnSwEr0001" characters="15"/></p>
+<p>The real number <m>b</m> equals <fillin name="AnSwEr0002" characters="15"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>16</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_17.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_17.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-64" ww-id="webwork-64">
+    <static seed="64" source="Library/maCalcDB/setAlgebra11ComplexNumbers/Subtract.pg">
+      <statement><p>Evaluate the expression <m>(-8-i)-(7-5i)</m> and
+write the result in the form <m>a+ b i</m>.</p>
+<p>The sum is <fillin name="AnSwEr0001" characters="20"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-15+4i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/Subtract.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/Subtract.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-65" ww-id="webwork-65">
+    <static seed="65" source="Library/maCalcDB/setAlgebra11ComplexNumbers/Multiply.pg">
+      <statement><p>Evaluate the expression <m>(-6-6i)(7-8i)</m> and
+write the result in the form <m>a+ b i</m>.</p>
+<p>The product is <fillin name="AnSwEr0001" characters="20"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-90+6i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/Multiply.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/Multiply.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-66" ww-id="webwork-66">
+    <static seed="66" source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_12.pg">
+      <statement><p>Write the following numbers in <m>a\ +\ bi</m> form:</p>
+<p>(a) <m>(-2-4i)(-2+4i)(-5+2i)\ =</m> <fillin name="AnSwEr0001" characters="10"/> <m>+</m> <fillin name="AnSwEr0002" characters="10"/> <m>i</m>,</p>
+<p>(b) <m>((-3-2i)^2 + 5)i\ =</m> <fillin name="AnSwEr0003" characters="10"/> <m>+</m> <fillin name="AnSwEr0004" characters="10"/> <m>i</m>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-100</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>40</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-12</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_12.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_12.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-67" ww-id="webwork-67">
+    <static seed="67" source="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p11.pg">
+      <statement><p>Complete the following equations.  Your answers will be algebraic expressions.</p>
+<p><m>(a+b i)(a-b i)=</m> <fillin name="AnSwEr0001" characters="10"/> <m>+</m></p>
+<p><fillin name="AnSwEr0002" characters="10"/> <m>i</m></p>
+<p><m>(a+b i)^2-(a-b i)^2=</m> <fillin name="AnSwEr0003" characters="10"/> <m>+</m></p>
+<p><fillin name="AnSwEr0004" characters="10"/> <m>i</m></p>
+</statement>
+      <answer>
+        <p>
+          <m>a^{2}+b^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4ab</m>
+        </p>
+      </answer>
+      <solution><p><alert> Solution:</alert>
+The product of a complex number and its conjugate complex equals
+the sum of the squares of the real and imaginary parts.  Of course we
+can also see this directly: <me>(a+bi)(a-bi) = a^2 +abi-abi-b^2i^2 = a^2
++ b^2</me>
+For the second part of the problem, note that <me>(a+bi)^2 = a^2-b^2 + 2abi.</me>
+By replacing <m>b</m> with <m>-b</m> in this equation we obtain
+<me>(a+bi)^2 = a^2-b^2 - 2abi.</me>
+Notice only the imaginary part of the result changes (from positive to negative).
+Hence
+<me>(a+bi)^2 - (a-bi)^2 = 4abi.</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p11.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-68" ww-id="webwork-68">
+    <static seed="68" source="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p10.pg">
+      <statement><p>Complete the following equation.  Your answers will be algebraic expressions.</p>
+<p><m>(a+b i)^3=</m> <fillin name="AnSwEr0001" characters="25"/> <m>+</m></p>
+<p><fillin name="AnSwEr0002" characters="25"/> <m>i</m></p>
+<p>Hint: Think of <m>i</m> as an ordinary variable and then 
+replace <m>i^2</m> with <m>-1</m>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>a^{3}-3ab^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-b^{3}+3a^{2}b</m>
+        </p>
+      </answer>
+      <solution><p><alert> Solution:</alert>
+We use the result of the preceding problem and obtain:
+<me>\begin{array}{rcl}
+(a+bi)^3 \amp =\amp  (a+bi)^2 \times (a+bi) \\
+\amp =\amp  \left(\left(a^2-b^2\right) + 2abi\right)\times (a+bi) \\
+\amp =\amp  a\left(a^2-b^2\right) + 2a^2bi +b \left(a^2-b^2\right)i+2ab^2i^2 \\
+\amp =\amp  a^3-ab^2 -2ab^2 +\left(2a^2b +a^2b -b^3\right)i \\
+\amp =\amp  \left(a^3-3ab^2\right) +\left(3a^2b -b^3\right)i \\
+\end{array}</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p10.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p10.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-69" ww-id="webwork-69">
+    <static seed="69" source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_1.pg">
+      <statement><p>For some practice working with complex numbers:</p>
+<p>Calculate</p>
+<p><m>(3-6i ) + (3-7i)</m> = <fillin name="AnSwEr0001" characters="20"/>,</p>
+<p><m>(3-6i ) - (3-7i)</m> = <fillin name="AnSwEr0002" characters="20"/>,</p>
+<p><m>(3-6i )(3-7i)</m> = <fillin name="AnSwEr0003" characters="20"/>.</p>
+<p>The complex conjugate of <m>(1+i)</m> is <m>(1-i)</m>.  In general to obtain the complex conjugate reverse the sign of the
+imaginary part.  (Geometrically this corresponds to finding the "mirror image" point in the complex plane by
+reflecting through the <m>x</m>-axis.  The complex conjugate of a complex number <m>z</m> is written with a bar over it: 
+<m>\overline{z}</m> and read as "z bar".</p>
+<p>Notice that if <m>z = a +ib</m>, then</p>
+<p><m>(z)\left( \overline z\right) = |z|^2 = a^2+b^2</m></p>
+<p>which is also the square of the distance of the point <m>z</m> from the origin. (Plot <m>z</m> as a point in the "complex" plane in order to see this.)</p>
+<p>If <m>z = 3-6i</m> then <m>\overline z</m> = <fillin name="AnSwEr0004" characters="20"/> and <m>|z|</m> = <fillin name="AnSwEr0005" characters="20"/>.</p>
+<p>You can use this to simplify complex fractions.  Multiply the numerator and denominator by the complex conjugate of the denominator to make the denominator real.</p>
+<p><m>\displaystyle \frac{3-6i}{3-7i}  =</m> <fillin name="AnSwEr0006" characters="10"/> <m>+ i</m> <fillin name="AnSwEr0007" characters="10"/>.</p>
+<p>Two convenient functions to know about pick out the real and imaginary parts of a complex number.</p>
+<p><m>Re(a +ib) = a</m> (the real part (coordinate) of the complex number), and</p>
+<p><m>Im(a+ib) = b</m> (the imaginary part (coordinate) of the complex number.  <m>Re</m> and <m>Im</m> are linear functions --
+now that you know about linear behavior you may start  noticing it often.</p>
+</statement>
+      <answer>
+        <p>6-13i</p>
+      </answer>
+      <answer>
+        <p>i</p>
+      </answer>
+      <answer>
+        <p>-33-39i</p>
+      </answer>
+      <answer>
+        <p>3+6i</p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.70820393249937</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0.879310344827586</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0.0517241379310345</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-70" ww-id="webwork-70">
+    <static seed="70" source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/Divide.pg">
+      <statement><p>Evaluate the expression <me>\frac{5+5i}{8+5i}</me> and
+write the result in the form <m>a+ b i</m>.</p>
+<p>The quotient is <fillin name="AnSwEr0001" characters="10"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>0.730337+0.168539i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/Divide.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/Divide.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-71" ww-id="webwork-71">
+    <static seed="71" source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_11.pg">
+      <statement><p>Write the following numbers in <m>a\ +\ bi</m> form:</p>
+<p>(a) <m>\displaystyle \left( \frac{2+i}{5i\ -\ (-1-2i)} \right)^2\ =</m> <fillin name="AnSwEr0001" characters="10"/> <m>+</m> <fillin name="AnSwEr0002" characters="10"/> <m>i</m>,</p>
+<p>(b) <m>(i)^2( -2+i )^2\ =</m> <fillin name="AnSwEr0003" characters="10"/> <m>+</m> <fillin name="AnSwEr0004" characters="10"/> <m>i</m>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.0352</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-0.0936</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_11.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-72" ww-id="webwork-72">
+    <static seed="72" source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_13.pg">
+      <statement><p>Calculate the following:</p>
+<p>(a) <m>i^3\ =</m> <fillin name="AnSwEr0001" characters="15"/>,</p>
+<p>(b) <m>i^4\ =</m> <fillin name="AnSwEr0002" characters="15"/>,</p>
+<p>(c) <m>i^5\ =</m> <fillin name="AnSwEr0003" characters="15"/>,</p>
+<p>(d) <m>i^6\ =</m> <fillin name="AnSwEr0004" characters="15"/>,</p>
+<p>(e) <m>i^{26}\ =</m> <fillin name="AnSwEr0005" characters="15"/>,</p>
+<p>(f) <m>i^{0}\ =</m> <fillin name="AnSwEr0006" characters="15"/>,</p>
+<p>(g) <m>i^{-1}\ =</m> <fillin name="AnSwEr0007" characters="15"/>,</p>
+<p>(h) <m>i^{-2}\ =</m> <fillin name="AnSwEr0008" characters="15"/>,</p>
+<p>(i) <m>i^{-3}\ =</m> <fillin name="AnSwEr0009" characters="15"/>,</p>
+<p>(j) <m>i^{-37}\ =</m> <fillin name="AnSwEr0010" characters="15"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-i</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>i</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-i</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>i</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_13.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-73" ww-id="webwork-73">
+    <static seed="73" source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg">
+      <statement><p>Enter the complex coordinates of the following points:</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="33.3333333333333%" pi:generated="webwork/images/webwork-73-image-1.png"/>
+<p>A: <fillin name="AnSwEr0001" characters="10"/>,</p>
+<p>B: <fillin name="AnSwEr0002" characters="10"/>,</p>
+<p>C: <fillin name="AnSwEr0003" characters="10"/>.</p>
+</statement>
+      <answer>
+        <p>7+6i</p>
+      </answer>
+      <answer>
+        <p>i</p>
+      </answer>
+      <answer>
+        <p>-6-7i</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg"/>
+  </webwork-reps>
 </webwork-representations>

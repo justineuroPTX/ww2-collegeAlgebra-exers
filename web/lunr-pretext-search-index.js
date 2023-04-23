@@ -586,6 +586,132 @@ var ptx_lunr_docs = [
   "body": "local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem-app-3.pg   The surface area of a cube is  . What is the volume of the cube?  Note: Your answer must be a number or a decimal. It may not contain any arithmetic operations.  The volume of the cube is  .           "
 },
 {
+  "id": "sethw-04a-review-of-complex-numbers",
+  "level": "1",
+  "url": "sethw-04a-review-of-complex-numbers.html",
+  "type": "Chapter",
+  "number": "5",
+  "title": "04a-review-of-complex-numbers",
+  "body": " 04a-review-of-complex-numbers   Library\/maCalcDB\/setAlgebra11ComplexNumbers\/adding.pg   Evaluate the expression and write the result in the form .  The sum is .            local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_13.pg   Evaluate the expression and write the result in the form .  The real number equals  The real number equals                 local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_17.pg   Evaluate the expression and write the result in the form .  The real number equals  The real number equals                 Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Subtract.pg   Evaluate the expression and write the result in the form .  The sum is .            Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Multiply.pg   Evaluate the expression and write the result in the form .  The product is .            Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_12.pg   Write the following numbers in form:  (a)     ,  (b)     .                           local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p11.pg   Complete the following equations. Your answers will be algebraic expressions.                                 Solution: The product of a complex number and its conjugate complex equals the sum of the squares of the real and imaginary parts. Of course we can also see this directly: For the second part of the problem, note that By replacing with in this equation we obtain Notice only the imaginary part of the result changes (from positive to negative). Hence       local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p10.pg   Complete the following equation. Your answers will be algebraic expressions.       Hint: Think of as an ordinary variable and then replace with .             Solution: We use the result of the preceding problem and obtain:       Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_1.pg   For some practice working with complex numbers:  Calculate  = ,  = ,  = .  The complex conjugate of is . In general to obtain the complex conjugate reverse the sign of the imaginary part. (Geometrically this corresponds to finding the \"mirror image\" point in the complex plane by reflecting through the -axis. The complex conjugate of a complex number is written with a bar over it: and read as \"z bar\".  Notice that if , then   which is also the square of the distance of the point from the origin. (Plot as a point in the \"complex\" plane in order to see this.)  If then = and = .  You can use this to simplify complex fractions. Multiply the numerator and denominator by the complex conjugate of the denominator to make the denominator real.     .  Two convenient functions to know about pick out the real and imaginary parts of a complex number.  (the real part (coordinate) of the complex number), and  (the imaginary part (coordinate) of the complex number. and are linear functions -- now that you know about linear behavior you may start noticing it often.    6-13i    i    -33-39i    3+6i                      local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Divide.pg   Evaluate the expression and write the result in the form .  The quotient is .            Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_11.pg   Write the following numbers in form:  (a)     ,  (b)     .                           Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_13.pg   Calculate the following:  (a)  ,  (b)  ,  (c)  ,  (d)  ,  (e)  ,  (f)  ,  (g)  ,  (h)  ,  (i)  ,  (j)  .                                                         Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_6.pg   Enter the complex coordinates of the following points:   A: ,  B: ,  C: .    7+6i    i    -6-7i        "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-adding",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-adding",
+  "type": "Exercise",
+  "number": "5.1",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/adding.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/adding.pg   Evaluate the expression and write the result in the form .  The sum is .           "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_13",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_13",
+  "type": "Exercise",
+  "number": "5.2",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_13.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_13.pg   Evaluate the expression and write the result in the form .  The real number equals  The real number equals                "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_17",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_17",
+  "type": "Exercise",
+  "number": "5.3",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_17.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_17.pg   Evaluate the expression and write the result in the form .  The real number equals  The real number equals                "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Subtract",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Subtract",
+  "type": "Exercise",
+  "number": "5.4",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Subtract.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Subtract.pg   Evaluate the expression and write the result in the form .  The sum is .           "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Multiply",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Multiply",
+  "type": "Exercise",
+  "number": "5.5",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Multiply.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Multiply.pg   Evaluate the expression and write the result in the form .  The product is .           "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_12",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_12",
+  "type": "Exercise",
+  "number": "5.6",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_12.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_12.pg   Write the following numbers in form:  (a)     ,  (b)     .                          "
+},
+{
+  "id": "ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p11",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p11",
+  "type": "Exercise",
+  "number": "5.7",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p11.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p11.pg   Complete the following equations. Your answers will be algebraic expressions.                                 Solution: The product of a complex number and its conjugate complex equals the sum of the squares of the real and imaginary parts. Of course we can also see this directly: For the second part of the problem, note that By replacing with in this equation we obtain Notice only the imaginary part of the result changes (from positive to negative). Hence      "
+},
+{
+  "id": "ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p10",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p10",
+  "type": "Exercise",
+  "number": "5.8",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p10.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p10.pg   Complete the following equation. Your answers will be algebraic expressions.       Hint: Think of as an ordinary variable and then replace with .             Solution: We use the result of the preceding problem and obtain:      "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_1",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_1",
+  "type": "Exercise",
+  "number": "5.9",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_1.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_1.pg   For some practice working with complex numbers:  Calculate  = ,  = ,  = .  The complex conjugate of is . In general to obtain the complex conjugate reverse the sign of the imaginary part. (Geometrically this corresponds to finding the \"mirror image\" point in the complex plane by reflecting through the -axis. The complex conjugate of a complex number is written with a bar over it: and read as \"z bar\".  Notice that if , then   which is also the square of the distance of the point from the origin. (Plot as a point in the \"complex\" plane in order to see this.)  If then = and = .  You can use this to simplify complex fractions. Multiply the numerator and denominator by the complex conjugate of the denominator to make the denominator real.     .  Two convenient functions to know about pick out the real and imaginary parts of a complex number.  (the real part (coordinate) of the complex number), and  (the imaginary part (coordinate) of the complex number. and are linear functions -- now that you know about linear behavior you may start noticing it often.    6-13i    i    -33-39i    3+6i                     "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Divide",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Divide",
+  "type": "Exercise",
+  "number": "5.10",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Divide.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Divide.pg   Evaluate the expression and write the result in the form .  The quotient is .           "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_11",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_11",
+  "type": "Exercise",
+  "number": "5.11",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_11.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_11.pg   Write the following numbers in form:  (a)     ,  (b)     .                          "
+},
+{
+  "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_13",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_13",
+  "type": "Exercise",
+  "number": "5.12",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_13.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_13.pg   Calculate the following:  (a)  ,  (b)  ,  (c)  ,  (d)  ,  (e)  ,  (f)  ,  (g)  ,  (h)  ,  (i)  ,  (j)  .                                                        "
+},
+{
+  "id": "ch5-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_6",
+  "level": "2",
+  "url": "exercises-5.html#ch5-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_6",
+  "type": "Exercise",
+  "number": "5.13",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_6.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_6.pg   Enter the complex coordinates of the following points:   A: ,  B: ,  C: .    7+6i    i    -6-7i      "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
