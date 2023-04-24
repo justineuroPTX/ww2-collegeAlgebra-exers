@@ -712,6 +712,465 @@ var ptx_lunr_docs = [
   "body": "Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_6.pg   Enter the complex coordinates of the following points:   A: ,  B: ,  C: .    7+6i    i    -6-7i      "
 },
 {
+  "id": "sethw-04b-quadratic-equations-in-complex-numbers",
+  "level": "1",
+  "url": "sethw-04b-quadratic-equations-in-complex-numbers.html",
+  "type": "Chapter",
+  "number": "6",
+  "title": "04b-quadratic-equations-in-complex-numbers",
+  "body": " 04b-quadratic-equations-in-complex-numbers   local\/uw-stout\/math120-sulvn-1-3\/problem6.pg   Solve the following equation: Feel free to use complex numbers in the form if necessary  Your solution(s) are .  If there are several solutions, enter those separated by commas.            local\/uw-stout\/math120-sulvn-1-3\/problem7.pg   Solve the following equation: Feel free to use complex numbers in the form if necessary  Your solution(s) are .  If there are several solutions, enter those separated by commas.            local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-1.pg   Solve the following equation:   The roots are:   Notes:  (i) feel free to use complex numbers if needed  (ii) use fractions in your answer, not decimals            local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-2.pg   Solve the following equation:   The solutions are   Notes:  (i) feel free to use complex numbers if needed  (ii) use fractions in your answer, not decimals            Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_33.pg   Solve the following equations for , find all solutions :  (1)  Place all answers in the following blank, separated by commas:  (2)  Place all answers in the following blank,separated by commas:  (3)  Place all answers in the following blank, separated by commas:    No correct answer specified    No correct answer specified    No correct answer specified        "
+},
+{
+  "id": "ch6-local-uw-stout-math120-sulvn-1-3-problem6",
+  "level": "2",
+  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-problem6",
+  "type": "Exercise",
+  "number": "6.1",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/problem6.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-1-3\/problem6.pg   Solve the following equation: Feel free to use complex numbers in the form if necessary  Your solution(s) are .  If there are several solutions, enter those separated by commas.           "
+},
+{
+  "id": "ch6-local-uw-stout-math120-sulvn-1-3-problem7",
+  "level": "2",
+  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-problem7",
+  "type": "Exercise",
+  "number": "6.2",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/problem7.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-1-3\/problem7.pg   Solve the following equation: Feel free to use complex numbers in the form if necessary  Your solution(s) are .  If there are several solutions, enter those separated by commas.           "
+},
+{
+  "id": "ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-1",
+  "level": "2",
+  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-1",
+  "type": "Exercise",
+  "number": "6.3",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-1.pg   Solve the following equation:   The roots are:   Notes:  (i) feel free to use complex numbers if needed  (ii) use fractions in your answer, not decimals           "
+},
+{
+  "id": "ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-2",
+  "level": "2",
+  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-2",
+  "type": "Exercise",
+  "number": "6.4",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-2.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-2.pg   Solve the following equation:   The solutions are   Notes:  (i) feel free to use complex numbers if needed  (ii) use fractions in your answer, not decimals           "
+},
+{
+  "id": "ch6-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_33",
+  "level": "2",
+  "url": "exercises-6.html#ch6-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_33",
+  "type": "Exercise",
+  "number": "6.5",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_33.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_33.pg   Solve the following equations for , find all solutions :  (1)  Place all answers in the following blank, separated by commas:  (2)  Place all answers in the following blank,separated by commas:  (3)  Place all answers in the following blank, separated by commas:    No correct answer specified    No correct answer specified    No correct answer specified      "
+},
+{
+  "id": "sethw-05a-rational-eqns-equiv-to-quadratic",
+  "level": "1",
+  "url": "sethw-05a-rational-eqns-equiv-to-quadratic.html",
+  "type": "Chapter",
+  "number": "7",
+  "title": "05a-rational-eqns-equiv-to-quadratic",
+  "body": " 05a-rational-eqns-equiv-to-quadratic   local\/Library\/ASU-topics\/setSolveEquations\/zhu4.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).            local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p12.pg   Solve for :  Please enter the smaller answer first.  Answer: = ,                 local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_22.pg   Solve the equation for               local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_1.pg   Solve the equation  Hint: There is only one non-extraneous root.              Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_59.pg   Solve the equation .  The solutions are  and   where .                  "
+},
+{
+  "id": "ch7-Library-ASU-topics-setSolveEquations-zhu4",
+  "level": "2",
+  "url": "exercises-7.html#ch7-Library-ASU-topics-setSolveEquations-zhu4",
+  "type": "Exercise",
+  "number": "7.1",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu4.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setSolveEquations\/zhu4.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).           "
+},
+{
+  "id": "ch7-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p12",
+  "level": "2",
+  "url": "exercises-7.html#ch7-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p12",
+  "type": "Exercise",
+  "number": "7.2",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p12.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p12.pg   Solve for :  Please enter the smaller answer first.  Answer: = ,                "
+},
+{
+  "id": "ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_22",
+  "level": "2",
+  "url": "exercises-7.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_22",
+  "type": "Exercise",
+  "number": "7.3",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_22.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_22.pg   Solve the equation for              "
+},
+{
+  "id": "ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_1",
+  "level": "2",
+  "url": "exercises-7.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_1",
+  "type": "Exercise",
+  "number": "7.4",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_1.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_1.pg   Solve the equation  Hint: There is only one non-extraneous root.             "
+},
+{
+  "id": "ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_59",
+  "level": "2",
+  "url": "exercises-7.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_59",
+  "type": "Exercise",
+  "number": "7.5",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_59.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_59.pg   Solve the equation .  The solutions are  and   where .                "
+},
+{
+  "id": "sethw-05b-radical-equations",
+  "level": "1",
+  "url": "sethw-05b-radical-equations.html",
+  "type": "Chapter",
+  "number": "8",
+  "title": "05b-radical-equations",
+  "body": " 05b-radical-equations   Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg   Solve for the only possible solution.    .  Does your solution satisfy the equation?   ?    Yes    No              Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveDualSqrt.pg   Solve for the only possible solution. Give your answer to the nearest thousandth.    .  Does your solution satisfy the equation? (yes or no)         yes       Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_36.pg   Solve the equation .  The only solution is  .            local\/Library\/ASU-topics\/setSolveEquations\/zhu7.pg   Solve the following equation:   Answer:            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg   Solve the equation by factoring.  The only solution is  .            local\/Library\/ASU-topics\/setSolveEquations\/zhu8.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).            local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg   Solve the equation   .            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/equationW2radicals.pg   Solve for :   The only possible root is  . It is a(n) root. (Fill in the second blank with REAL or EXTRANEOUS)         EXTRANEOUS        "
+},
+{
+  "id": "ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveSqrt",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveSqrt",
+  "type": "Exercise",
+  "number": "8.1",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg   Solve for the only possible solution.    .  Does your solution satisfy the equation?   ?    Yes    No             "
+},
+{
+  "id": "ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveDualSqrt",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveDualSqrt",
+  "type": "Exercise",
+  "number": "8.2",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveDualSqrt.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveDualSqrt.pg   Solve for the only possible solution. Give your answer to the nearest thousandth.    .  Does your solution satisfy the equation? (yes or no)         yes      "
+},
+{
+  "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_36",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_36",
+  "type": "Exercise",
+  "number": "8.3",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_36.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_36.pg   Solve the equation .  The only solution is  .           "
+},
+{
+  "id": "ch8-Library-ASU-topics-setSolveEquations-zhu7",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-ASU-topics-setSolveEquations-zhu7",
+  "type": "Exercise",
+  "number": "8.4",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu7.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setSolveEquations\/zhu7.pg   Solve the following equation:   Answer:           "
+},
+{
+  "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
+  "type": "Exercise",
+  "number": "8.5",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg   Solve the equation by factoring.  The only solution is  .           "
+},
+{
+  "id": "ch8-Library-ASU-topics-setSolveEquations-zhu8",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-ASU-topics-setSolveEquations-zhu8",
+  "type": "Exercise",
+  "number": "8.6",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu8.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setSolveEquations\/zhu8.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).           "
+},
+{
+  "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
+  "type": "Exercise",
+  "number": "8.7",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg   Solve the equation   .           "
+},
+{
+  "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-equationW2radicals",
+  "level": "2",
+  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-equationW2radicals",
+  "type": "Exercise",
+  "number": "8.8",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/equationW2radicals.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/equationW2radicals.pg   Solve for :   The only possible root is  . It is a(n) root. (Fill in the second blank with REAL or EXTRANEOUS)         EXTRANEOUS      "
+},
+{
+  "id": "sethw-05c-other-quadratic-in-form-equations",
+  "level": "1",
+  "url": "sethw-05c-other-quadratic-in-form-equations.html",
+  "type": "Chapter",
+  "number": "9",
+  "title": "05c-other-quadratic-in-form-equations",
+  "body": " 05c-other-quadratic-in-form-equations   Library\/ASU-topics\/setSolveEquations\/zhu6.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).            local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p13.pg   Solve for :  Please enter your answers in the increasing order.  Answer: = , , ,                           Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg   Solve the equation by factoring.  The only solution is  .            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/quadWfractions.pg   Solve for :   The smaller solution is .  The larger solution is .                  "
+},
+{
+  "id": "ch9-Library-ASU-topics-setSolveEquations-zhu6",
+  "level": "2",
+  "url": "exercises-9.html#ch9-Library-ASU-topics-setSolveEquations-zhu6",
+  "type": "Exercise",
+  "number": "9.1",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setSolveEquations\/zhu6.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setSolveEquations\/zhu6.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).           "
+},
+{
+  "id": "ch9-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p13",
+  "level": "2",
+  "url": "exercises-9.html#ch9-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p13",
+  "type": "Exercise",
+  "number": "9.2",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p13.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p13.pg   Solve for :  Please enter your answers in the increasing order.  Answer: = , , ,                          "
+},
+{
+  "id": "ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
+  "level": "2",
+  "url": "exercises-9.html#ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
+  "type": "Exercise",
+  "number": "9.3",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg   Solve the equation by factoring.  The only solution is  .           "
+},
+{
+  "id": "ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-quadWfractions",
+  "level": "2",
+  "url": "exercises-9.html#ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-quadWfractions",
+  "type": "Exercise",
+  "number": "9.4",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/quadWfractions.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/quadWfractions.pg   Solve for :   The smaller solution is .  The larger solution is .                "
+},
+{
+  "id": "sethw-05d-factorable-equations-misc-equations",
+  "level": "1",
+  "url": "sethw-05d-factorable-equations-misc-equations.html",
+  "type": "Chapter",
+  "number": "10",
+  "title": "05d-factorable-equations-misc-equations",
+  "body": " 05d-factorable-equations-misc-equations   local\/Library\/ASU-topics\/setSolveEquations\/zhu2.pg   Find all real numbers which satisfy the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2). Do not list individual values of more than once.            local\/Library\/ASU-topics\/setSolveEquations\/zhu1.pg   Find all real numbers which satisfy the equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2). Do not list individual values of more than once.            local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p10.pg   Solve for :  Instructions: enter your answers in the increasing order  Answer: = , ,                      local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg   Solve the equation   .            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_61.pg   The equation has three real solutions , , and where .   ,   ,   .                       "
+},
+{
+  "id": "ch10-Library-ASU-topics-setSolveEquations-zhu2",
+  "level": "2",
+  "url": "exercises-10.html#ch10-Library-ASU-topics-setSolveEquations-zhu2",
+  "type": "Exercise",
+  "number": "10.1",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu2.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setSolveEquations\/zhu2.pg   Find all real numbers which satisfy the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2). Do not list individual values of more than once.           "
+},
+{
+  "id": "ch10-Library-ASU-topics-setSolveEquations-zhu1",
+  "level": "2",
+  "url": "exercises-10.html#ch10-Library-ASU-topics-setSolveEquations-zhu1",
+  "type": "Exercise",
+  "number": "10.2",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu1.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setSolveEquations\/zhu1.pg   Find all real numbers which satisfy the equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2). Do not list individual values of more than once.           "
+},
+{
+  "id": "ch10-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p10",
+  "level": "2",
+  "url": "exercises-10.html#ch10-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p10",
+  "type": "Exercise",
+  "number": "10.3",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p10.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p10.pg   Solve for :  Instructions: enter your answers in the increasing order  Answer: = , ,                     "
+},
+{
+  "id": "ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
+  "level": "2",
+  "url": "exercises-10.html#ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
+  "type": "Exercise",
+  "number": "10.4",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg   Solve the equation   .           "
+},
+{
+  "id": "ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_61",
+  "level": "2",
+  "url": "exercises-10.html#ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_61",
+  "type": "Exercise",
+  "number": "10.5",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_61.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_61.pg   The equation has three real solutions , , and where .   ,   ,   .                     "
+},
+{
+  "id": "sethw-06-Linear-Inequalities",
+  "level": "1",
+  "url": "sethw-06-Linear-Inequalities.html",
+  "type": "Chapter",
+  "number": "11",
+  "title": "06-Linear-Inequalities",
+  "body": " 06-Linear-Inequalities   Library\/Union\/setAlgebraInequalities\/srw1_7_13.pg   Express the following inequality using interval notation. Answer:            Library\/FortLewis\/Algebra\/3-2-Solving-inequalities\/MCH1-3-2-14-Solving-inequalities.pg   Solve the inequality . Enter your answer using inequality notation.            local\/Library\/maCalcDB\/setAlgebra13Inequalities\/ur_ab_7_1.pg   Consider the inequality  The solution of this inequality consists one or more of the following intervals: and  Find   For each interval, answer YES or NO to whether the interval is included in the solution.             no    yes       Library\/ASU-topics\/setInequalities\/zhu23.pg   Express the following inequality using interval notation. Answer:            local\/Library\/ASU-topics\/setInequalities\/zhu27.pg   Solve the following inequality. Write the answer in interval notation. Note: If the answer includes more than one interval write the intervals separated by the \"union\" symbol, U. If needed enter as infinity and as -infinity .  Answer:            local\/Library\/ASU-topics\/setInequalities\/p13.pg   Solve the following inequality. Write the answer in interval notation.  Note: If the answer includes more than one interval write the intervals separated by the \"union\" symbol, U. If needed enter as infinity and as -infinity .   Answer:             "
+},
+{
+  "id": "ch11-Library-Union-setAlgebraInequalities-srw1_7_13",
+  "level": "2",
+  "url": "exercises-11.html#ch11-Library-Union-setAlgebraInequalities-srw1_7_13",
+  "type": "Exercise",
+  "number": "11.1",
+  "title": "<em class=\"alert\">Library\/Union\/setAlgebraInequalities\/srw1_7_13.pg<\/em>.",
+  "body": "Library\/Union\/setAlgebraInequalities\/srw1_7_13.pg   Express the following inequality using interval notation. Answer:           "
+},
+{
+  "id": "ch11-Library-FortLewis-Algebra-3-2-Solving-inequalities-MCH1-3-2-14-Solving-inequalities",
+  "level": "2",
+  "url": "exercises-11.html#ch11-Library-FortLewis-Algebra-3-2-Solving-inequalities-MCH1-3-2-14-Solving-inequalities",
+  "type": "Exercise",
+  "number": "11.2",
+  "title": "<em class=\"alert\">Library\/FortLewis\/Algebra\/3-2-Solving-inequalities\/MCH1-3-2-14-Solving-inequalities.pg<\/em>.",
+  "body": "Library\/FortLewis\/Algebra\/3-2-Solving-inequalities\/MCH1-3-2-14-Solving-inequalities.pg   Solve the inequality . Enter your answer using inequality notation.           "
+},
+{
+  "id": "ch11-Library-maCalcDB-setAlgebra13Inequalities-ur_ab_7_1",
+  "level": "2",
+  "url": "exercises-11.html#ch11-Library-maCalcDB-setAlgebra13Inequalities-ur_ab_7_1",
+  "type": "Exercise",
+  "number": "11.3",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra13Inequalities\/ur_ab_7_1.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra13Inequalities\/ur_ab_7_1.pg   Consider the inequality  The solution of this inequality consists one or more of the following intervals: and  Find   For each interval, answer YES or NO to whether the interval is included in the solution.             no    yes      "
+},
+{
+  "id": "ch11-Library-ASU-topics-setInequalities-zhu23",
+  "level": "2",
+  "url": "exercises-11.html#ch11-Library-ASU-topics-setInequalities-zhu23",
+  "type": "Exercise",
+  "number": "11.4",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setInequalities\/zhu23.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setInequalities\/zhu23.pg   Express the following inequality using interval notation. Answer:           "
+},
+{
+  "id": "ch11-Library-ASU-topics-setInequalities-zhu27",
+  "level": "2",
+  "url": "exercises-11.html#ch11-Library-ASU-topics-setInequalities-zhu27",
+  "type": "Exercise",
+  "number": "11.5",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setInequalities\/zhu27.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setInequalities\/zhu27.pg   Solve the following inequality. Write the answer in interval notation. Note: If the answer includes more than one interval write the intervals separated by the \"union\" symbol, U. If needed enter as infinity and as -infinity .  Answer:           "
+},
+{
+  "id": "ch11-Library-ASU-topics-setInequalities-p13",
+  "level": "2",
+  "url": "exercises-11.html#ch11-Library-ASU-topics-setInequalities-p13",
+  "type": "Exercise",
+  "number": "11.6",
+  "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setInequalities\/p13.pg<\/em>.",
+  "body": "local\/Library\/ASU-topics\/setInequalities\/p13.pg   Solve the following inequality. Write the answer in interval notation.  Note: If the answer includes more than one interval write the intervals separated by the \"union\" symbol, U. If needed enter as infinity and as -infinity .   Answer:           "
+},
+{
+  "id": "sethw-07a-absolute-value-equations",
+  "level": "1",
+  "url": "sethw-07a-absolute-value-equations.html",
+  "type": "Chapter",
+  "number": "12",
+  "title": "07a-absolute-value-equations",
+  "body": " 07a-absolute-value-equations          local\/Library\/Union\/setAlgebraAbsoluteValue\/srw1_8_1.pg   Match the statements in the lefthand column with their equivalent statements in the righthand column.    Error: alt_print_q: Unknown displayMode: PTX.                           "
+},
+{
+  "id": "ch12-local-Library-Union-setAlgebraAbsoluteValue-srw1_8_1",
+  "level": "2",
+  "url": "exercises-12.html#ch12-local-Library-Union-setAlgebraAbsoluteValue-srw1_8_1",
+  "type": "Exercise",
+  "number": "12.1",
+  "title": "<em class=\"alert\">local\/Library\/Union\/setAlgebraAbsoluteValue\/srw1_8_1.pg<\/em>.",
+  "body": "local\/Library\/Union\/setAlgebraAbsoluteValue\/srw1_8_1.pg   Match the statements in the lefthand column with their equivalent statements in the righthand column.    Error: alt_print_q: Unknown displayMode: PTX.                         "
+},
+{
+  "id": "sethw-07b-absolute-value-inequalities",
+  "level": "1",
+  "url": "sethw-07b-absolute-value-inequalities.html",
+  "type": "Chapter",
+  "number": "13",
+  "title": "07b-absolute-value-inequalities",
+  "body": " 07b-absolute-value-inequalities   Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_20_AbsValIneq.pg   Solve:  Answer:              Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_22_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_30_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_26_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_16_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_25_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_28_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_23_AbsValIneq.pg   Solve:  Answer:            Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_18_AbsValIneq.pg   Solve:  Answer:             "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_20_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_20_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.1",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_20_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_20_AbsValIneq.pg   Solve:  Answer:             "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_22_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_22_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.2",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_22_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_22_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_30_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_30_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.3",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_30_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_30_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_26_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_26_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.4",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_26_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_26_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_16_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_16_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.5",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_16_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_16_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_25_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_25_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.6",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_25_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_25_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_28_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_28_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.7",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_28_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_28_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_23_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_23_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.8",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_23_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_23_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
+  "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_18_AbsValIneq",
+  "level": "2",
+  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_18_AbsValIneq",
+  "type": "Exercise",
+  "number": "13.9",
+  "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_18_AbsValIneq.pg<\/em>.",
+  "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_18_AbsValIneq.pg   Solve:  Answer:           "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",

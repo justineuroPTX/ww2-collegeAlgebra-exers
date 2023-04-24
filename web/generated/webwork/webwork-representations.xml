@@ -1460,4 +1460,778 @@ write the result in the form <m>a+ b i</m>.</p>
     <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg"/>
   </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-74" ww-id="webwork-74">
+    <static seed="74" source="local/uw-stout/math120-sulvn-1-3/problem6.pg">
+      <statement><p>Solve the following equation: <me>x^2 + 9 = 0</me>
+Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
+<p>Your solution(s) are <fillin name="AnSwEr0001" characters="40"/>.</p>
+<p>If there are several solutions, enter those separated by commas.</p>
+</statement>
+      <answer>
+        <p>
+          <m>3i, -3i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/problem6.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-1-3/problem6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-75" ww-id="webwork-75">
+    <static seed="75" source="local/uw-stout/math120-sulvn-1-3/problem7.pg">
+      <statement><p>Solve the following equation: <me>x^{2}+8x+97 = 0</me>
+Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
+<p>Your solution(s) are <fillin name="AnSwEr0001" characters="40"/>.</p>
+<p>If there are several solutions, enter those separated by commas.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-4-9i, -4+9i</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/problem7.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-1-3/problem7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-76" ww-id="webwork-76">
+    <static seed="76" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-1.pg">
+      <statement><p>Solve the following equation:</p>
+<p><m>x^2  - 8 x + 32 = 0</m></p>
+<p>The roots are: <m>x =</m>
+<fillin name="AnSwEr0001" characters="HASH(0x5565df132d88)"/></p>
+<p><alert> Notes: </alert></p>
+<p>(i) feel free to use complex numbers if needed</p>
+<p>(ii) use fractions in your answer, not decimals</p>
+</statement>
+      <answer>
+        <p>
+          <m>4+i\sqrt{16}, 4-i\sqrt{16}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-77" ww-id="webwork-77">
+    <static seed="77" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg">
+      <statement><p>Solve the following equation:</p>
+<p><m>81 x^2  - 36 x + 293 = 0</m></p>
+<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x5565de8fb7a0)"/></p>
+<p><alert> Notes: </alert></p>
+<p>(i) feel free to use complex numbers if needed</p>
+<p>(ii) use fractions in your answer, not decimals</p>
+</statement>
+      <answer>
+        <p>
+          <m>\frac{2}{9}+i\frac{17}{9}, \frac{2}{9}-i\frac{17}{9}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-78" ww-id="webwork-78">
+    <static seed="78" source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_33.pg">
+      <statement><p>Solve the following equations for <m>z</m>, find all solutions :</p>
+<p>(1) <m>4 z^2\ +\ z\ +\ 5\ =\ 0</m></p>
+<p>Place all answers in the following blank, separated by commas:</p>
+<p><fillin name="AnSwEr0001" characters="80"/></p>
+<p>(2) <m>z^2\ -\ (3\ -\ 2i)z\ +\ 1 -\ 3i\ =\ 0</m></p>
+<p>Place all answers in the following blank,separated by commas:</p>
+<p><fillin name="AnSwEr0002" characters="80"/></p>
+<p>(3) <m>z^2\ -\ 2z\ +\ i\ =\ 0</m></p>
+<p>Place all answers in the following blank, separated by commas:</p>
+<p><fillin name="AnSwEr0003" characters="80"/></p>
+</statement>
+      <answer>
+        <p>No correct answer specified</p>
+      </answer>
+      <answer>
+        <p>No correct answer specified</p>
+      </answer>
+      <answer>
+        <p>No correct answer specified</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_33.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_33.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-79" ww-id="webwork-79">
+    <static seed="79" source="local/Library/ASU-topics/setSolveEquations/zhu4.pg">
+      <statement><p>Solve the following equation.</p>
+<p><me>1+ \frac{5 x}{(x+3)(x+5)} = \frac{4}{x+3} + \frac{2}{x+5}</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+<p><alert> Note: </alert>
+ If there is more than one answer, write them separated by commas (e.g., 1, 2).</p>
+</statement>
+      <answer>
+        <p>
+          <m>1.32182538049648, -8.32182538049648</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu4.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setSolveEquations/zhu4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-80" ww-id="webwork-80">
+    <static seed="80" source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p12.pg">
+      <statement><p>Solve for <m>x</m>: <m>\frac{1}{x+8}+\frac{1}{x-8}=\frac{1}{x+12}</m></p>
+<p>Please enter the smaller answer first.</p>
+<p>Answer:  <m>x</m> = <fillin name="AnSwEr0001" characters="30"/>, <fillin name="AnSwEr0002" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-20.9442719099992</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-3.05572809000084</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p12.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p12.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-81" ww-id="webwork-81">
+    <static seed="81" source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_22.pg">
+      <statement><p>Solve the equation for <m>t</m> <me>\frac{10 }{9 -t }+\frac{4 }{9 +t } +\frac{9 }{81 -t^2 } = 0</me></p>
+<p><m>t =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-22.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_22.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_22.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-82" ww-id="webwork-82">
+    <static seed="82" source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_1.pg">
+      <statement><p>Solve the equation
+ <me>\frac{x+1}{x-1}=\frac{-12}{x+3}+\frac{8}{x^2+2x-3}</me></p>
+<p>Hint: There is only one non-extraneous root.</p>
+<p><m>x =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-17</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-83" ww-id="webwork-83">
+    <static seed="83" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_59.pg">
+      <statement><p>Solve the equation <m>\displaystyle \frac{1}{x+1}-\frac{1}{x+2}=\frac{1}{6}</m>.</p>
+<p>The solutions are <m>x_1 =</m> <fillin name="AnSwEr0001" characters="15"/> and <m>x_2 =</m> <fillin name="AnSwEr0002" characters="15"/></p>
+<p>where <m>x_1\leq x_2</m>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_59.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_59.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-84" ww-id="webwork-84">
+    <static seed="84" source="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveSqrt.pg">
+      <statement><p>Solve for the only possible solution.</p>
+<p><me>-4 \sqrt{8 x + 5} = 8</me></p>
+<p><m>x =</m> <fillin name="AnSwEr0001" characters="10"/>.</p>
+<p>Does your solution satisfy the equation?
+<var form="popup">
+<li>
+<p>?</p>
+</li>
+<li>
+<p>Yes</p>
+</li>
+<li>
+<p>No</p>
+</li>
+</var></p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.125</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveSqrt.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveSqrt.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-85" ww-id="webwork-85">
+    <static seed="85" source="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveDualSqrt.pg">
+      <statement><p>Solve for the only possible solution.  Give your answer to the nearest thousandth.</p>
+<p><me>\sqrt{-2 x + 1} = \sqrt{-6 x + 2}</me></p>
+<p><m>x =</m> <fillin name="AnSwEr0001" characters="10"/>.</p>
+<p>Does your solution satisfy the equation? (yes or no) <fillin name="AnSwEr0002" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>0.25</m>
+        </p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveDualSqrt.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveDualSqrt.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-86" ww-id="webwork-86">
+    <static seed="86" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_36.pg">
+      <statement><p>Solve the equation <m>\sqrt{10-x} + x=8</m>.</p>
+<p>The only solution is <m>x =</m> <fillin name="AnSwEr0001" characters="15"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_36.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_36.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-87" ww-id="webwork-87">
+    <static seed="87" source="local/Library/ASU-topics/setSolveEquations/zhu7.pg">
+      <statement><p>Solve the following equation:</p>
+<p><me>x+\sqrt { 2x + 1 }= 7</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu7.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setSolveEquations/zhu7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-88" ww-id="webwork-88">
+    <static seed="88" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg">
+      <statement><p>Solve the equation <m>x  -    3 \sqrt{x}  -   18=0</m> by factoring.</p>
+<p>The only solution is <m>x =</m> <fillin name="AnSwEr0001" characters="15"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>36</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-89" ww-id="webwork-89">
+    <static seed="89" source="local/Library/ASU-topics/setSolveEquations/zhu8.pg">
+      <statement><p>Solve the following equation.</p>
+<p><me>\sqrt{11-x^2} - \frac{2}{\sqrt{11-x^2}} = 1</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+<p><alert> Note: </alert>
+ If there is more than one answer, write them separated by commas (e.g., 1, 2).</p>
+</statement>
+      <answer>
+        <p>
+          <m>2.64575131106459, -2.64575131106459</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu8.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setSolveEquations/zhu8.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-90" ww-id="webwork-90">
+    <static seed="90" source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg">
+      <statement><p>Solve the equation <me>(x-1)^{-\frac{1}{2}}(x-8)+5(x-1)^{\frac{1}{2}} = 0</me></p>
+<p><m>x=</m> <fillin name="AnSwEr0001" characters="20"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>2.16666666666667</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-91" ww-id="webwork-91">
+    <static seed="91" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/equationW2radicals.pg">
+      <statement><p>Solve for <m>t</m>:</p>
+<p><me>\sqrt{t - 17} - \sqrt{t+96} = 141</me></p>
+<p>The only possible root is<m>t =</m>  <fillin name="AnSwEr0001" characters="10"/>.  It is a(n) <fillin name="AnSwEr0002" characters="10"/>
+root.  (Fill in the second blank with REAL or EXTRANEOUS)</p>
+</statement>
+      <answer>
+        <p>
+          <m>4930.91056787888</m>
+        </p>
+      </answer>
+      <answer>
+        <p>EXTRANEOUS</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/equationW2radicals.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/equationW2radicals.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-92" ww-id="webwork-92">
+    <static seed="92" source="Library/ASU-topics/setSolveEquations/zhu6.pg">
+      <statement><p>Solve the following equation.</p>
+<p><me>x^6 - 7 x^3 + 2 = 0</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+<p><alert> Note: </alert>
+ If there is more than one answer, write them separated by commas (e.g., 1, 2).</p>
+</statement>
+      <answer>
+        <p>
+          <m>1.88535013266453, 0.668269001108167</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setSolveEquations/zhu6.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setSolveEquations/zhu6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-93" ww-id="webwork-93">
+    <static seed="93" source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p13.pg">
+      <statement><p>Solve for <m>x</m>: <m>x^4-16 x^2+48=0</m></p>
+<p>Please enter your answers in the increasing order.</p>
+<p>Answer:  <m>x</m> = <fillin name="AnSwEr0001" characters="20"/>, <fillin name="AnSwEr0002" characters="20"/>,
+                 <fillin name="AnSwEr0003" characters="20"/>, <fillin name="AnSwEr0004" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-3.46410161513775</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.46410161513775</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p13.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-94" ww-id="webwork-94">
+    <static seed="94" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg">
+      <statement><p>Solve the equation <m>x  -    2 \sqrt{x}  -    8=0</m> by factoring.</p>
+<p>The only solution is <m>x =</m> <fillin name="AnSwEr0001" characters="15"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>16</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-95" ww-id="webwork-95">
+    <static seed="95" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/quadWfractions.pg">
+      <statement><p>Solve for <m>x</m>:</p>
+<p><me>\left( \frac{x+105}{x-18} \right) ^2 - 247 \left( \frac{x+105}{x-18} \right) 
++ 12900 = 0</me></p>
+<p>The smaller solution is  <fillin name="AnSwEr0001" characters="10"/>.</p>
+<p>The larger solution is <fillin name="AnSwEr0002" characters="10"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>18.719298245614</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>19.6621621621622</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/quadWfractions.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/quadWfractions.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-96" ww-id="webwork-96">
+    <static seed="96" source="local/Library/ASU-topics/setSolveEquations/zhu2.pg">
+      <statement><p>Find all real numbers <m>x</m> which satisfy the following equation.</p>
+<p><me>(x-7)^5 - 10 (x-7)^3 = 0</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+<p><alert> Note: </alert>
+ If there is more than one answer, write them separated by commas (e.g., 1, 2).
+Do not list individual values of <m>x</m> more than once.</p>
+</statement>
+      <answer>
+        <p>
+          <m>7, 10.1622776601684, 3.83772233983162</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu2.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setSolveEquations/zhu2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-97" ww-id="webwork-97">
+    <static seed="97" source="local/Library/ASU-topics/setSolveEquations/zhu1.pg">
+      <statement><p>Find all real numbers <m>x</m> which satisfy the equation.</p>
+<p><me>8 x^6 - 4 x^2 = 0</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+<p><alert> Note: </alert>
+ If there is more than one answer, write them separated by commas (e.g., 1, 2).
+Do not list individual values of <m>x</m> more than once.</p>
+</statement>
+      <answer>
+        <p>
+          <m>0, 0.840896415253715, -0.840896415253715</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setSolveEquations/zhu1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-98" ww-id="webwork-98">
+    <static seed="98" source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p10.pg">
+      <statement><p>Solve for <m>x</m>: <m>x^3-17 x^2+72 x=0</m></p>
+<p>Instructions: enter your answers in the increasing order</p>
+<p>Answer:  <m>x</m> = <fillin name="AnSwEr0001" characters="20"/>, <fillin name="AnSwEr0002" characters="20"/>, <fillin name="AnSwEr0003" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p10.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p10.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-99" ww-id="webwork-99">
+    <static seed="99" source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg">
+      <statement><p>Solve the equation <me>(x-1)^{-\frac{1}{2}}(x-8)+4(x-1)^{\frac{1}{2}} = 0</me></p>
+<p><m>x=</m> <fillin name="AnSwEr0001" characters="20"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>2.4</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-100" ww-id="webwork-100">
+    <static seed="100" source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_61.pg">
+      <statement><p>The equation <m>2 x^4-5 x^3 - 2 x^2 = 0</m> has three real solutions <m>A</m>, <m>B</m>, and <m>C</m>
+where <m>A \lt  B \lt  C</m>.</p>
+<p><m>A=</m> <fillin name="AnSwEr0001" characters="25"/>,</p>
+<p><m>B=</m> <fillin name="AnSwEr0002" characters="25"/>,</p>
+<p><m>C=</m> <fillin name="AnSwEr0003" characters="25"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.350781059358212</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2.85078105935821</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_61.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_61.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-101" ww-id="webwork-101">
+    <static seed="101" source="Library/Union/setAlgebraInequalities/srw1_7_13.pg">
+      <statement><p>Express the following inequality using interval notation.
+<me>3x + 4 \leq 6x + 20</me>
+Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left[-5.33333,\infty \right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Union/setAlgebraInequalities/srw1_7_13.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Union/setAlgebraInequalities/srw1_7_13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-102" ww-id="webwork-102">
+    <static seed="102" source="Library/FortLewis/Algebra/3-2-Solving-inequalities/MCH1-3-2-14-Solving-inequalities.pg">
+      <statement><p>Solve the inequality <m>\displaystyle -4(n-5) &gt; 13</m>.
+Enter your answer using inequality notation.</p>
+<p><fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>n &lt; \frac{7}{4}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/FortLewis/Algebra/3-2-Solving-inequalities/MCH1-3-2-14-Solving-inequalities.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/FortLewis/Algebra/3-2-Solving-inequalities/MCH1-3-2-14-Solving-inequalities.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-103" ww-id="webwork-103">
+    <static seed="103" source="local/Library/maCalcDB/setAlgebra13Inequalities/ur_ab_7_1.pg">
+      <statement><p>Consider the inequality <me>6 + 6 x &gt; 3 x + 9</me></p>
+<p>The solution of this inequality consists one or more of the following intervals:
+ <m>(-\infty, A)</m> and <m>(A,\infty)</m></p>
+<p>Find <m>A</m> <fillin name="AnSwEr0001" characters="10"/></p>
+<p>For each interval, answer YES or NO to whether the interval is included in the solution.</p>
+<p><m>(-\infty, A)</m> <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>(A,\infty)</m> <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra13Inequalities/ur_ab_7_1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra13Inequalities/ur_ab_7_1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-104" ww-id="webwork-104">
+    <static seed="104" source="Library/ASU-topics/setInequalities/zhu23.pg">
+      <statement><p>Express the following inequality using interval notation.
+<me>3x + 11 \leq 6x + 20</me>
+Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left[-3,\infty \right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setInequalities/zhu23.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setInequalities/zhu23.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-105" ww-id="webwork-105">
+    <static seed="105" source="local/Library/ASU-topics/setInequalities/zhu27.pg">
+      <statement><p>Solve the following inequality. Write the answer in interval notation. 
+<alert> Note: </alert>
+If the answer includes more than one interval write the intervals separated by the "union" symbol, U. 
+If needed enter <m>\infty</m> as <em> infinity </em> and <m>-\infty</m> as <em> -infinity </em> .
+<me>19 \le \frac{5}{9}(F-32) \le 43</me></p>
+<p>Answer:  <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left[66.2,109.4\right]</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/zhu27.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setInequalities/zhu27.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-106" ww-id="webwork-106">
+    <static seed="106" source="local/Library/ASU-topics/setInequalities/p13.pg">
+      <statement><p>Solve the following inequality. Write the answer in interval notation.</p>
+<p><alert> Note: </alert>
+If the answer includes more than one interval write the intervals separated by
+the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and <m>-\infty</m> as <em> -infinity </em> .</p>
+<p><me>3 x  - 3 \lt  -2 (4 x +1)+ 4</me></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-\infty ,0.454545454545455\right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/p13.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ASU-topics/setInequalities/p13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-107" ww-id="webwork-107">
+    <static seed="107" source="local/Library/Union/setAlgebraAbsoluteValue/srw1_8_1.pg">
+      <statement><p>Match the statements in the lefthand column with their equivalent statements in the righthand column.</p>
+<tabular valign="middle">
+<row>
+<cell>Error: alt_print_q: Unknown displayMode: PTX.</cell>
+<cell><ol label="A.">
+<li>
+<p><m>x \in (-\infty,-5) \cup (15,\infty )</m></p>
+</li>
+<li>
+<p><m>x \in (-5,15)</m></p>
+</li>
+<li>
+<p><m>x \in (-\infty,-5] \cup [15,\infty )</m></p>
+</li>
+<li>
+<p><m>x \in \lbrace -5,15 \rbrace</m></p>
+</li>
+<li>
+<p><m>x \in [-5,15]</m></p>
+</li>
+</ol></cell>
+</row>
+</tabular>
+</statement>
+    </static>
+    <server-data sourceFilePath="local/Library/Union/setAlgebraAbsoluteValue/srw1_8_1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Union/setAlgebraAbsoluteValue/srw1_8_1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-108" ww-id="webwork-108">
+    <static seed="108" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_20_AbsValIneq.pg">
+      <statement><p>Solve: <m>|x +    6| \ge 5</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>x\le -11\hbox{ or }x\ge -1</m>
+        </p>
+      </answer>
+      <solution><m>x \le -11\hbox{ or }-1 \le x</m>
+
+
+
+</solution>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_20_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_20_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-109" ww-id="webwork-109">
+    <static seed="109" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_22_AbsValIneq.pg">
+      <statement><p>Solve: <m>|x+4| &gt; 3</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>x &lt; -7\hbox{ or }x &gt; -1</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_22_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_22_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-110" ww-id="webwork-110">
+    <static seed="110" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_30_AbsValIneq.pg">
+      <statement><p>Solve: <m>4|x+2| -28 \lt  4</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-10 &lt; x &lt; 6</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_30_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_30_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-111" ww-id="webwork-111">
+    <static seed="111" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_26_AbsValIneq.pg">
+      <statement><p>Solve: <m>|x+3| &gt; -6</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\mbox{All real numbers}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_26_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_26_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-112" ww-id="webwork-112">
+    <static seed="112" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_16_AbsValIneq.pg">
+      <statement><p>Solve: <m>|x + 1| \lt  2</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-3 &lt; x &lt; 1</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_16_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_16_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-113" ww-id="webwork-113">
+    <static seed="113" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_25_AbsValIneq.pg">
+      <statement><p>Solve: <m>|3x-6| \lt  -3</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>NONE</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_25_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_25_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-114" ww-id="webwork-114">
+    <static seed="114" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_28_AbsValIneq.pg">
+      <statement><p>Solve: <m>|x+7| + 9 &gt; 10</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>x &lt; -8\hbox{ or }-6 &lt; x</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_28_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_28_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-115" ww-id="webwork-115">
+    <static seed="115" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_23_AbsValIneq.pg">
+      <statement><p>Solve: <m>\displaystyle \left| \frac{3 x+ 3}{2} \right| \le 9</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-7\le x\le 5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_23_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_23_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-116" ww-id="webwork-116">
+    <static seed="116" source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg">
+      <statement><p>Solve: <m>|2x-7| \leq 12</m></p>
+<p>Answer: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-2.5\le x\le 9.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg"/>
+  </webwork-reps>
 </webwork-representations>
