@@ -1497,7 +1497,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
       <statement><p>Solve the following equation:</p>
 <p><m>x^2  - 8 x + 32 = 0</m></p>
 <p>The roots are: <m>x =</m>
-<fillin name="AnSwEr0001" characters="HASH(0x5565df132d88)"/></p>
+<fillin name="AnSwEr0001" characters="HASH(0x5565e9b13288)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -1515,7 +1515,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
     <static seed="77" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg">
       <statement><p>Solve the following equation:</p>
 <p><m>81 x^2  - 36 x + 293 = 0</m></p>
-<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x5565de8fb7a0)"/></p>
+<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x5565e680c7b0)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -2233,5 +2233,944 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
     </static>
     <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-117" ww-id="webwork-117">
+    <static seed="117" source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_38.pg">
+      <statement><p><m>155</m> is what percent of <m>610</m>?.</p>
+<p>Your answers is :  <fillin name="AnSwEr0001" characters="10"/> percent.</p>
+</statement>
+      <answer>
+        <p>
+          <m>\frac{155\cdot 100}{610}</m>
+        </p>
+      </answer>
+      <solution><p>Solution:</p>
+<p><me>\frac{155}{610} \cdot 100 \% \approx 25.410 \%</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_38.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_38.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-118" ww-id="webwork-118">
+    <static seed="118" source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates//lh1-3_36.pg">
+      <statement><p>What is <m>25</m> percent of <m>140</m>?.</p>
+<p>Your answers is :  <fillin name="AnSwEr0001" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\frac{140\cdot 25}{100}</m>
+        </p>
+      </answer>
+      <solution><p>Solution:</p>
+<p>The number is 
+<m>\displaystyle 
+140 \cdot \frac{25}{100} = 35</m></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates//lh1-3_36.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates//lh1-3_36.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-119" ww-id="webwork-119">
+    <static seed="119" source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_39.pg">
+      <statement><p><m>130</m> is <m>60</m> percent of what number?</p>
+<p>Your answers is :  <fillin name="AnSwEr0001" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\frac{130\cdot 100}{60}</m>
+        </p>
+      </answer>
+      <solution><p>Solution:</p>
+<p>We let <m>x</m> be the unknown number. The problem states that <m>60</m> percent of <m>x</m> must be equal <m>130</m>:
+<me>x \cdot \frac{60}{100} = 130</me>
+<me>x = 130 \cdot \frac{100}{60} = 216.666666666667</me></p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_39.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_39.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-120" ww-id="webwork-120">
+    <static seed="120" source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_32.pg">
+      <statement><p><alert> This exercise concerns with modeling with linear equations.</alert></p>
+<p>One positive number is one-fifth of another number. The difference between the two numbers is 152, find the numbers.</p>
+<p>The two numbers in increasing order are  <fillin name="AnSwEr0001" characters="10"/> and <fillin name="AnSwEr0002" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>38</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>190</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_32.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_32.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-121" ww-id="webwork-121">
+    <static seed="121" source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_17.pg">
+      <statement><p>The oldest child in a family of four children is twice as old as the yougest. 
+The two middle children are <m>12</m> and <m>15</m> years old. 
+If the average age of the children is <m>13.5</m>, how old is the youngest child?</p>
+<p>Your answer is : <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_17.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_17.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-122" ww-id="webwork-122">
+    <static seed="122" source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_51.pg">
+      <statement><p>A rectangular room is <m>1.8</m> times as long as it is wide, and its perimeter is <m>30</m> meters. Find the dimension of the room.</p>
+<p>The length is :  <fillin name="AnSwEr0001" characters="10"/> meters and the width is <fillin name="AnSwEr0002" characters="10"/> meters.</p>
+</statement>
+      <answer>
+        <p>
+          <m>9.64285714285714</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5.35714285714286</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_51.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_51.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-123" ww-id="webwork-123">
+    <static seed="123" source="Library/Rochester/setAlgebra09LinearEqnsModeling/lh1-3_51.pg">
+      <statement><p>A rectangular room is <m>1.5</m> times as long as it is wide, and its perimeter is <m>31</m> meters. Find the dimension of the room.</p>
+<p>The length is :  <fillin name="AnSwEr0001" characters="10"/> meters and the width is <fillin name="AnSwEr0002" characters="10"/> meters.</p>
+</statement>
+      <answer>
+        <p>
+          <m>9.3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.2</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/lh1-3_51.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/lh1-3_51.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-124" ww-id="webwork-124">
+    <static seed="124" source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_25.pg">
+      <statement><p>Phyllis invested <m>42000</m> dollars, a portion earning a simple interest rate of 
+<m>4</m> percent per year and the rest earning a rate of <m>7</m> percent 
+per year.
+After one year the total interest earned on these
+investments was <m>1980</m> dollars. How much money did she invest at each rate?</p>
+<p>At rate <m>4</m> percent : <fillin name="AnSwEr0001" characters="20"/></p>
+<p>At rate <m>7</m> percent : <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>32000</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10000</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_25.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_25.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-125" ww-id="webwork-125">
+    <static seed="125" source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/srw1_6_11.pg">
+      <statement><p>A cash register contains only ten dollar and fifty dollar bills. It contains
+four times as many ten dollar bills as fifty dollar bills 
+and the total amount of money in the cash register is $4,050.  
+How many fifty dollar bills are in the cash register?</p>
+<p>Answer: <fillin name="AnSwEr0001" characters="15"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>45</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/srw1_6_11.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/srw1_6_11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-126" ww-id="webwork-126">
+    <static seed="126" source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_28.pg">
+      <statement><p>A change purse contains an equal number of pennies, nickels, and dimes. The 
+total value of the coins is <m>624</m> cents. How many pennies does the
+purse contain?</p>
+<p>Answer (number of pennies): <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>39</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_28.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_28.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-127" ww-id="webwork-127">
+    <static seed="127" source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_46.pg">
+      <statement><p>Your weekly paycheck is <m>10</m> percent less than your coworker's. Your two paychecks total <m>890</m>. Find the amount of each
+paycheck.</p>
+<p>Your coworker's is :  <fillin name="AnSwEr0001" characters="10"/> and yours is <fillin name="AnSwEr0002" characters="10"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>468.421052631579</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>421.578947368421</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_46.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_46.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-128" ww-id="webwork-128">
+    <static seed="128" source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_13.pg">
+      <statement><p>An executive in an engineering firm earns a monthly salary plus a Christmas 
+bonus of <m>5600</m> dollars. If she earns a total of <m>92900</m> dollars per year,
+what is her monthly salary in dollars?</p>
+<p>Your answer is : <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>7275</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_13.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_13.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-129" ww-id="webwork-129">
+    <static seed="129" source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_52.pg">
+      <statement><p>Stan and Hilda can mow the lawn in <m>25</m> min if they work together. If Hilda
+works twice as fast as Stan, how long would it take Stan to mow the lawn alone?</p>
+<p>Give your answer in munites here: <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>75</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_52.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_52.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-130" ww-id="webwork-130">
+    <static seed="130" source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/paintingpartners.pg">
+      <statement><p>Mutt and Jeff need to paint a fence.  Mutt can do the job alone 4 hours faster
+than Jeff.  If together they work for 38 hours and finish only 
+<m>\frac{7}{8}</m> of the
+job, how long would Jeff need to do the job alone?</p>
+<p>Your answer must be a number.  No arithmetic operations are allowed.</p>
+<p>It would take Jeff <fillin name="AnSwEr0001" characters="10"/> hours to do the job alone.</p>
+</statement>
+      <answer>
+        <p>
+          <m>88.9031710969586</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/paintingpartners.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/paintingpartners.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-131" ww-id="webwork-131">
+    <static seed="131" source="Library/ma117DB/set2/srw1_8_7.pg">
+      <statement><p>Find the midpoint of the segment that joins the points
+<m>(0,0)</m> and <m>(-1,5)</m>.</p>
+<p>Input your answer here: (<fillin name="AnSwEr0001" characters="10"/>,<fillin name="AnSwEr0002" characters="10"/>)</p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_7.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma117DB/set2/srw1_8_7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-132" ww-id="webwork-132">
+    <static seed="132" source="Library/ma117DB/set2/srw1_8_5.pg">
+      <statement><p>Find the midpoint of the segment that joins the points
+<m>(2,-4)</m> and <m>(3,1)</m>.</p>
+<p>Input your answer here: (<fillin name="AnSwEr0001" characters="10"/>,<fillin name="AnSwEr0002" characters="10"/>)</p>
+</statement>
+      <answer>
+        <p>
+          <m>2.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_5.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma117DB/set2/srw1_8_5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-133" ww-id="webwork-133">
+    <static seed="133" source="Library/ma117DB/set2/srw1_8_3.pg">
+      <statement><p>Find the midpoint of the segment that joins the points
+<m>(3,6)</m> and <m>(-3,-3)</m>.</p>
+<p>Input your answer here: (<fillin name="AnSwEr0001" characters="10"/>,<fillin name="AnSwEr0002" characters="10"/>)</p>
+</statement>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_3.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma117DB/set2/srw1_8_3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-134" ww-id="webwork-134">
+    <static seed="134" source="Library/maCalcDB/setAlgebra07PointsCircles/midpoint_hard.pg">
+      <statement><p>The midpoint of <m>AB</m> is at <m>(4, 0)</m>.  If <m>A=(3,-9)</m>, find <m>B</m>.</p>
+<p>B is:(<fillin name="AnSwEr0001" characters="5"/>,<fillin name="AnSwEr0002" characters="5"/>)</p>
+</statement>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra07PointsCircles/midpoint_hard.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra07PointsCircles/midpoint_hard.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-135" ww-id="webwork-135">
+    <static seed="135" source="Library/Union/setAnalGeomDistance/distfindy.pg">
+      <statement><p>Find all <m>y</m> such that the distance between the points
+<m>(9, -7)</m> and <m>(-10, y)</m> is 24.</p>
+<p><m>y=</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><B> Note:</B>
+Enter your answer as a comma separated list of numbers.
+If there are no such <m>y</m>, enter <em> none. </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>-7+\sqrt{215}, -7-\sqrt{215}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Union/setAnalGeomDistance/distfindy.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Union/setAnalGeomDistance/distfindy.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-136" ww-id="webwork-136">
+    <static seed="136" source="Library/ASU-topics/setCartesianPlane/srw1_9_2-sol.pg">
+      <statement><p>Consider the two points <m>(1 ,-1 )</m> and <m>(7 ,8 )</m>.</p>
+<p>The distance between them is: <fillin name="AnSwEr0001" characters="20"/></p>
+<p>The midpoint of the line segment that joins these points is:
+(<fillin name="AnSwEr0002" characters="20"/> , <fillin name="AnSwEr0003" characters="20"/>)</p>
+</statement>
+      <answer>
+        <p>
+          <m>10.816653826392</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.5</m>
+        </p>
+      </answer>
+      <solution><m>P(x_1, y_1)</m> and <m>Q(x_2,y_2)</m>, the distance between <m>P</m> and <m>Q</m> is 
+<me>|PQ|=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}</me>
+and the coordinates of the midpoint of the segment that joins <m>P</m> and <m>Q</m> are 
+<me>x_m = \frac{x_1+x_2}{2}, \ \ \ \ \ y_m = \frac{y_1+y_2}{2}</me>
+
+Therefore the distance between <m>(1 ,-1 )</m> and <m>(7 ,8 )</m> is 
+<me>d=\sqrt{(7 - 1)^2+(8  + 1)^2} = \sqrt{117} = 10.816653826392</me>
+
+and the coordinates of the midpoints are 
+
+<me>x_m = \frac{1+7}{2} = 4, \ \ \ \ \ y_m = \frac{-1+8}{2} = 3.5</me>
+
+Note: if you did not know the formulas for the coordinates of the midpoint, you could just draw a 
+coordinate system, plot the given points, and find the midpoint of the segment joining them. You would
+see from the picture what are the coordinates of the midpoint. 
+
+
+
+</solution>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/srw1_9_2-sol.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setCartesianPlane/srw1_9_2-sol.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-137" ww-id="webwork-137">
+    <static seed="137" source="Library/ASU-topics/setCartesianPlane/beth10.pg">
+      <statement><p>Find all <m>x</m> such that the distance between the points <m>(-7, 0)</m>
+and <m>(x, 8)</m> is 18.</p>
+<p><m>x</m>= <fillin name="AnSwEr0001" characters="40"/></p>
+<p><alert> Note:</alert>
+If there is more that one <m>x</m>, give a comma separated list (i.e.:  1,2).</p>
+</statement>
+      <answer>
+        <p>
+          <m>9.1245154965971, -23.1245154965971</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/beth10.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setCartesianPlane/beth10.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-138" ww-id="webwork-138">
+    <static seed="138" source="Library/ASU-topics/setCartesianPlane/jj1.pg">
+      <statement><p>Consider triangle <m>\triangle ABC</m> in the plane where</p>
+<p><m>A = (-8, -1)</m></p>
+<p><m>B = (-12, -11)</m></p>
+<p><m>C = (-5, -8)</m></p>
+<p>Find the lengths of the sides of the triangle:</p>
+<p><m>AB =</m> <fillin name="AnSwEr0001" characters="40"/></p>
+<p><m>BC =</m> <fillin name="AnSwEr0002" characters="40"/></p>
+<p><m>AC =</m> <fillin name="AnSwEr0003" characters="40"/></p>
+<p>Is <m>\triangle ABC</m> a right triangle? (<em> yes </em> or <em> no </em>)
+	<fillin name="AnSwEr0004" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>10.770329614269</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7.61577310586391</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7.61577310586391</m>
+        </p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/jj1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setCartesianPlane/jj1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-139" ww-id="webwork-139">
+    <static seed="139" source="Library/Rochester/setGeometry1Points/srw1_9_2_mo.pg">
+      <statement><p>Consider the two points <m>\left(2,-2\right)</m> and <m>\left(9,9\right)</m>.</p>
+<p>The distance between them is:<fillin name="AnSwEr0001" characters="20"/></p>
+<p>The midpoint of the line segment
+that joins them is:<fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\sqrt{\left(-7\right)^{2}+\left(-11\right)^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(5.5,3.5\right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setGeometry1Points/srw1_9_2_mo.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setGeometry1Points/srw1_9_2_mo.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-140" ww-id="webwork-140">
+    <static seed="140" source="Library/ma112DB/set3/sw2_2_8.pg">
+      <statement><p>Find the <m>x</m>- and <m>y</m>-intercepts of the graph of the equation
+<m>y=x^2 + 3 x -28</m>.</p>
+<p>The <m>x</m>-intercepts are : <m>x_1=</m><fillin name="AnSwEr0001" characters="10"/>,  <m>x_2=</m><fillin name="AnSwEr0002" characters="10"/>
+with <m>x_1\le x_2</m>;</p>
+<p>The <m>y</m>-intercept is : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-28</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_8.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma112DB/set3/sw2_2_8.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-141" ww-id="webwork-141">
+    <static seed="141" source="Library/ma112DB/set3/sw2_2_7.pg">
+      <statement><p>Find the <m>x</m>- and <m>y</m>-intercepts of the graph of the equation
+<m>y=x-1</m>.</p>
+<p>The <m>x</m>-intercept is: <fillin name="AnSwEr0001" characters="10"/></p>
+<p>The <m>y</m>-intercept is: <fillin name="AnSwEr0002" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_7.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma112DB/set3/sw2_2_7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-142" ww-id="webwork-142">
+    <static seed="142" source="Library/ma112DB/set3/sw2_2_18.pg">
+      <statement><p>For the graph of the equation <m>y=15 x+7</m>, draw a sketch of the graph on
+a piece of paper. Then answer the following questions:</p>
+<p>The <m>x</m>-intercept is : <fillin name="AnSwEr0001" characters="10"/></p>
+<p>The <m>y</m>-intercept is : <fillin name="AnSwEr0002" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0004" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input yes or no here : <fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.466666666666667</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_18.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma112DB/set3/sw2_2_18.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-143" ww-id="webwork-143">
+    <static seed="143" source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_45.pg">
+      <statement><p>Find the <m>x</m>- and <m>y</m>-intercepts of the graph of the equation
+<m>y=x^2 + 3 x -10</m>.</p>
+<p>The <m>x</m>-intercept(s) have <m>x =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Note: </alert> If there is more than one, give a comma separated list.  If there are none, type <em> none </em>.</p>
+<p>The <m>y</m>-intercept(s) have <m>y=</m> <fillin name="AnSwEr0002" characters="20"/></p>
+<p><alert> Note: </alert> If there is more than one, give a comma separated list.  If there are none, type <em> none </em>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-5, 2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-10</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_45.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_45.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-144" ww-id="webwork-144">
+    <static seed="144" source="Library/maCalcDB/setAlgebra06EqnGraphs/symm1.pg">
+      <statement><p>For the equation <m>6 x ^6  - 5 y  = -10</m> answer the following questions.</p>
+<p>Is the equation symmetric with respect to the <m>y</m>-axis? (<em> yes </em> or <em> no </em>)<fillin name="AnSwEr0001" characters="10"/></p>
+<p>Is the equation symmetric with respect to the <m>x</m>-axis? (<em> yes </em> or <em> no </em>)<fillin name="AnSwEr0002" characters="10"/></p>
+<p>Is the equation symmetric with respect to the origin? (<em> yes </em> or 
+<em> no </em>)<fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/symm1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/symm1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-145" ww-id="webwork-145">
+    <static seed="145" source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_47.pg">
+      <statement><p>Find the <m>x</m>- and <m>y</m>-intercepts of the graph of the equation
+<m>x^2+y^2=1</m>.</p>
+<p>The <m>x</m>-intercepts are : <m>x_1=</m><fillin name="AnSwEr0001" characters="10"/>,  <m>x_2=</m><fillin name="AnSwEr0002" characters="10"/>
+with <m>x_1\le x_2</m>;</p>
+<p>The <m>y</m>-intercepts are : <m>y_1=</m><fillin name="AnSwEr0003" characters="10"/>,  <m>y_2=</m><fillin name="AnSwEr0004" characters="10"/>
+with <m>y_1\le y_2</m>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_47.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_47.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-146" ww-id="webwork-146">
+    <static seed="146" source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_39.pg">
+      <statement><p>Determine whether the given points are on the graph of <m>y=2x+3</m>.</p>
+<p>Enter <em> Yes </em> or <em> No </em> for your answers:</p>
+<p>Is (-4,-5) on the graph? <fillin name="AnSwEr0001" characters="15"/></p>
+<p>Is (-1,1) on the graph? <fillin name="AnSwEr0002" characters="15"/></p>
+<p>Is (2,6) on the graph? <fillin name="AnSwEr0003" characters="15"/></p>
+<p>Is (4,6) on the graph? <fillin name="AnSwEr0004" characters="15"/></p>
+</statement>
+      <answer>
+        <p>Yes</p>
+      </answer>
+      <answer>
+        <p>Yes</p>
+      </answer>
+      <answer>
+        <p>No</p>
+      </answer>
+      <answer>
+        <p>No</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_39.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_39.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-147" ww-id="webwork-147">
+    <static seed="147" source="Library/maCalcDB/setAlgebra06EqnGraphs/beth1grapheq.pg">
+      <statement><p>For the graph of the equation <m>x^2 y^2 +x^3 y^4 =5</m>,
+answer the following questions:</p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0001" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0002" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/beth1grapheq.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/beth1grapheq.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-148" ww-id="webwork-148">
+    <static seed="148" source="Library/maCalcDB/setAlgebra06EqnGraphs/p2.pg">
+      <statement><p>For the graph of the equation <m>y=-x^3 + 4</m>,
+answer the following questions.</p>
+<p>The <m>x</m>-intercepts have <m>x =</m>  <fillin name="AnSwEr0001" characters="30"/></p>
+<p><alert> Note: </alert>
+If there is more than one answer enter them separated by commas.  If there are
+none, enter <em> none </em>.</p>
+<p>The <m>y</m>-intercepts have <m>y=</m> <fillin name="AnSwEr0002" characters="30"/></p>
+<p><alert> Note: </alert>
+If there is more than one answer enter them separated by commas.  If there are
+none, enter <em> none </em>.</p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0003" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0004" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>1.5874010519682</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p2.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/p2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-149" ww-id="webwork-149">
+    <static seed="149" source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_65.pg">
+      <statement><p>For the graph of the equation <m>x^2y^2+xy=8</m>,
+answer the following questions:</p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input <em> yes </em> or no here : <fillin name="AnSwEr0001" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input <em> yes </em> or no here : <fillin name="AnSwEr0002" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input <em> yes </em> or no here : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_65.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_65.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-150" ww-id="webwork-150">
+    <static seed="150" source="Library/maCalcDB/setAlgebra06EqnGraphs/p3.pg">
+      <statement><p>For the graph of the equation <m>y=\sqrt{x + 8}</m>,
+answer the following questions:</p>
+<p>The <m>x</m>-intercepts have <m>x =</m>  <fillin name="AnSwEr0001" characters="10"/></p>
+<p><alert> Note:</alert>
+ If there is more than one answer enter them separated by commas.  If there are
+none, enter <em> none </em>.</p>
+<p>The <m>y</m>-intercepts have <m>y=</m> <fillin name="AnSwEr0002" characters="10"/></p>
+<p><alert> Note: </alert>
+If there is more than one answer enter them separated by commas.  If there are
+none, enter <em> none </em>.</p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0003" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0004" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2.82842712474619</m>
+        </p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p3.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/p3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-151" ww-id="webwork-151">
+    <static seed="151" source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_67.pg">
+      <statement><p>For the graph of the equation <m>y=x^3+12 x</m>,
+answer the following questions:</p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0001" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0002" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_67.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_67.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-152" ww-id="webwork-152">
+    <static seed="152" source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_43.pg">
+      <statement><p>Find the <m>x</m>- and <m>y</m>-intercepts of the graph of the equation
+<m>y=x-4</m>.</p>
+<p>The <m>x</m>-intercept(s) have <m>x =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> Note: </alert> If there is more than one, give a comma separated list.  If there are none, type <em> none </em>.</p>
+<p>The <m>y</m>-intercept(s) have <m>y=</m> <fillin name="AnSwEr0002" characters="20"/></p>
+<p><alert> Note: </alert> If there is more than one, give a comma separated list.  If there are none, type <em> none </em>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-4</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_43.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_43.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-153" ww-id="webwork-153">
+    <static seed="153" source="Library/maCalcDB/setAlgebra06EqnGraphs/beth1.pg">
+      <statement><p>For the equation
+<me>y = 9 |x| + 9</me>
+answer the following questions:</p>
+<p>What are the <m>x</m>-intercept(s) written as ordered pair(s)?</p>
+<p><alert> Note: </alert>
+  If there is more than one write them separated by a comma (i.e.: (1,2),(3,4)).
+If there are none, type <em> none </em> in the answer blank.</p>
+<p><m>x</m>-intercept(s): <fillin name="AnSwEr0001" characters="40"/></p>
+<p>What is the <m>y</m>-intercept written as an ordered pair?</p>
+<p><alert> Note: </alert>
+  If there is more than one write them separated by a comma (i.e.: (1,2),(3,4)).
+If there are none, type <em> none </em> in the answer blank.</p>
+<p><m>y</m>-intercept: <fillin name="AnSwEr0002" characters="40"/></p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? (<em> yes </em> or <em> no </em>) <fillin name="AnSwEr0003" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? (<em> yes </em> or <em> no </em>) <fillin name="AnSwEr0004" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? (<em> yes </em> or <em> no </em>) <fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\text{NONE}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(0,9\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/beth1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/beth1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-154" ww-id="webwork-154">
+    <static seed="154" source="Library/maCalcDB/setAlgebra06EqnGraphs/p1.pg">
+      <statement><p>For the graph of the equation <m>x=y^2-1</m>,
+answer the following questions:</p>
+<p>the x- intercepts are x = <fillin name="AnSwEr0001" characters="10"/></p>
+<p><alert> Note: </alert> If there is more than one answer enter them separated by commas.</p>
+<p>the y - intercepts are y= <fillin name="AnSwEr0002" characters="10"/></p>
+<p><alert> Note: </alert> if there is more than one answer enter them separated by commas.</p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0004" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input yes or no here : <fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1, -1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p1.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/p1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-155" ww-id="webwork-155">
+    <static seed="155" source="Library/Rochester/setAlgebra06EqnGraphs/sw2_2_41.pg">
+      <statement><p>For the graph of the equation <m>y=x^4+x^2</m>,
+answer the following questions:</p>
+<p>Is the graph symmetric with respect to the <m>x</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0001" characters="10"/></p>
+<p>Is the graph symmetric with respect to the <m>y</m>-axis? 
+Input yes or no here : <fillin name="AnSwEr0002" characters="10"/></p>
+<p>Is the graph symmetric with respect to the origin? 
+Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra06EqnGraphs/sw2_2_41.pg" domain="https://192.168.1.56" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Rochester/setAlgebra06EqnGraphs/sw2_2_41.pg"/>
   </webwork-reps>
 </webwork-representations>

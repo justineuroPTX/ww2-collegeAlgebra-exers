@@ -1171,6 +1171,384 @@ var ptx_lunr_docs = [
   "body": "Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_18_AbsValIneq.pg   Solve:  Answer:           "
 },
 {
+  "id": "sethw-08-word-problems",
+  "level": "1",
+  "url": "sethw-08-word-problems.html",
+  "type": "Chapter",
+  "number": "14",
+  "title": "08-word-problems",
+  "body": " 08-word-problems   local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_38.pg   is what percent of ?.  Your answers is : percent.        Solution:        local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/\/lh1-3_36.pg   What is percent of ?.  Your answers is :        Solution:  The number is       local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_39.pg   is percent of what number?  Your answers is :        Solution:  We let be the unknown number. The problem states that percent of must be equal :        Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_32.pg   This exercise concerns with modeling with linear equations.  One positive number is one-fifth of another number. The difference between the two numbers is 152, find the numbers.  The two numbers in increasing order are and                 Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_17.pg   The oldest child in a family of four children is twice as old as the yougest. The two middle children are and years old. If the average age of the children is , how old is the youngest child?  Your answer is :            Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg   A rectangular room is times as long as it is wide, and its perimeter is meters. Find the dimension of the room.  The length is : meters and the width is meters.                 Library\/Rochester\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg   A rectangular room is times as long as it is wide, and its perimeter is meters. Find the dimension of the room.  The length is : meters and the width is meters.                     Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_25.pg   Phyllis invested dollars, a portion earning a simple interest rate of percent per year and the rest earning a rate of percent per year. After one year the total interest earned on these investments was dollars. How much money did she invest at each rate?  At rate percent :  At rate percent :                   Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/srw1_6_11.pg   A cash register contains only ten dollar and fifty dollar bills. It contains four times as many ten dollar bills as fifty dollar bills and the total amount of money in the cash register is $4,050. How many fifty dollar bills are in the cash register?  Answer:            Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_28.pg   A change purse contains an equal number of pennies, nickels, and dimes. The total value of the coins is cents. How many pennies does the purse contain?  Answer (number of pennies):            Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_46.pg   Your weekly paycheck is percent less than your coworker's. Your two paychecks total . Find the amount of each paycheck.  Your coworker's is : and yours is .                 Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_13.pg   An executive in an engineering firm earns a monthly salary plus a Christmas bonus of dollars. If she earns a total of dollars per year, what is her monthly salary in dollars?  Your answer is :            Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_52.pg   Stan and Hilda can mow the lawn in min if they work together. If Hilda works twice as fast as Stan, how long would it take Stan to mow the lawn alone?  Give your answer in munites here:            Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/paintingpartners.pg   Mutt and Jeff need to paint a fence. Mutt can do the job alone 4 hours faster than Jeff. If together they work for 38 hours and finish only of the job, how long would Jeff need to do the job alone?  Your answer must be a number. No arithmetic operations are allowed.  It would take Jeff hours to do the job alone.              "
+},
+{
+  "id": "ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_38",
+  "level": "2",
+  "url": "exercises-14.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_38",
+  "type": "Exercise",
+  "number": "14.1",
+  "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_38.pg<\/em>.",
+  "body": "local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_38.pg   is what percent of ?.  Your answers is : percent.        Solution:       "
+},
+{
+  "id": "ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates--lh1-3_36",
+  "level": "2",
+  "url": "exercises-14.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates--lh1-3_36",
+  "type": "Exercise",
+  "number": "14.2",
+  "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/\/lh1-3_36.pg<\/em>.",
+  "body": "local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/\/lh1-3_36.pg   What is percent of ?.  Your answers is :        Solution:  The number is      "
+},
+{
+  "id": "ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_39",
+  "level": "2",
+  "url": "exercises-14.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_39",
+  "type": "Exercise",
+  "number": "14.3",
+  "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_39.pg<\/em>.",
+  "body": "local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_39.pg   is percent of what number?  Your answers is :        Solution:  We let be the unknown number. The problem states that percent of must be equal :       "
+},
+{
+  "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_32",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_32",
+  "type": "Exercise",
+  "number": "14.4",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_32.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_32.pg   This exercise concerns with modeling with linear equations.  One positive number is one-fifth of another number. The difference between the two numbers is 152, find the numbers.  The two numbers in increasing order are and                "
+},
+{
+  "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_17",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_17",
+  "type": "Exercise",
+  "number": "14.5",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_17.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_17.pg   The oldest child in a family of four children is twice as old as the yougest. The two middle children are and years old. If the average age of the children is , how old is the youngest child?  Your answer is :           "
+},
+{
+  "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_51",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_51",
+  "type": "Exercise",
+  "number": "14.6",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg   A rectangular room is times as long as it is wide, and its perimeter is meters. Find the dimension of the room.  The length is : meters and the width is meters.                "
+},
+{
+  "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-lh1-3_51",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-lh1-3_51",
+  "type": "Exercise",
+  "number": "14.7",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg   A rectangular room is times as long as it is wide, and its perimeter is meters. Find the dimension of the room.  The length is : meters and the width is meters.                "
+},
+{
+  "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_25",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_25",
+  "type": "Exercise",
+  "number": "14.8",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_25.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_25.pg   Phyllis invested dollars, a portion earning a simple interest rate of percent per year and the rest earning a rate of percent per year. After one year the total interest earned on these investments was dollars. How much money did she invest at each rate?  At rate percent :  At rate percent :                "
+},
+{
+  "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-srw1_6_11",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-srw1_6_11",
+  "type": "Exercise",
+  "number": "14.9",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/srw1_6_11.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/srw1_6_11.pg   A cash register contains only ten dollar and fifty dollar bills. It contains four times as many ten dollar bills as fifty dollar bills and the total amount of money in the cash register is $4,050. How many fifty dollar bills are in the cash register?  Answer:           "
+},
+{
+  "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_28",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_28",
+  "type": "Exercise",
+  "number": "14.10",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_28.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_28.pg   A change purse contains an equal number of pennies, nickels, and dimes. The total value of the coins is cents. How many pennies does the purse contain?  Answer (number of pennies):           "
+},
+{
+  "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_46",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_46",
+  "type": "Exercise",
+  "number": "14.11",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_46.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_46.pg   Your weekly paycheck is percent less than your coworker's. Your two paychecks total . Find the amount of each paycheck.  Your coworker's is : and yours is .                "
+},
+{
+  "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_13",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_13",
+  "type": "Exercise",
+  "number": "14.12",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_13.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_13.pg   An executive in an engineering firm earns a monthly salary plus a Christmas bonus of dollars. If she earns a total of dollars per year, what is her monthly salary in dollars?  Your answer is :           "
+},
+{
+  "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_52",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_52",
+  "type": "Exercise",
+  "number": "14.13",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_52.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_52.pg   Stan and Hilda can mow the lawn in min if they work together. If Hilda works twice as fast as Stan, how long would it take Stan to mow the lawn alone?  Give your answer in munites here:           "
+},
+{
+  "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-paintingpartners",
+  "level": "2",
+  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-paintingpartners",
+  "type": "Exercise",
+  "number": "14.14",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/paintingpartners.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/paintingpartners.pg   Mutt and Jeff need to paint a fence. Mutt can do the job alone 4 hours faster than Jeff. If together they work for 38 hours and finish only of the job, how long would Jeff need to do the job alone?  Your answer must be a number. No arithmetic operations are allowed.  It would take Jeff hours to do the job alone.           "
+},
+{
+  "id": "sethw-09-coordinates-distance-midpoint",
+  "level": "1",
+  "url": "sethw-09-coordinates-distance-midpoint.html",
+  "type": "Chapter",
+  "number": "15",
+  "title": "09-coordinates-distance-midpoint",
+  "body": " 09-coordinates-distance-midpoint     Library\/ma117DB\/set2\/srw1_8_7.pg   Find the midpoint of the segment that joins the points and .  Input your answer here: ( , )                 Library\/ma117DB\/set2\/srw1_8_5.pg   Find the midpoint of the segment that joins the points and .  Input your answer here: ( , )                 Library\/ma117DB\/set2\/srw1_8_3.pg   Find the midpoint of the segment that joins the points and .  Input your answer here: ( , )                 Library\/maCalcDB\/setAlgebra07PointsCircles\/midpoint_hard.pg   The midpoint of is at . If , find .  B is:( , )                     Library\/Union\/setAnalGeomDistance\/distfindy.pg   Find all such that the distance between the points and is 24.    Note: Enter your answer as a comma separated list of numbers. If there are no such , enter none.             Library\/ASU-topics\/setCartesianPlane\/srw1_9_2-sol.pg   Consider the two points and .  The distance between them is:  The midpoint of the line segment that joins these points is: ( , )                  and , the distance between and is and the coordinates of the midpoint of the segment that joins and are Therefore the distance between and is and the coordinates of the midpoints are Note: if you did not know the formulas for the coordinates of the midpoint, you could just draw a coordinate system, plot the given points, and find the midpoint of the segment joining them. You would see from the picture what are the coordinates of the midpoint.      Library\/ASU-topics\/setCartesianPlane\/beth10.pg   Find all such that the distance between the points and is 18.  =  Note: If there is more that one , give a comma separated list (i.e.: 1,2).              Library\/ASU-topics\/setCartesianPlane\/jj1.pg   Consider triangle in the plane where     Find the lengths of the sides of the triangle:        Is a right triangle? ( yes or no )                   yes         Library\/Rochester\/setGeometry1Points\/srw1_9_2_mo.pg   Consider the two points and .  The distance between them is:  The midpoint of the line segment that joins them is:                   "
+},
+{
+  "id": "ch15-Library-ma117DB-set2-srw1_8_7",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-ma117DB-set2-srw1_8_7",
+  "type": "Exercise",
+  "number": "15.1",
+  "title": "<em class=\"alert\">Library\/ma117DB\/set2\/srw1_8_7.pg<\/em>.",
+  "body": "Library\/ma117DB\/set2\/srw1_8_7.pg   Find the midpoint of the segment that joins the points and .  Input your answer here: ( , )                "
+},
+{
+  "id": "ch15-Library-ma117DB-set2-srw1_8_5",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-ma117DB-set2-srw1_8_5",
+  "type": "Exercise",
+  "number": "15.2",
+  "title": "<em class=\"alert\">Library\/ma117DB\/set2\/srw1_8_5.pg<\/em>.",
+  "body": "Library\/ma117DB\/set2\/srw1_8_5.pg   Find the midpoint of the segment that joins the points and .  Input your answer here: ( , )                "
+},
+{
+  "id": "ch15-Library-ma117DB-set2-srw1_8_3",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-ma117DB-set2-srw1_8_3",
+  "type": "Exercise",
+  "number": "15.3",
+  "title": "<em class=\"alert\">Library\/ma117DB\/set2\/srw1_8_3.pg<\/em>.",
+  "body": "Library\/ma117DB\/set2\/srw1_8_3.pg   Find the midpoint of the segment that joins the points and .  Input your answer here: ( , )                "
+},
+{
+  "id": "ch15-Library-maCalcDB-setAlgebra07PointsCircles-midpoint_hard",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-maCalcDB-setAlgebra07PointsCircles-midpoint_hard",
+  "type": "Exercise",
+  "number": "15.4",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra07PointsCircles\/midpoint_hard.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra07PointsCircles\/midpoint_hard.pg   The midpoint of is at . If , find .  B is:( , )                "
+},
+{
+  "id": "ch15-Library-Union-setAnalGeomDistance-distfindy",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-Union-setAnalGeomDistance-distfindy",
+  "type": "Exercise",
+  "number": "15.5",
+  "title": "<em class=\"alert\">Library\/Union\/setAnalGeomDistance\/distfindy.pg<\/em>.",
+  "body": "Library\/Union\/setAnalGeomDistance\/distfindy.pg   Find all such that the distance between the points and is 24.    Note: Enter your answer as a comma separated list of numbers. If there are no such , enter none.           "
+},
+{
+  "id": "ch15-Library-ASU-topics-setCartesianPlane-srw1_9_2-sol",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-ASU-topics-setCartesianPlane-srw1_9_2-sol",
+  "type": "Exercise",
+  "number": "15.6",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setCartesianPlane\/srw1_9_2-sol.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setCartesianPlane\/srw1_9_2-sol.pg   Consider the two points and .  The distance between them is:  The midpoint of the line segment that joins these points is: ( , )                  and , the distance between and is and the coordinates of the midpoint of the segment that joins and are Therefore the distance between and is and the coordinates of the midpoints are Note: if you did not know the formulas for the coordinates of the midpoint, you could just draw a coordinate system, plot the given points, and find the midpoint of the segment joining them. You would see from the picture what are the coordinates of the midpoint.     "
+},
+{
+  "id": "ch15-Library-ASU-topics-setCartesianPlane-beth10",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-ASU-topics-setCartesianPlane-beth10",
+  "type": "Exercise",
+  "number": "15.7",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setCartesianPlane\/beth10.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setCartesianPlane\/beth10.pg   Find all such that the distance between the points and is 18.  =  Note: If there is more that one , give a comma separated list (i.e.: 1,2).           "
+},
+{
+  "id": "ch15-Library-ASU-topics-setCartesianPlane-jj1",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-ASU-topics-setCartesianPlane-jj1",
+  "type": "Exercise",
+  "number": "15.8",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setCartesianPlane\/jj1.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setCartesianPlane\/jj1.pg   Consider triangle in the plane where     Find the lengths of the sides of the triangle:        Is a right triangle? ( yes or no )                   yes      "
+},
+{
+  "id": "ch15-Library-Rochester-setGeometry1Points-srw1_9_2_mo",
+  "level": "2",
+  "url": "exercises-15.html#ch15-Library-Rochester-setGeometry1Points-srw1_9_2_mo",
+  "type": "Exercise",
+  "number": "15.9",
+  "title": "<em class=\"alert\">Library\/Rochester\/setGeometry1Points\/srw1_9_2_mo.pg<\/em>.",
+  "body": "Library\/Rochester\/setGeometry1Points\/srw1_9_2_mo.pg   Consider the two points and .  The distance between them is:  The midpoint of the line segment that joins them is:                "
+},
+{
+  "id": "sethw-10-graphs-intercepts-symmetry",
+  "level": "1",
+  "url": "sethw-10-graphs-intercepts-symmetry.html",
+  "type": "Chapter",
+  "number": "16",
+  "title": "10-graphs-intercepts-symmetry",
+  "body": " 10-graphs-intercepts-symmetry   Library\/ma112DB\/set3\/sw2_2_8.pg   Find the - and -intercepts of the graph of the equation .  The -intercepts are : , with ;  The -intercept is :                      Library\/ma112DB\/set3\/sw2_2_7.pg   Find the - and -intercepts of the graph of the equation .  The -intercept is:  The -intercept is:                 Library\/ma112DB\/set3\/sw2_2_18.pg   For the graph of the equation , draw a sketch of the graph on a piece of paper. Then answer the following questions:  The -intercept is :  The -intercept is :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              no    no    no       Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_45.pg   Find the - and -intercepts of the graph of the equation .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .                 Library\/maCalcDB\/setAlgebra06EqnGraphs\/symm1.pg   For the equation answer the following questions.  Is the equation symmetric with respect to the -axis? ( yes or no )  Is the equation symmetric with respect to the -axis? ( yes or no )  Is the equation symmetric with respect to the origin? ( yes or no )    yes    no    no       Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_47.pg   Find the - and -intercepts of the graph of the equation .  The -intercepts are : , with ;  The -intercepts are : , with .                           Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_39.pg   Determine whether the given points are on the graph of .  Enter Yes or No for your answers:  Is (-4,-5) on the graph?  Is (-1,1) on the graph?  Is (2,6) on the graph?  Is (4,6) on the graph?    Yes    Yes    No    No       Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1grapheq.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    yes    no       Library\/maCalcDB\/setAlgebra06EqnGraphs\/p2.pg   For the graph of the equation , answer the following questions.  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              no    no    no       Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_65.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    no    yes       Library\/maCalcDB\/setAlgebra06EqnGraphs\/p3.pg   For the graph of the equation , answer the following questions:  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              no    no    no       Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_67.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    no    yes       Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_43.pg   Find the - and -intercepts of the graph of the equation .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .                 Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1.pg   For the equation answer the following questions:  What are the -intercept(s) written as ordered pair(s)?  Note: If there is more than one write them separated by a comma (i.e.: (1,2),(3,4)). If there are none, type none in the answer blank.  -intercept(s):  What is the -intercept written as an ordered pair?  Note: If there is more than one write them separated by a comma (i.e.: (1,2),(3,4)). If there are none, type none in the answer blank.  -intercept:  Is the graph symmetric with respect to the -axis? ( yes or no )  Is the graph symmetric with respect to the -axis? ( yes or no )  Is the graph symmetric with respect to the origin? ( yes or no )              no    yes    no       Library\/maCalcDB\/setAlgebra06EqnGraphs\/p1.pg   For the graph of the equation , answer the following questions:  the x- intercepts are x =  Note: If there is more than one answer enter them separated by commas.  the y - intercepts are y=  Note: if there is more than one answer enter them separated by commas.  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              yes    no    no       Library\/Rochester\/setAlgebra06EqnGraphs\/sw2_2_41.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    yes    no           "
+},
+{
+  "id": "ch16-Library-ma112DB-set3-sw2_2_8",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-ma112DB-set3-sw2_2_8",
+  "type": "Exercise",
+  "number": "16.1",
+  "title": "<em class=\"alert\">Library\/ma112DB\/set3\/sw2_2_8.pg<\/em>.",
+  "body": "Library\/ma112DB\/set3\/sw2_2_8.pg   Find the - and -intercepts of the graph of the equation .  The -intercepts are : , with ;  The -intercept is :                     "
+},
+{
+  "id": "ch16-Library-ma112DB-set3-sw2_2_7",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-ma112DB-set3-sw2_2_7",
+  "type": "Exercise",
+  "number": "16.2",
+  "title": "<em class=\"alert\">Library\/ma112DB\/set3\/sw2_2_7.pg<\/em>.",
+  "body": "Library\/ma112DB\/set3\/sw2_2_7.pg   Find the - and -intercepts of the graph of the equation .  The -intercept is:  The -intercept is:                "
+},
+{
+  "id": "ch16-Library-ma112DB-set3-sw2_2_18",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-ma112DB-set3-sw2_2_18",
+  "type": "Exercise",
+  "number": "16.3",
+  "title": "<em class=\"alert\">Library\/ma112DB\/set3\/sw2_2_18.pg<\/em>.",
+  "body": "Library\/ma112DB\/set3\/sw2_2_18.pg   For the graph of the equation , draw a sketch of the graph on a piece of paper. Then answer the following questions:  The -intercept is :  The -intercept is :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              no    no    no      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_45",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_45",
+  "type": "Exercise",
+  "number": "16.4",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_45.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_45.pg   Find the - and -intercepts of the graph of the equation .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .                "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-symm1",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-symm1",
+  "type": "Exercise",
+  "number": "16.5",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/symm1.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/symm1.pg   For the equation answer the following questions.  Is the equation symmetric with respect to the -axis? ( yes or no )  Is the equation symmetric with respect to the -axis? ( yes or no )  Is the equation symmetric with respect to the origin? ( yes or no )    yes    no    no      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_47",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_47",
+  "type": "Exercise",
+  "number": "16.6",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_47.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_47.pg   Find the - and -intercepts of the graph of the equation .  The -intercepts are : , with ;  The -intercepts are : , with .                          "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_39",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_39",
+  "type": "Exercise",
+  "number": "16.7",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_39.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_39.pg   Determine whether the given points are on the graph of .  Enter Yes or No for your answers:  Is (-4,-5) on the graph?  Is (-1,1) on the graph?  Is (2,6) on the graph?  Is (4,6) on the graph?    Yes    Yes    No    No      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1grapheq",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1grapheq",
+  "type": "Exercise",
+  "number": "16.8",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1grapheq.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1grapheq.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    yes    no      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p2",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p2",
+  "type": "Exercise",
+  "number": "16.9",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/p2.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/p2.pg   For the graph of the equation , answer the following questions.  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              no    no    no      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_65",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_65",
+  "type": "Exercise",
+  "number": "16.10",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_65.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_65.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    no    yes      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p3",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p3",
+  "type": "Exercise",
+  "number": "16.11",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/p3.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/p3.pg   For the graph of the equation , answer the following questions:  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  The -intercepts have   Note: If there is more than one answer enter them separated by commas. If there are none, enter none .  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              no    no    no      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_67",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_67",
+  "type": "Exercise",
+  "number": "16.12",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_67.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_67.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    no    yes      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_43",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_43",
+  "type": "Exercise",
+  "number": "16.13",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_43.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_43.pg   Find the - and -intercepts of the graph of the equation .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .  The -intercept(s) have   Note: If there is more than one, give a comma separated list. If there are none, type none .                "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1",
+  "type": "Exercise",
+  "number": "16.14",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1.pg   For the equation answer the following questions:  What are the -intercept(s) written as ordered pair(s)?  Note: If there is more than one write them separated by a comma (i.e.: (1,2),(3,4)). If there are none, type none in the answer blank.  -intercept(s):  What is the -intercept written as an ordered pair?  Note: If there is more than one write them separated by a comma (i.e.: (1,2),(3,4)). If there are none, type none in the answer blank.  -intercept:  Is the graph symmetric with respect to the -axis? ( yes or no )  Is the graph symmetric with respect to the -axis? ( yes or no )  Is the graph symmetric with respect to the origin? ( yes or no )              no    yes    no      "
+},
+{
+  "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p1",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p1",
+  "type": "Exercise",
+  "number": "16.15",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/p1.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra06EqnGraphs\/p1.pg   For the graph of the equation , answer the following questions:  the x- intercepts are x =  Note: If there is more than one answer enter them separated by commas.  the y - intercepts are y=  Note: if there is more than one answer enter them separated by commas.  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :              yes    no    no      "
+},
+{
+  "id": "ch16-Library-Rochester-setAlgebra06EqnGraphs-sw2_2_41",
+  "level": "2",
+  "url": "exercises-16.html#ch16-Library-Rochester-setAlgebra06EqnGraphs-sw2_2_41",
+  "type": "Exercise",
+  "number": "16.16",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra06EqnGraphs\/sw2_2_41.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra06EqnGraphs\/sw2_2_41.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    yes    no      "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
