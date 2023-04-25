@@ -1621,6 +1621,114 @@ var ptx_lunr_docs = [
   "body": "Library\/Rochester\/setAlgebra06EqnGraphs\/sw2_2_41.pg   For the graph of the equation , answer the following questions:  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the -axis? Input yes or no here :  Is the graph symmetric with respect to the origin? Input yes or no here :    no    yes    no      "
 },
 {
+  "id": "sethw-11-Lines",
+  "level": "1",
+  "url": "sethw-11-Lines.html",
+  "type": "Chapter",
+  "number": "17",
+  "title": "11-Lines",
+  "body": " 11-Lines   local\/sethw-11-Lines\/slope.pg   Find the slope of the line between the points (1,10) and (7,5).  slope = (as fraction a\/b)        To find the slope(m) between two points, you find the difference between the two y-values and divide that by the difference of the two x-values. You must remember to start with the same point for each difference. The slope formula is:  m = (y2 - y1) \/ (x2 - x1)       local\/sethw-11-Lines\/slope1.pg   Find the slope of the line between the points (1,5) and (6,16).  slope = (as fraction a\/b)        To find the slope(m) between two points, you find the difference between the two y-values and divide that by the difference of the two x-values. You must remember to start with the same point for each difference. The slope formula is:  m = (y2 - y1) \/ (x2 - x1)       local\/sethw-11-Lines\/equationofline.pg   Find the equation of the line between the points (3,7) and (16,16).  y =        To find the equation of a line, you need a point and a slope. To find the slope between the 2 points, use the slope formula:  M = (Y2 - Y1)\/(X2 - X1)  Then to find the equation, Use the slope-intercept form of a line, y = Mx + b. Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept). Then rewrite the equation using the variables x and y, and the value calculated for M and b.       local\/sethw-11-Lines\/parallelline.pg   For the point (4,8) and the equation y = 3x + 1, find the equation of the parallel line.  y=        To find the equation of a parallel line, you must find the slope (M)off the given equation. Since the line is parallel, then the slope will be the same as the given line. Then you use the given point and slope to find the equation using the same steps as in Problem 2.       local\/sethw-11-Lines\/slope2.pg   Find the slope of the line between the points (3,7) and (6,19).  slope = (as fraction a\/b)        To find the slope(m) between two points, you find the difference between the two y-values and divide that by the difference of the two x-values. You must remember to start with the same point for each difference. The slope formula is:  m = (y2 - y1) \/ (x2 - x1)       local\/sethw-11-Lines\/equationofline1.pg   Find the equation of the line between the points (7,12) and (15,21).  y =        To find the equation of a line, you need a point and a slope. To find the slope between the 2 points, use the slope formula:  M = (Y2 - Y1)\/(X2 - X1)  Then to find the equation, Use the slope-intercept form of a line, y = Mx + b. Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept). Then rewrite the equation using the variables x and y, and the value calculated for M and b.       local\/sethw-11-Lines\/parallelline1.pg   For the point (8,7) and the equation y = 3x + 1, find the equation of the parallel line.  y=        To find the equation of a parallel line, you must find the slope (M)off the given equation. Since the line is parallel, then the slope will be the same as the given line. Then you use the given point and slope to find the equation using the same steps as in Problem 2.       local\/sethw-11-Lines\/equationofline2.pg   Find the equation of the line between the points (9,8) and (2,6).  y =        To find the equation of a line, you need a point and a slope. To find the slope between the 2 points, use the slope formula:  M = (Y2 - Y1)\/(X2 - X1)  Then to find the equation, Use the slope-intercept form of a line, y = Mx + b. Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept). Then rewrite the equation using the variables x and y, and the value calculated for M and b.       local\/Library\/Utah\/AP_Calculus_I\/set1_Reviews_of_Fundamentals\/1210s1p17.pg   A line through (9, 3) with a slope of -9 has a y-intercept at            local\/Library\/Utah\/Calculus_I\/set1_Preliminaries\/1210s1p18.pg   An equation of a line through (0, 2) which is, parallel, to the line has slope:  and y intercept at: .                 local\/sethw-11-Lines\/Problem11.pg   Given slope = 8 and the point (-7,10). The equation of the line y = mx + b has y-intercept  b = and equation  y =                  "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-slope",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-slope",
+  "type": "Exercise",
+  "number": "17.1",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/slope.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/slope.pg   Find the slope of the line between the points (1,10) and (7,5).  slope = (as fraction a\/b)        To find the slope(m) between two points, you find the difference between the two y-values and divide that by the difference of the two x-values. You must remember to start with the same point for each difference. The slope formula is:  m = (y2 - y1) \/ (x2 - x1)      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-slope1",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-slope1",
+  "type": "Exercise",
+  "number": "17.2",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/slope1.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/slope1.pg   Find the slope of the line between the points (1,5) and (6,16).  slope = (as fraction a\/b)        To find the slope(m) between two points, you find the difference between the two y-values and divide that by the difference of the two x-values. You must remember to start with the same point for each difference. The slope formula is:  m = (y2 - y1) \/ (x2 - x1)      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-equationofline",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-equationofline",
+  "type": "Exercise",
+  "number": "17.3",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/equationofline.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/equationofline.pg   Find the equation of the line between the points (3,7) and (16,16).  y =        To find the equation of a line, you need a point and a slope. To find the slope between the 2 points, use the slope formula:  M = (Y2 - Y1)\/(X2 - X1)  Then to find the equation, Use the slope-intercept form of a line, y = Mx + b. Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept). Then rewrite the equation using the variables x and y, and the value calculated for M and b.      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-parallelline",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-parallelline",
+  "type": "Exercise",
+  "number": "17.4",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/parallelline.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/parallelline.pg   For the point (4,8) and the equation y = 3x + 1, find the equation of the parallel line.  y=        To find the equation of a parallel line, you must find the slope (M)off the given equation. Since the line is parallel, then the slope will be the same as the given line. Then you use the given point and slope to find the equation using the same steps as in Problem 2.      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-slope2",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-slope2",
+  "type": "Exercise",
+  "number": "17.5",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/slope2.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/slope2.pg   Find the slope of the line between the points (3,7) and (6,19).  slope = (as fraction a\/b)        To find the slope(m) between two points, you find the difference between the two y-values and divide that by the difference of the two x-values. You must remember to start with the same point for each difference. The slope formula is:  m = (y2 - y1) \/ (x2 - x1)      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-equationofline1",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-equationofline1",
+  "type": "Exercise",
+  "number": "17.6",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/equationofline1.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/equationofline1.pg   Find the equation of the line between the points (7,12) and (15,21).  y =        To find the equation of a line, you need a point and a slope. To find the slope between the 2 points, use the slope formula:  M = (Y2 - Y1)\/(X2 - X1)  Then to find the equation, Use the slope-intercept form of a line, y = Mx + b. Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept). Then rewrite the equation using the variables x and y, and the value calculated for M and b.      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-parallelline1",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-parallelline1",
+  "type": "Exercise",
+  "number": "17.7",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/parallelline1.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/parallelline1.pg   For the point (8,7) and the equation y = 3x + 1, find the equation of the parallel line.  y=        To find the equation of a parallel line, you must find the slope (M)off the given equation. Since the line is parallel, then the slope will be the same as the given line. Then you use the given point and slope to find the equation using the same steps as in Problem 2.      "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-equationofline2",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-equationofline2",
+  "type": "Exercise",
+  "number": "17.8",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/equationofline2.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/equationofline2.pg   Find the equation of the line between the points (9,8) and (2,6).  y =        To find the equation of a line, you need a point and a slope. To find the slope between the 2 points, use the slope formula:  M = (Y2 - Y1)\/(X2 - X1)  Then to find the equation, Use the slope-intercept form of a line, y = Mx + b. Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept). Then rewrite the equation using the variables x and y, and the value calculated for M and b.      "
+},
+{
+  "id": "ch17-Library-Utah-AP_Calculus_I-set1_Reviews_of_Fundamentals-1210s1p17",
+  "level": "2",
+  "url": "exercises-17.html#ch17-Library-Utah-AP_Calculus_I-set1_Reviews_of_Fundamentals-1210s1p17",
+  "type": "Exercise",
+  "number": "17.9",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/AP_Calculus_I\/set1_Reviews_of_Fundamentals\/1210s1p17.pg<\/em>.",
+  "body": "local\/Library\/Utah\/AP_Calculus_I\/set1_Reviews_of_Fundamentals\/1210s1p17.pg   A line through (9, 3) with a slope of -9 has a y-intercept at           "
+},
+{
+  "id": "ch17-Library-Utah-Calculus_I-set1_Preliminaries-1210s1p18",
+  "level": "2",
+  "url": "exercises-17.html#ch17-Library-Utah-Calculus_I-set1_Preliminaries-1210s1p18",
+  "type": "Exercise",
+  "number": "17.10",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Calculus_I\/set1_Preliminaries\/1210s1p18.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Calculus_I\/set1_Preliminaries\/1210s1p18.pg   An equation of a line through (0, 2) which is, parallel, to the line has slope:  and y intercept at: .                "
+},
+{
+  "id": "ch17-local-sethw-11-Lines-Problem11",
+  "level": "2",
+  "url": "exercises-17.html#ch17-local-sethw-11-Lines-Problem11",
+  "type": "Exercise",
+  "number": "17.11",
+  "title": "<em class=\"alert\">local\/sethw-11-Lines\/Problem11.pg<\/em>.",
+  "body": "local\/sethw-11-Lines\/Problem11.pg   Given slope = 8 and the point (-7,10). The equation of the line y = mx + b has y-intercept  b = and equation  y =                "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
