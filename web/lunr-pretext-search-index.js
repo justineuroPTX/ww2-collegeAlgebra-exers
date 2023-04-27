@@ -2053,6 +2053,114 @@ var ptx_lunr_docs = [
   "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_9.pg   For each power function, choose (by letter) the graph which most closely resembles the graph of that function. You may always assume that the constant of variation is positive.  Warning: You have only 4 attempts at this problem so make them count!                A    A    B    C    A    D      "
 },
 {
+  "id": "sethw-14a-Determine-And-Evaluate-Function",
+  "level": "1",
+  "url": "sethw-14a-Determine-And-Evaluate-Function.html",
+  "type": "Chapter",
+  "number": "20",
+  "title": "14a-Determine-And-Evaluate-Function",
+  "body": " 14a-Determine-And-Evaluate-Function   local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg   For each of the following graphs, determine whether or not it represents as a function of . Type YES or NO to the right of each graph.  a)   b)   c)   d)   e)     no    yes    no    yes    no       local\/Library\/ma117DB\/set3\/srw2_1_5.pg   can be expressed in words as \"Add 4, then divide by 13\". Is this statement true?  Your answer is (input Yes or No): .    No       local\/Library\/ma117DB\/set3\/srw2_1_17.pg   Given the function . Calculate the following values:                                          local\/Library\/ma117DB\/set3\/srw2_1_33.pg   Given the function , calculate the following values:                            local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_6.pg   Define a function by:      Looking only at values of to the left of , what would you expect to be?  Looking only at values of to the right of , what would you expect to be?  Now for fun, try graphing                           local\/Library\/Rochester\/setAlgebra15Functions\/beth4.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =            local\/Library\/Rochester\/setAlgebra15Functions\/beth3.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =            local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p6.pg   The remainder of the problems in this set are focused on the concept of a function.  Consider the function defined by Then                            local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_5.pg   Let be the function . Find the following:                                  local\/Library\/Utah\/Business_Algebra\/set4_Quadratic_and_Other_Special_Functions\/p16.pg   Suppose and Then   ,   ,   ,   ,                           local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg   The next few problems are focused on the combination of functions: Suppose and are two functions. Then we define  A.  B.  C.  D.  Suppose and Then  1.  ,  2.  ,  3.  ,  4.  ,                            "
+},
+{
+  "id": "ch20-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p17-p17",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p17-p17",
+  "type": "Exercise",
+  "number": "20.1",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg   For each of the following graphs, determine whether or not it represents as a function of . Type YES or NO to the right of each graph.  a)   b)   c)   d)   e)     no    yes    no    yes    no      "
+},
+{
+  "id": "ch20-local-Library-ma117DB-set3-srw2_1_5",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-ma117DB-set3-srw2_1_5",
+  "type": "Exercise",
+  "number": "20.2",
+  "title": "<em class=\"alert\">local\/Library\/ma117DB\/set3\/srw2_1_5.pg<\/em>.",
+  "body": "local\/Library\/ma117DB\/set3\/srw2_1_5.pg   can be expressed in words as \"Add 4, then divide by 13\". Is this statement true?  Your answer is (input Yes or No): .    No      "
+},
+{
+  "id": "ch20-local-Library-ma117DB-set3-srw2_1_17",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-ma117DB-set3-srw2_1_17",
+  "type": "Exercise",
+  "number": "20.3",
+  "title": "<em class=\"alert\">local\/Library\/ma117DB\/set3\/srw2_1_17.pg<\/em>.",
+  "body": "local\/Library\/ma117DB\/set3\/srw2_1_17.pg   Given the function . Calculate the following values:                                         "
+},
+{
+  "id": "ch20-local-Library-ma117DB-set3-srw2_1_33",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-ma117DB-set3-srw2_1_33",
+  "type": "Exercise",
+  "number": "20.4",
+  "title": "<em class=\"alert\">local\/Library\/ma117DB\/set3\/srw2_1_33.pg<\/em>.",
+  "body": "local\/Library\/ma117DB\/set3\/srw2_1_33.pg   Given the function , calculate the following values:                           "
+},
+{
+  "id": "ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_6",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_6",
+  "type": "Exercise",
+  "number": "20.5",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_6.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_6.pg   Define a function by:      Looking only at values of to the left of , what would you expect to be?  Looking only at values of to the right of , what would you expect to be?  Now for fun, try graphing                          "
+},
+{
+  "id": "ch20-local-Library-Rochester-setAlgebra15Functions-beth4",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-beth4",
+  "type": "Exercise",
+  "number": "20.6",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/beth4.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra15Functions\/beth4.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =           "
+},
+{
+  "id": "ch20-local-Library-Rochester-setAlgebra15Functions-beth3",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-beth3",
+  "type": "Exercise",
+  "number": "20.7",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/beth3.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra15Functions\/beth3.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =           "
+},
+{
+  "id": "ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p6",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p6",
+  "type": "Exercise",
+  "number": "20.8",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p6.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p6.pg   The remainder of the problems in this set are focused on the concept of a function.  Consider the function defined by Then                           "
+},
+{
+  "id": "ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_5",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_5",
+  "type": "Exercise",
+  "number": "20.9",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_5.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_5.pg   Let be the function . Find the following:                                 "
+},
+{
+  "id": "ch20-local-Library-Utah-Business_Algebra-set4_Quadratic_and_Other_Special_Functions-p16",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Utah-Business_Algebra-set4_Quadratic_and_Other_Special_Functions-p16",
+  "type": "Exercise",
+  "number": "20.10",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set4_Quadratic_and_Other_Special_Functions\/p16.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Business_Algebra\/set4_Quadratic_and_Other_Special_Functions\/p16.pg   Suppose and Then   ,   ,   ,   ,                          "
+},
+{
+  "id": "ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p191",
+  "level": "2",
+  "url": "exercises-20.html#ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p191",
+  "type": "Exercise",
+  "number": "20.11",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg   The next few problems are focused on the combination of functions: Suppose and are two functions. Then we define  A.  B.  C.  D.  Suppose and Then  1.  ,  2.  ,  3.  ,  4.  ,                          "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",

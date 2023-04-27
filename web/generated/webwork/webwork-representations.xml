@@ -1497,7 +1497,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
       <statement><p>Solve the following equation:</p>
 <p><m>x^2  - 8 x + 32 = 0</m></p>
 <p>The roots are: <m>x =</m>
-<fillin name="AnSwEr0001" characters="HASH(0x555af882cca8)"/></p>
+<fillin name="AnSwEr0001" characters="HASH(0x55a25ba776f8)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -1515,7 +1515,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
     <static seed="77" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg">
       <statement><p>Solve the following equation:</p>
 <p><m>81 x^2  - 36 x + 293 = 0</m></p>
-<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x555af775b5b8)"/></p>
+<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x55a25bcba418)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -4382,5 +4382,332 @@ what is <m>p</m> if <m>q =13</m> and <m>r = 10</m>?</p>
     </static>
     <server-data sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_9.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_9.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-208" ww-id="webwork-208">
+    <static seed="208" source="local/Library/Utah/Business_Algebra/set5_Quadratic_and_Other_Special_Functions/p17/p17.pg">
+      <statement><p>For each of the following graphs, determine whether or not it represents <m>y</m>
+as a function of <m>x</m>. Type YES or NO to the right of each graph.</p>
+<p>a)</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="33.3333333333333%" pi:generated="webwork/images/webwork-208-image-1.gif"/>
+<p><fillin name="AnSwEr0001" characters="10"/></p>
+<p>b)</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="33.3333333333333%" pi:generated="webwork/images/webwork-208-image-2.gif"/>
+<p><fillin name="AnSwEr0002" characters="10"/></p>
+<p>c)</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="33.3333333333333%" pi:generated="webwork/images/webwork-208-image-3.gif"/>
+<p><fillin name="AnSwEr0003" characters="10"/></p>
+<p>d)</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="33.3333333333333%" pi:generated="webwork/images/webwork-208-image-4.gif"/>
+<p><fillin name="AnSwEr0004" characters="10"/></p>
+<p>e)</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="33.3333333333333%" pi:generated="webwork/images/webwork-208-image-5.gif"/>
+<p><fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+      <answer>
+        <p>yes</p>
+      </answer>
+      <answer>
+        <p>no</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set5_Quadratic_and_Other_Special_Functions/p17/p17.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set5_Quadratic_and_Other_Special_Functions/p17/p17.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-209" ww-id="webwork-209">
+    <static seed="209" source="local/Library/ma117DB/set3/srw2_1_5.pg">
+      <statement><p><m>f(x)=\frac{x}{13}+4</m> can be expressed in words as 
+"Add 4, then divide by 13".  Is this statement true?</p>
+<p>Your answer is (input Yes or No): <fillin name="AnSwEr0001" characters="15"/>.</p>
+</statement>
+      <answer>
+        <p>No</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ma117DB/set3/srw2_1_5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ma117DB/set3/srw2_1_5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-210" ww-id="webwork-210">
+    <static seed="210" source="local/Library/ma117DB/set3/srw2_1_17.pg">
+      <statement><p>Given the function <m>f(x)=3 x^2 + 1 x - 3</m>. Calculate the
+following values:</p>
+<p><m>f(0)=</m> <fillin name="AnSwEr0001" characters="15"/></p>
+<p><m>f(2)=</m> <fillin name="AnSwEr0002" characters="15"/></p>
+<p><m>f(-2)=</m> <fillin name="AnSwEr0003" characters="15"/></p>
+<p><m>f(x+1)=</m> <fillin name="AnSwEr0004" characters="25"/></p>
+<p><m>f(-x)=</m> <fillin name="AnSwEr0005" characters="25"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3\!\left(x+1\right)^{2}+1\!\left(x+1\right)-3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3x^{2}-1x-3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ma117DB/set3/srw2_1_17.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ma117DB/set3/srw2_1_17.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-211" ww-id="webwork-211">
+    <static seed="211" source="local/Library/ma117DB/set3/srw2_1_33.pg">
+      <statement><p>Given the function <m>f(x)=4 + 4 x^2</m>, calculate the
+following values:</p>
+<p><m>f(a)=</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><m>f(a+h)=</m> <fillin name="AnSwEr0002" characters="20"/></p>
+<p><m>\frac{f(a+h)-f(a)}{h}=</m> <fillin name="AnSwEr0003" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>4a^{2}+4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4\!\left(a+h\right)^{2}+4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8a+4h</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/ma117DB/set3/srw2_1_33.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/ma117DB/set3/srw2_1_33.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-212" ww-id="webwork-212">
+    <static seed="212" source="local/Library/Rochester/setAlgebra15Functions/ur_fn_1_6.pg">
+      <statement><p>Define a function <m>f(x)</m> by:</p>
+<p><m>f(x)= 
+   \begin{cases}
+         7-6 x,   \amp \text{if}\ x\geq 3\\
+         9-x^2,   \amp \text{if}\ \ x\lt 3
+   \end{cases}</m></p>
+<p><m>f(8)=</m><fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>f(1)=</m> <fillin name="AnSwEr0002" characters="10"/></p>
+<p>Looking only at values of <m>x</m> to the left of <m>3</m>, what would you expect <m>f(3)</m> to be?<fillin name="AnSwEr0003" characters="10"/></p>
+<p>Looking only at values of <m>x</m> to the right of <m>3</m>, what would you expect <m>f(3)</m> to be?<fillin name="AnSwEr0004" characters="10"/></p>
+<p>Now for fun, try graphing <m>f(x)\dots</m></p>
+</statement>
+      <answer>
+        <p>
+          <m>-41</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-11</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Rochester/setAlgebra15Functions/ur_fn_1_6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Rochester/setAlgebra15Functions/ur_fn_1_6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-213" ww-id="webwork-213">
+    <static seed="213" source="local/Library/Rochester/setAlgebra15Functions/beth4.pg">
+      <statement><p>List all real values of <m>x</m> such that <m>f(x) = 0</m>.
+If there are no such real <m>x</m>, type DNE in the answer blank.  If there is more that one real <m>x</m>, give a comma separated list
+(e.g. 1,2).
+<me>f(x) = 3 + \frac {3}{x  + 18}</me>
+<m>x</m> = <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-19</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Rochester/setAlgebra15Functions/beth4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Rochester/setAlgebra15Functions/beth4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-214" ww-id="webwork-214">
+    <static seed="214" source="local/Library/Rochester/setAlgebra15Functions/beth3.pg">
+      <statement><p>List all real values of <m>x</m> such that <m>f(x) = 0</m>.
+If there are no such real <m>x</m>, type DNE in the answer blank.  If there is more that one real <m>x</m>, give a comma separated list
+(e.g. 1,2).
+<me>f(x) = \frac {8}{x - 9} + \frac {20}{x - 16}</me>
+<m>x</m> = <fillin name="AnSwEr0001" characters="40"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Rochester/setAlgebra15Functions/beth3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Rochester/setAlgebra15Functions/beth3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-215" ww-id="webwork-215">
+    <static seed="215" source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p6.pg">
+      <statement><p>The remainder of the problems in this set are focused on the concept
+of a function.</p>
+<p>Consider the function <m>f</m> defined by 
+<me>f(x) = x^2+3x+1</me>
+Then</p>
+<p><m>f(1) =</m>  <fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>f(-3) =</m>  <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>f\left(\frac{2}{3}\right) =</m>  <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.44444444444444</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-216" ww-id="webwork-216">
+    <static seed="216" source="local/Library/Rochester/setAlgebra15Functions/ur_fn_1_5.pg">
+      <statement><p>Let <m>f(x)</m> be the function <m>\displaystyle \frac{x}{x+1}-1</m>. Find the following:</p>
+<p><m>f(12)=</m><fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>f(-2)=</m> <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>\displaystyle f(\frac{1}{10})</m> <fillin name="AnSwEr0003" characters="10"/></p>
+<p><m>\displaystyle f(-\frac{1}{5})</m> <fillin name="AnSwEr0004" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-0.0769230769230769</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-0.909090909090909</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1.25</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Rochester/setAlgebra15Functions/ur_fn_1_5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Rochester/setAlgebra15Functions/ur_fn_1_5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-217" ww-id="webwork-217">
+    <static seed="217" source="local/Library/Utah/Business_Algebra/set4_Quadratic_and_Other_Special_Functions/p16.pg">
+      <statement><p>Suppose  <me>f(x) = x^2+1</me>
+and <me>g(x) = x+1.</me>
+Then</p>
+<p><m>(f+g)(x)  =</m> <fillin name="AnSwEr0001" characters="18"/>,</p>
+<p><m>(f-g)(x)  =</m> <fillin name="AnSwEr0002" characters="18"/>,</p>
+<p><m>(fg)(x)  =</m> <fillin name="AnSwEr0003" characters="18"/>,</p>
+<p><m>(f/g)(x)  =</m> <fillin name="AnSwEr0004" characters="18"/>,</p>
+</statement>
+      <answer>
+        <p>
+          <m>x^{2}+x+2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x^{2}-x</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x^{3}+x^{2}+x+1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\frac{x^{2}+1}{x+1}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set4_Quadratic_and_Other_Special_Functions/p16.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set4_Quadratic_and_Other_Special_Functions/p16.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-218" ww-id="webwork-218">
+    <static seed="218" source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p191.pg">
+      <statement><p>The next few problems are focused on the combination of functions:
+Suppose <m>f</m> and <m>g</m> are two functions.  Then we define</p>
+<p>A. <m>(f+g)(x) = f(x) + g(x),</m></p>
+<p>B. <m>(f-g)(x) = f(x) - g(x),</m></p>
+<p>C. <m>(fg)(x) = (f\times g)(x) = f(x) \times g(x),</m></p>
+<p>D. <m>(f\div g)(x) = (f/g)(x) =\left(\frac{f}{g}\right) (x) = 
+\frac{f(x)}{g(x)},</m></p>
+<p>Suppose  <me>f(x) = 2x+1</me>
+and <me>g(x) = x+2.</me>
+Then</p>
+<p>1. <m>(f+g)(x)  =</m> <fillin name="AnSwEr0001" characters="18"/>,</p>
+<p>2. <m>(f-g)(x)  =</m> <fillin name="AnSwEr0002" characters="18"/>,</p>
+<p>3. <m>(fg)(x)  =</m> <fillin name="AnSwEr0003" characters="18"/>,</p>
+<p>4. <m>(f/g)(x)  =</m> <fillin name="AnSwEr0004" characters="18"/>,</p>
+</statement>
+      <answer>
+        <p>
+          <m>3x+3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2x^{2}+5x+2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\frac{2x+1}{x+2}</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p191.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p191.pg"/>
   </webwork-reps>
 </webwork-representations>
