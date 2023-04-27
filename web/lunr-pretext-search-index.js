@@ -1900,6 +1900,159 @@ var ptx_lunr_docs = [
   "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-8-harder.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is  ( ) + ( ) = .                               "
 },
 {
+  "id": "sethw-13-variation-sci-formulas",
+  "level": "1",
+  "url": "sethw-13-variation-sci-formulas.html",
+  "type": "Chapter",
+  "number": "19",
+  "title": "13-variation-sci-formulas",
+  "body": " 13-variation-sci-formulas   local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_1.pg   Suppose varies directly with and that when . What is the value of when ?              Library\/Rochester\/setAlgebra24Variation\/find_const.pg   Suppose varies directly as the square of . If when , what is if is 6?  =            Library\/Rochester\/setAlgebra24Variation\/lh3-5_26.pg   State sales tax is directly proportional to retail price . An item that sells for dollars has a sales tax of dollars. Find a mathematical model that gives the amount of sales tax in terms of the retail price .  Your answer is  What is the sales tax on a dollars purchase.  Your answer is:                 local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_2.pg   Suppose varies directly with and that when . What is the value of when ?              local\/Library\/Rochester\/setAlgebra24Variation\/ur_ab_6_2.pg   At 3:00 PM a man 144 cm tall casts a shadow 150 cm long. At the same time, a tall building nearby casts a shadow 179 m long. How tall is the building?  Give your answer in meters. (You may need the fact that 100 cm = 1 m.)            local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_3.pg   Suppose varies inversely with and that when . What is the value of when ?              local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_4.pg   Suppose varies inversely with and that when . What is the value of when ?              Library\/Rochester\/setAlgebra24Variation\/lh3-5_50.pg   Suppose varies jointly as the cube root of and the square of . If when and , what is if and ?  =            local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_5.pg   Suppose varies directly with and inversely with the square of . If when and , what is when and ?              Library\/Rochester\/setAlgebra24Variation\/lh3-5_54.pg   If varies jointly as and and inversely as , then find an equation for if when , , and .              Library\/Rochester\/setAlgebra24Variation\/variation_eqn2.pg   If varies jointly as and the cube of and inversely as , then find an equation for if when , , and .              local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_6.pg   Suppose varies directly with and directly with the cube of . If when and , what is when and ?              Library\/Rochester\/setAlgebra24Variation\/variation_eqn.pg   If varies jointly as and and inversely as , then find an equation for if when , , and .              Library\/Rochester\/setAlgebra24Variation\/joint.pg   Suppose varies jointly as the cube root of and the cube root of . If when and , what is if and ?  =            Library\/Rochester\/setAlgebra24Variation\/lh3-5_60.pg   The stopping distance of an automobile is directly proportional to the square of its speed . A car required feet to stop when its speed was miles per hour. Find a mathematical model that gives the stopping distance in terms of its speed .  Your answer is  Estimate the stopping distance if the brakes are applied when the car is traveling at miles per hour.  Your answer is:                 local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_9.pg   For each power function, choose (by letter) the graph which most closely resembles the graph of that function. You may always assume that the constant of variation is positive.  Warning: You have only 4 attempts at this problem so make them count!                A    A    B    C    A    D        "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_1",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_1",
+  "type": "Exercise",
+  "number": "19.1",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_1.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_1.pg   Suppose varies directly with and that when . What is the value of when ?             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-find_const",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-find_const",
+  "type": "Exercise",
+  "number": "19.2",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/find_const.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/find_const.pg   Suppose varies directly as the square of . If when , what is if is 6?  =           "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_26",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_26",
+  "type": "Exercise",
+  "number": "19.3",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_26.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/lh3-5_26.pg   State sales tax is directly proportional to retail price . An item that sells for dollars has a sales tax of dollars. Find a mathematical model that gives the amount of sales tax in terms of the retail price .  Your answer is  What is the sales tax on a dollars purchase.  Your answer is:                "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_2",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_2",
+  "type": "Exercise",
+  "number": "19.4",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_2.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_2.pg   Suppose varies directly with and that when . What is the value of when ?             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_ab_6_2",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_ab_6_2",
+  "type": "Exercise",
+  "number": "19.5",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_ab_6_2.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_ab_6_2.pg   At 3:00 PM a man 144 cm tall casts a shadow 150 cm long. At the same time, a tall building nearby casts a shadow 179 m long. How tall is the building?  Give your answer in meters. (You may need the fact that 100 cm = 1 m.)           "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_3",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_3",
+  "type": "Exercise",
+  "number": "19.6",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_3.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_3.pg   Suppose varies inversely with and that when . What is the value of when ?             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_4",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_4",
+  "type": "Exercise",
+  "number": "19.7",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_4.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_4.pg   Suppose varies inversely with and that when . What is the value of when ?             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_50",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_50",
+  "type": "Exercise",
+  "number": "19.8",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_50.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/lh3-5_50.pg   Suppose varies jointly as the cube root of and the square of . If when and , what is if and ?  =           "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_5",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_5",
+  "type": "Exercise",
+  "number": "19.9",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_5.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_5.pg   Suppose varies directly with and inversely with the square of . If when and , what is when and ?             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_54",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_54",
+  "type": "Exercise",
+  "number": "19.10",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_54.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/lh3-5_54.pg   If varies jointly as and and inversely as , then find an equation for if when , , and .             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-variation_eqn2",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-variation_eqn2",
+  "type": "Exercise",
+  "number": "19.11",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/variation_eqn2.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/variation_eqn2.pg   If varies jointly as and the cube of and inversely as , then find an equation for if when , , and .             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_6",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_6",
+  "type": "Exercise",
+  "number": "19.12",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_6.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_6.pg   Suppose varies directly with and directly with the cube of . If when and , what is when and ?             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-variation_eqn",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-variation_eqn",
+  "type": "Exercise",
+  "number": "19.13",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/variation_eqn.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/variation_eqn.pg   If varies jointly as and and inversely as , then find an equation for if when , , and .             "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-joint",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-joint",
+  "type": "Exercise",
+  "number": "19.14",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/joint.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/joint.pg   Suppose varies jointly as the cube root of and the cube root of . If when and , what is if and ?  =           "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_60",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_60",
+  "type": "Exercise",
+  "number": "19.15",
+  "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_60.pg<\/em>.",
+  "body": "Library\/Rochester\/setAlgebra24Variation\/lh3-5_60.pg   The stopping distance of an automobile is directly proportional to the square of its speed . A car required feet to stop when its speed was miles per hour. Find a mathematical model that gives the stopping distance in terms of its speed .  Your answer is  Estimate the stopping distance if the brakes are applied when the car is traveling at miles per hour.  Your answer is:                "
+},
+{
+  "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_9",
+  "level": "2",
+  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_9",
+  "type": "Exercise",
+  "number": "19.16",
+  "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_9.pg<\/em>.",
+  "body": "local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_9.pg   For each power function, choose (by letter) the graph which most closely resembles the graph of that function. You may always assume that the constant of variation is positive.  Warning: You have only 4 attempts at this problem so make them count!                A    A    B    C    A    D      "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
