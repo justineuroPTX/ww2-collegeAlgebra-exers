@@ -12,7 +12,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-2" ww-id="webwork-2">
@@ -28,7 +28,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-3" ww-id="webwork-3">
@@ -45,7 +45,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-4" ww-id="webwork-4">
@@ -62,7 +62,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem5.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem5.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-5" ww-id="webwork-5">
@@ -78,7 +78,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem6.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem6.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-6" ww-id="webwork-6">
@@ -93,7 +93,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-7" ww-id="webwork-7">
@@ -109,7 +109,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem8.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem8.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem8.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-8" ww-id="webwork-8">
@@ -125,7 +125,7 @@
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-9" ww-id="webwork-9">
@@ -153,7 +153,7 @@ R(x) = x^3 - 3</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem9.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/problem9.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/problem9.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-10" ww-id="webwork-10">
@@ -169,7 +169,7 @@ R(x) = x^3 - 3</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-R-4-85.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-R-4-85.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-R-4-85.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-11" ww-id="webwork-11">
@@ -186,7 +186,7 @@ R(x) = x^3 - 3</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-91.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-91.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-91.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-12" ww-id="webwork-12">
@@ -203,7 +203,7 @@ R(x) = x^3 - 3</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-93.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-93.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-93.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-13" ww-id="webwork-13">
@@ -220,7 +220,7 @@ R(x) = x^3 - 3</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-96.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-96.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-4/sulvn-r-4-96.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-14" ww-id="webwork-14">
@@ -234,7 +234,7 @@ x^{2}-2x-8</m></p>
         <p>(x-4)*(x+2)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-15" ww-id="webwork-15">
@@ -246,7 +246,7 @@ x^{2}-2x-8</m></p>
         <p>[x+(-7)]*(x+7)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-3-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-3-1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-3-1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-16" ww-id="webwork-16">
@@ -258,7 +258,7 @@ x^{2}-2x-8</m></p>
         <p>4*(x-3)*(x+3)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-17" ww-id="webwork-17">
@@ -272,7 +272,7 @@ x^{2}-2x-8</m></p>
         <p>(4*x-3)^2</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-18" ww-id="webwork-18">
@@ -284,7 +284,7 @@ Your answer: <fillin name="AnSwEr0001" characters="40"/></p>
         <p>(x+5)*(x^2-5*x+25)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-5-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-5-2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-5-2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-19" ww-id="webwork-19">
@@ -298,7 +298,7 @@ x^3-8</m></p>
         <p>(x-2)*(x^2+2*x+4)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-5.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-5.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-20" ww-id="webwork-20">
@@ -312,7 +312,7 @@ t^4+4 t^3-5 t^2</m></p>
         <p>t^2*(t-1)*(t+5)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-21" ww-id="webwork-21">
@@ -325,7 +325,7 @@ t^4+4 t^3-5 t^2</m></p>
         <p>(5*x-2)*(5*x+2)*(x+7)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-6.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-6.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-22" ww-id="webwork-22">
@@ -339,7 +339,7 @@ t^4+4 t^3-5 t^2</m></p>
         <p>(4*a-b-9)*(4*a-b+9)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-23" ww-id="webwork-23">
@@ -353,7 +353,7 @@ t^4+4 t^3-5 t^2</m></p>
         <p>(3*x^4+y^3)*(3*x^4-y^3)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-9.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-9.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-9.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-24" ww-id="webwork-24">
@@ -367,7 +367,7 @@ t^4+4 t^3-5 t^2</m></p>
         <p>9*(x-3)*(x+6)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-25" ww-id="webwork-25">
@@ -382,7 +382,7 @@ t^4+4 t^3-5 t^2</m></p>
         <p>(7*x^2-4*y^3)*(49*x^4+28*x^2*y^3+16*y^6)</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-R-5/problem-11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-R-5/problem-11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-26" ww-id="webwork-26">
@@ -397,7 +397,7 @@ t^4+4 t^3-5 t^2</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/FortLewis/Algebra/3-1-Solving-equations/MCH1-3-1-04-Solving-equations.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/FortLewis/Algebra/3-1-Solving-equations/MCH1-3-1-04-Solving-equations.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/FortLewis/Algebra/3-1-Solving-equations/MCH1-3-1-04-Solving-equations.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-27" ww-id="webwork-27">
@@ -411,7 +411,7 @@ t^4+4 t^3-5 t^2</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p01.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p01.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p01.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-28" ww-id="webwork-28">
@@ -425,7 +425,7 @@ t^4+4 t^3-5 t^2</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-29" ww-id="webwork-29">
@@ -450,7 +450,7 @@ t^4+4 t^3-5 t^2</m></p>
    \end{array}</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_05.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_05.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_05.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-30" ww-id="webwork-30">
@@ -474,7 +474,7 @@ t^4+4 t^3-5 t^2</m></p>
    \end{array}</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_06.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_06.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_06.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-31" ww-id="webwork-31">
@@ -499,7 +499,7 @@ t^4+4 t^3-5 t^2</m></p>
    \end{array}</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_07.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_07.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_07.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-32" ww-id="webwork-32">
@@ -523,7 +523,7 @@ t^4+4 t^3-5 t^2</m></p>
    \end{array}</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_08.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_08.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_08.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-33" ww-id="webwork-33">
@@ -548,7 +548,7 @@ t^4+4 t^3-5 t^2</m></p>
    \end{array}</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_09.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_09.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_09.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-34" ww-id="webwork-34">
@@ -564,7 +564,7 @@ t^4+4 t^3-5 t^2</m></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-35" ww-id="webwork-35">
@@ -585,7 +585,7 @@ t^4+4 t^3-5 t^2</m></p>
 <p><me>g=\frac{45-21}{5-7}=-12.</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-36" ww-id="webwork-36">
@@ -609,7 +609,7 @@ k \amp =\amp  \displaystyle\frac{-8 - \frac{-6}{5}}{\frac{9}{8} + \frac{5}{6}}\\
 <p><me/></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_12_new.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_12_new.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/Problem_12_new.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-37" ww-id="webwork-37">
@@ -623,7 +623,7 @@ k \amp =\amp  \displaystyle\frac{-8 - \frac{-6}{5}}{\frac{9}{8} + \frac{5}{6}}\\
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03b.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03b.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p03b.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-38" ww-id="webwork-38">
@@ -638,7 +638,7 @@ k \amp =\amp  \displaystyle\frac{-8 - \frac{-6}{5}}{\frac{9}{8} + \frac{5}{6}}\\
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Rochester/setAlgebra08LinearEqns/srw1_5_14b.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Rochester/setAlgebra08LinearEqns/srw1_5_14b.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Rochester/setAlgebra08LinearEqns/srw1_5_14b.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-39" ww-id="webwork-39">
@@ -698,7 +698,7 @@ k \amp =\amp  \displaystyle\frac{-8 - \frac{-6}{5}}{\frac{9}{8} + \frac{5}{6}}\\
 <p>To find the total bill for the carpet, use the smallest area between the rectangle and square and multiply that area by the cost per square unit of carpeting.</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/areaandperimeterProblem.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/01_Linear_Equations/areaandperimeterProblem.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/01_Linear_Equations/areaandperimeterProblem.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-40" ww-id="webwork-40">
@@ -715,7 +715,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ASU-topics/setQuadraticFunction/sw3_3_1a.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ASU-topics/setQuadraticFunction/sw3_3_1a.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ASU-topics/setQuadraticFunction/sw3_3_1a.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-41" ww-id="webwork-41">
@@ -733,7 +733,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-42" ww-id="webwork-42">
@@ -750,7 +750,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-43" ww-id="webwork-43">
@@ -767,7 +767,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-44" ww-id="webwork-44">
@@ -785,7 +785,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-45" ww-id="webwork-45">
@@ -803,7 +803,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem5.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem5.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-46" ww-id="webwork-46">
@@ -821,7 +821,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem6.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem6.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-47" ww-id="webwork-47">
@@ -839,7 +839,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-48" ww-id="webwork-48">
@@ -857,7 +857,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem8.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem8.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem8.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-49" ww-id="webwork-49">
@@ -875,7 +875,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem9.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem9.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem9.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-50" ww-id="webwork-50">
@@ -893,7 +893,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-51" ww-id="webwork-51">
@@ -911,7 +911,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-52" ww-id="webwork-52">
@@ -929,7 +929,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem12.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem12.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem12.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-53" ww-id="webwork-53">
@@ -948,7 +948,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-54" ww-id="webwork-54">
@@ -967,7 +967,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem14.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem14.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem14.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-55" ww-id="webwork-55">
@@ -984,7 +984,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem15.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem15.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem15.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-56" ww-id="webwork-56">
@@ -1002,7 +1002,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem16.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem16.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem16.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-57" ww-id="webwork-57">
@@ -1020,7 +1020,7 @@ list.  If there are none, enter <em>NONE</em>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem17.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem17.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem17.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-58" ww-id="webwork-58">
@@ -1040,7 +1040,7 @@ Its area is 2400 <m>\text{ft}^2</m>. What are its dimensions?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-59" ww-id="webwork-59">
@@ -1061,7 +1061,7 @@ The box is to hold 10580 <m>\text{in}^3</m>. How big a piece of cardboard is nee
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-60" ww-id="webwork-60">
@@ -1077,7 +1077,7 @@ operations.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/02_Quadratic_equations/problem-app-3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-61" ww-id="webwork-61">
@@ -1092,7 +1092,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/adding.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/adding.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/adding.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-62" ww-id="webwork-62">
@@ -1113,7 +1113,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-63" ww-id="webwork-63">
@@ -1134,7 +1134,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_17.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_17.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/srw3_4_17.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-64" ww-id="webwork-64">
@@ -1149,7 +1149,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/Subtract.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/Subtract.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/Subtract.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-65" ww-id="webwork-65">
@@ -1164,7 +1164,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/Multiply.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/Multiply.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/Multiply.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-66" ww-id="webwork-66">
@@ -1194,7 +1194,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_12.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_12.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_12.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-67" ww-id="webwork-67">
@@ -1238,7 +1238,7 @@ Hence
 <me>(a+bi)^2 - (a-bi)^2 = 4abi.</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-68" ww-id="webwork-68">
@@ -1270,7 +1270,7 @@ We use the result of the preceding problem and obtain:
 \end{array}</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Intermediate_Algebra/set8_Quadratic_Equations_Functions_and_Inequalities/s8p10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-69" ww-id="webwork-69">
@@ -1323,7 +1323,7 @@ now that you know about linear behavior you may start  noticing it often.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-70" ww-id="webwork-70">
@@ -1338,7 +1338,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/Divide.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra11ComplexNumbers/Divide.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra11ComplexNumbers/Divide.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-71" ww-id="webwork-71">
@@ -1368,7 +1368,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-72" ww-id="webwork-72">
@@ -1436,7 +1436,7 @@ write the result in the form <m>a+ b i</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra11ComplexNumbers/ur_cn_1_13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-73" ww-id="webwork-73">
@@ -1457,7 +1457,7 @@ write the result in the form <m>a+ b i</m>.</p>
         <p>-6-7i</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_6.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-74" ww-id="webwork-74">
@@ -1473,7 +1473,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/problem6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/problem6.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-1-3/problem6.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-75" ww-id="webwork-75">
@@ -1489,7 +1489,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/problem7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/problem7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-1-3/problem7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-76" ww-id="webwork-76">
@@ -1497,7 +1497,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
       <statement><p>Solve the following equation:</p>
 <p><m>x^2  - 8 x + 32 = 0</m></p>
 <p>The roots are: <m>x =</m>
-<fillin name="AnSwEr0001" characters="HASH(0x5576731c1950)"/></p>
+<fillin name="AnSwEr0001" characters="HASH(0x555af492a7f0)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -1508,14 +1508,14 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-77" ww-id="webwork-77">
     <static seed="77" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg">
       <statement><p>Solve the following equation:</p>
 <p><m>81 x^2  - 36 x + 293 = 0</m></p>
-<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x5576734e4ce8)"/></p>
+<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x555af4033688)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -1526,7 +1526,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-78" ww-id="webwork-78">
@@ -1552,7 +1552,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         <p>No correct answer specified</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_33.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_33.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra11ComplexNumbers/ur_cn_1_33.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-79" ww-id="webwork-79">
@@ -1569,7 +1569,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setSolveEquations/zhu4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-80" ww-id="webwork-80">
@@ -1589,7 +1589,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p12.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p12.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p12.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-81" ww-id="webwork-81">
@@ -1603,7 +1603,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_22.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_22.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_22.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-82" ww-id="webwork-82">
@@ -1619,7 +1619,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-83" ww-id="webwork-83">
@@ -1639,7 +1639,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_59.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_59.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_59.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-84" ww-id="webwork-84">
@@ -1666,7 +1666,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveSqrt.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveSqrt.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveSqrt.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-85" ww-id="webwork-85">
@@ -1685,7 +1685,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         <p>yes</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveDualSqrt.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveDualSqrt.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra12EqnsOtherTypes/SolveDualSqrt.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-86" ww-id="webwork-86">
@@ -1699,7 +1699,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_36.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_36.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_36.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-87" ww-id="webwork-87">
@@ -1714,7 +1714,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setSolveEquations/zhu7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-88" ww-id="webwork-88">
@@ -1728,7 +1728,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-89" ww-id="webwork-89">
@@ -1745,7 +1745,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu8.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu8.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setSolveEquations/zhu8.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-90" ww-id="webwork-90">
@@ -1759,7 +1759,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-91" ww-id="webwork-91">
@@ -1778,7 +1778,7 @@ root.  (Fill in the second blank with REAL or EXTRANEOUS)</p>
         <p>EXTRANEOUS</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/equationW2radicals.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/equationW2radicals.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/equationW2radicals.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-92" ww-id="webwork-92">
@@ -1795,7 +1795,7 @@ root.  (Fill in the second blank with REAL or EXTRANEOUS)</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ASU-topics/setSolveEquations/zhu6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ASU-topics/setSolveEquations/zhu6.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ASU-topics/setSolveEquations/zhu6.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-93" ww-id="webwork-93">
@@ -1826,7 +1826,7 @@ root.  (Fill in the second blank with REAL or EXTRANEOUS)</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-94" ww-id="webwork-94">
@@ -1840,7 +1840,7 @@ root.  (Fill in the second blank with REAL or EXTRANEOUS)</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/lh1-6_21.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-95" ww-id="webwork-95">
@@ -1862,7 +1862,7 @@ root.  (Fill in the second blank with REAL or EXTRANEOUS)</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/quadWfractions.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/quadWfractions.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/quadWfractions.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-96" ww-id="webwork-96">
@@ -1880,7 +1880,7 @@ Do not list individual values of <m>x</m> more than once.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setSolveEquations/zhu2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-97" ww-id="webwork-97">
@@ -1898,7 +1898,7 @@ Do not list individual values of <m>x</m> more than once.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setSolveEquations/zhu1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setSolveEquations/zhu1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-98" ww-id="webwork-98">
@@ -1923,7 +1923,7 @@ Do not list individual values of <m>x</m> more than once.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set2_Linear_Equations_and_Functions/p10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-99" ww-id="webwork-99">
@@ -1937,7 +1937,7 @@ Do not list individual values of <m>x</m> more than once.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra12EqnsOtherTypes/ur_ab_5_4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-100" ww-id="webwork-100">
@@ -1964,7 +1964,7 @@ where <m>A \lt  B \lt  C</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_61.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_61.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra12EqnsOtherTypes/srw1_5_61.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-101" ww-id="webwork-101">
@@ -1979,7 +1979,7 @@ Answer: <fillin name="AnSwEr0001" characters="35"/></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Union/setAlgebraInequalities/srw1_7_13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Union/setAlgebraInequalities/srw1_7_13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Union/setAlgebraInequalities/srw1_7_13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-102" ww-id="webwork-102">
@@ -1994,7 +1994,7 @@ Enter your answer using inequality notation.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/FortLewis/Algebra/3-2-Solving-inequalities/MCH1-3-2-14-Solving-inequalities.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/FortLewis/Algebra/3-2-Solving-inequalities/MCH1-3-2-14-Solving-inequalities.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/FortLewis/Algebra/3-2-Solving-inequalities/MCH1-3-2-14-Solving-inequalities.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-103" ww-id="webwork-103">
@@ -2019,7 +2019,7 @@ Enter your answer using inequality notation.</p>
         <p>yes</p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra13Inequalities/ur_ab_7_1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra13Inequalities/ur_ab_7_1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/maCalcDB/setAlgebra13Inequalities/ur_ab_7_1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-104" ww-id="webwork-104">
@@ -2034,7 +2034,7 @@ Answer: <fillin name="AnSwEr0001" characters="35"/></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ASU-topics/setInequalities/zhu23.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ASU-topics/setInequalities/zhu23.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ASU-topics/setInequalities/zhu23.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-105" ww-id="webwork-105">
@@ -2052,7 +2052,7 @@ If needed enter <m>\infty</m> as <em> infinity </em> and <m>-\infty</m> as <em> 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/zhu27.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/zhu27.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setInequalities/zhu27.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-106" ww-id="webwork-106">
@@ -2070,7 +2070,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/p13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/p13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setInequalities/p13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-107" ww-id="webwork-107">
@@ -2090,7 +2090,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-108" ww-id="webwork-108">
@@ -2110,7 +2110,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-109" ww-id="webwork-109">
@@ -2127,7 +2127,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setAbsoluteValue/zhu1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setAbsoluteValue/zhu1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setAbsoluteValue/zhu1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-110" ww-id="webwork-110">
@@ -2144,7 +2144,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setAbsoluteValue/zhu2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setAbsoluteValue/zhu2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setAbsoluteValue/zhu2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-111" ww-id="webwork-111">
@@ -2161,7 +2161,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setAbsoluteValue/zhu3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setAbsoluteValue/zhu3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setAbsoluteValue/zhu3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-112" ww-id="webwork-112">
@@ -2178,7 +2178,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/pn4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/ASU-topics/setInequalities/pn4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/ASU-topics/setInequalities/pn4.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-113" ww-id="webwork-113">
@@ -2198,7 +2198,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p12.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p12.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Business_Algebra/set3_Inequalities_and_Linear_Programming/p12.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-114" ww-id="webwork-114">
@@ -2228,7 +2228,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
 </tabular>
 </statement>
     </static>
-    <server-data sourceFilePath="local/Library/Union/setAlgebraAbsoluteValue/srw1_8_1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Union/setAlgebraAbsoluteValue/srw1_8_1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Union/setAlgebraAbsoluteValue/srw1_8_1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-115" ww-id="webwork-115">
@@ -2247,7 +2247,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
 
 </solution>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_20_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_20_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_20_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-116" ww-id="webwork-116">
@@ -2261,7 +2261,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_22_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_22_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_22_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-117" ww-id="webwork-117">
@@ -2275,7 +2275,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_30_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_30_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_30_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-118" ww-id="webwork-118">
@@ -2289,7 +2289,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_26_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_26_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_26_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-119" ww-id="webwork-119">
@@ -2303,7 +2303,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_16_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_16_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_16_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-120" ww-id="webwork-120">
@@ -2317,7 +2317,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_25_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_25_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_25_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-121" ww-id="webwork-121">
@@ -2331,7 +2331,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_28_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_28_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_28_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-122" ww-id="webwork-122">
@@ -2345,7 +2345,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_23_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_23_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_23_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-123" ww-id="webwork-123">
@@ -2359,7 +2359,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/CollegeOfIdaho/setAlgebra_04_03_AbsoluteValue/43IntAlg_18_AbsValIneq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-124" ww-id="webwork-124">
@@ -2376,7 +2376,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
 <p><me>\frac{120}{520} \cdot 100 \% \approx 23.077 \%</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_38.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_38.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_38.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-125" ww-id="webwork-125">
@@ -2395,7 +2395,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
 380 \cdot \frac{55}{100} = 209</m></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates//lh1-3_36.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates//lh1-3_36.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates//lh1-3_36.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-126" ww-id="webwork-126">
@@ -2414,7 +2414,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
 <me>x = 290 \cdot \frac{100}{35} = 828.571428571429</me></p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_39.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_39.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/PREP_2011_College_Algebra/07_Word_Problems_Interest_Mixture_Motion_Rates/lh1-3_39.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-127" ww-id="webwork-127">
@@ -2434,7 +2434,7 @@ the "union" symbol, U. If needed enter <m>\infty</m> as <em> infinity </em> and 
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_32.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_32.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_32.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-128" ww-id="webwork-128">
@@ -2450,7 +2450,7 @@ If the average age of the children is <m>13.75</m>, how old is the youngest chil
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_17.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_17.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_17.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-129" ww-id="webwork-129">
@@ -2469,7 +2469,7 @@ If the average age of the children is <m>13.75</m>, how old is the youngest chil
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_51.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_51.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_51.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-130" ww-id="webwork-130">
@@ -2488,7 +2488,7 @@ If the average age of the children is <m>13.75</m>, how old is the youngest chil
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/lh1-3_51.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/lh1-3_51.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/lh1-3_51.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-131" ww-id="webwork-131">
@@ -2512,7 +2512,7 @@ investments was <m>2890</m> dollars. How much money did she invest at each rate?
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_25.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_25.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_25.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-132" ww-id="webwork-132">
@@ -2529,7 +2529,7 @@ How many fifty dollar bills are in the cash register?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/srw1_6_11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/srw1_6_11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/srw1_6_11.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-133" ww-id="webwork-133">
@@ -2545,7 +2545,7 @@ purse contain?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_28.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_28.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_28.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-134" ww-id="webwork-134">
@@ -2565,7 +2565,7 @@ paycheck.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_46.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_46.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/lh1-3_46.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-135" ww-id="webwork-135">
@@ -2581,7 +2581,7 @@ what is her monthly salary in dollars?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_13.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_13.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_13.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-136" ww-id="webwork-136">
@@ -2596,7 +2596,7 @@ works twice as fast as Stan, how long would it take Stan to mow the lawn alone?<
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_52.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_52.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra09LinearEqnsModeling/sw3_2_52.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-137" ww-id="webwork-137">
@@ -2614,7 +2614,7 @@ job, how long would Jeff need to do the job alone?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/paintingpartners.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra09LinearEqnsModeling/paintingpartners.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra09LinearEqnsModeling/paintingpartners.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-138" ww-id="webwork-138">
@@ -2634,7 +2634,7 @@ job, how long would Jeff need to do the job alone?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ma117DB/set2/srw1_8_7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-139" ww-id="webwork-139">
@@ -2654,7 +2654,7 @@ job, how long would Jeff need to do the job alone?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_5.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ma117DB/set2/srw1_8_5.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-140" ww-id="webwork-140">
@@ -2674,7 +2674,7 @@ job, how long would Jeff need to do the job alone?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ma117DB/set2/srw1_8_3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ma117DB/set2/srw1_8_3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-141" ww-id="webwork-141">
@@ -2693,7 +2693,7 @@ job, how long would Jeff need to do the job alone?</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra07PointsCircles/midpoint_hard.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra07PointsCircles/midpoint_hard.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra07PointsCircles/midpoint_hard.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-142" ww-id="webwork-142">
@@ -2711,7 +2711,7 @@ If there are no such <m>y</m>, enter <em> none. </em></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Union/setAnalGeomDistance/distfindy.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Union/setAnalGeomDistance/distfindy.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Union/setAnalGeomDistance/distfindy.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-143" ww-id="webwork-143">
@@ -2756,7 +2756,7 @@ see from the picture what are the coordinates of the midpoint.
 
 </solution>
     </static>
-    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/srw1_9_2-sol.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/srw1_9_2-sol.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ASU-topics/setCartesianPlane/srw1_9_2-sol.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-144" ww-id="webwork-144">
@@ -2773,7 +2773,7 @@ If there is more that one <m>x</m>, give a comma separated list (i.e.:  1,2).</p
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/beth10.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/beth10.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ASU-topics/setCartesianPlane/beth10.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-145" ww-id="webwork-145">
@@ -2808,7 +2808,7 @@ If there is more that one <m>x</m>, give a comma separated list (i.e.:  1,2).</p
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/jj1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ASU-topics/setCartesianPlane/jj1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ASU-topics/setCartesianPlane/jj1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-146" ww-id="webwork-146">
@@ -2829,7 +2829,7 @@ that joins them is:<fillin name="AnSwEr0002" characters="20"/></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setGeometry1Points/srw1_9_2_mo.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setGeometry1Points/srw1_9_2_mo.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setGeometry1Points/srw1_9_2_mo.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-147" ww-id="webwork-147">
@@ -2856,7 +2856,7 @@ with <m>x_1\le x_2</m>;</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_8.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_8.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ma112DB/set3/sw2_2_8.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-148" ww-id="webwork-148">
@@ -2877,7 +2877,7 @@ with <m>x_1\le x_2</m>;</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_7.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ma112DB/set3/sw2_2_7.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-149" ww-id="webwork-149">
@@ -2913,7 +2913,7 @@ Input yes or no here : <fillin name="AnSwEr0005" characters="10"/></p>
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_18.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/ma112DB/set3/sw2_2_18.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/ma112DB/set3/sw2_2_18.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-150" ww-id="webwork-150">
@@ -2936,7 +2936,7 @@ Input yes or no here : <fillin name="AnSwEr0005" characters="10"/></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_45.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_45.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_45.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-151" ww-id="webwork-151">
@@ -2957,7 +2957,7 @@ Input yes or no here : <fillin name="AnSwEr0005" characters="10"/></p>
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/symm1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/symm1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/symm1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-152" ww-id="webwork-152">
@@ -2990,7 +2990,7 @@ with <m>y_1\le y_2</m>.</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_47.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_47.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_47.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-153" ww-id="webwork-153">
@@ -3015,7 +3015,7 @@ with <m>y_1\le y_2</m>.</p>
         <p>No</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_39.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_39.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_39.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-154" ww-id="webwork-154">
@@ -3039,7 +3039,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/beth1grapheq.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/beth1grapheq.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/beth1grapheq.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-155" ww-id="webwork-155">
@@ -3081,7 +3081,7 @@ Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0005" character
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/p2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-156" ww-id="webwork-156">
@@ -3105,7 +3105,7 @@ Input <em> yes </em> or no here : <fillin name="AnSwEr0003" characters="10"/></p
         <p>yes</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_65.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_65.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_65.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-157" ww-id="webwork-157">
@@ -3147,7 +3147,7 @@ Input <em> yes </em> or <em> no </em> here : <fillin name="AnSwEr0005" character
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/p3.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-158" ww-id="webwork-158">
@@ -3171,7 +3171,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
         <p>yes</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_67.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_67.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_67.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-159" ww-id="webwork-159">
@@ -3194,7 +3194,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_43.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_43.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/srw1_8_43.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-160" ww-id="webwork-160">
@@ -3236,7 +3236,7 @@ If there are none, type <em> none </em> in the answer blank.</p>
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/beth1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/beth1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/beth1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-161" ww-id="webwork-161">
@@ -3274,7 +3274,7 @@ Input yes or no here : <fillin name="AnSwEr0005" characters="10"/></p>
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra06EqnGraphs/p1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/maCalcDB/setAlgebra06EqnGraphs/p1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-162" ww-id="webwork-162">
@@ -3298,7 +3298,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
         <p>no</p>
       </answer>
     </static>
-    <server-data sourceFilePath="Library/Rochester/setAlgebra06EqnGraphs/sw2_2_41.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="Library/Rochester/setAlgebra06EqnGraphs/sw2_2_41.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="Library/Rochester/setAlgebra06EqnGraphs/sw2_2_41.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-163" ww-id="webwork-163">
@@ -3316,7 +3316,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
 <p>m = (y2 - y1) / (x2 - x1)</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/slope.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/slope.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/slope.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-164" ww-id="webwork-164">
@@ -3334,7 +3334,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
 <p>m = (y2 - y1) / (x2 - x1)</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/slope1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/slope1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/slope1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-165" ww-id="webwork-165">
@@ -3353,7 +3353,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
 <p>Then to find the equation, Use the slope-intercept form of a line, y = Mx + b.  Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept).  Then rewrite the equation using the variables x and y, and the value calculated for M and b.</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/equationofline.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/equationofline.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/equationofline.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-166" ww-id="webwork-166">
@@ -3370,7 +3370,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
       <solution><p>To find the equation of a parallel line, you must find the slope (M)off the given equation.  Since the line is parallel, then the slope will be the same as the given line.  Then you use the given point and slope to find the equation using the same steps as in Problem 2.</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/parallelline.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/parallelline.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/parallelline.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-167" ww-id="webwork-167">
@@ -3388,7 +3388,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
 <p>m = (y2 - y1) / (x2 - x1)</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/slope2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/slope2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/slope2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-168" ww-id="webwork-168">
@@ -3407,7 +3407,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
 <p>Then to find the equation, Use the slope-intercept form of a line, y = Mx + b.  Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept).  Then rewrite the equation using the variables x and y, and the value calculated for M and b.</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/equationofline1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/equationofline1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/equationofline1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-169" ww-id="webwork-169">
@@ -3424,7 +3424,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
       <solution><p>To find the equation of a parallel line, you must find the slope (M)off the given equation.  Since the line is parallel, then the slope will be the same as the given line.  Then you use the given point and slope to find the equation using the same steps as in Problem 2.</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/parallelline1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/parallelline1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/parallelline1.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-170" ww-id="webwork-170">
@@ -3443,7 +3443,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
 <p>Then to find the equation, Use the slope-intercept form of a line, y = Mx + b.  Plug the point in for x and y, and plug M in from the previous formula, and solve for b (y - intercept).  Then rewrite the equation using the variables x and y, and the value calculated for M and b.</p>
 </solution>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/equationofline2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/equationofline2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/equationofline2.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-171" ww-id="webwork-171">
@@ -3457,7 +3457,7 @@ Input yes or no here : <fillin name="AnSwEr0003" characters="10"/></p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/AP_Calculus_I/set1_Reviews_of_Fundamentals/1210s1p17.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/AP_Calculus_I/set1_Reviews_of_Fundamentals/1210s1p17.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/AP_Calculus_I/set1_Reviews_of_Fundamentals/1210s1p17.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-172" ww-id="webwork-172">
@@ -3477,7 +3477,7 @@ to the line <m>y = 3x +2</m> has slope:</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/Library/Utah/Calculus_I/set1_Preliminaries/1210s1p18.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/Library/Utah/Calculus_I/set1_Preliminaries/1210s1p18.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/Calculus_I/set1_Preliminaries/1210s1p18.pg"/>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-173" ww-id="webwork-173">
@@ -3498,7 +3498,618 @@ and equation</p>
         </p>
       </answer>
     </static>
-    <server-data sourceFilePath="local/sethw-11-Lines/Problem11.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <server-data sourceFilePath="local/sethw-11-Lines/Problem11.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/sethw-11-Lines/Problem11.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-174" ww-id="webwork-174">
+    <static seed="174" source="Library/Union/setAnalGeomConics/circle2.pg">
+      <statement><p>Find the equation of the circle whose diameter
+has endpoints (-8, 2) and (3, 10). Write it in the form
+<me>(x-h)^2 + (y-k)^2 = r^2</me>
+and identify <m>h</m>, <m>k</m>, and <m>r</m>.</p>
+<tabular>
+<row>
+<cell><m>h</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0001" characters="15"/></cell>
+</row>
+<row>
+<cell><m>k</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0002" characters="15"/></cell>
+</row>
+<row>
+<cell><m>r</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0003" characters="15"/></cell>
+</row>
+</tabular>
+</statement>
+      <answer>
+        <p>
+          <m>-2.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.80074</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Union/setAnalGeomConics/circle2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Union/setAnalGeomConics/circle2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-175" ww-id="webwork-175">
+    <static seed="175" source="Library/Union/setAnalGeomConics/p5.pg">
+      <statement><p>Find the equation of the circle that has center
+<m>(-2,-3)</m> and is tangent to the <m>y</m>-axis. Write it in the form
+<me>(x-h)^2 + (y-k)^2 = r^2</me>
+and identify <m>h</m>, <m>k</m>, and <m>r</m>.</p>
+<tabular>
+<row>
+<cell><m>h</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0001" characters="15"/></cell>
+</row>
+<row>
+<cell><m>k</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0002" characters="15"/></cell>
+</row>
+<row>
+<cell><m>r</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0003" characters="15"/></cell>
+</row>
+</tabular>
+</statement>
+      <answer>
+        <p>
+          <m>-2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Union/setAnalGeomConics/p5.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Union/setAnalGeomConics/p5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-176" ww-id="webwork-176">
+    <static seed="176" source="Library/Union/setAnalGeomConics/circles-1.pg">
+      <statement><p>(a) Find the equation of the circle whose diameter
+has endpoints (-5, 9) and (1, -2). Write it in the form
+<me>(x-h)^2 + (y-k)^2 = r^2</me>
+and identify <m>h</m>, <m>k</m>, and <m>r</m>.</p>
+<tabular>
+<row>
+<cell><m>h</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0001" characters="15"/></cell>
+</row>
+<row>
+<cell><m>k</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0002" characters="15"/></cell>
+</row>
+<row>
+<cell><m>r</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0003" characters="15"/></cell>
+</row>
+</tabular>
+<p>(b) Find the equation of the circle that has center
+<m>(1,-1)</m> and is tangent to the <m>y</m>-axis. Write it in the form
+<me>(x-h)^2 + (y-k)^2 = r^2</me>
+and identify <m>h</m>, <m>k</m>, and <m>r</m>.</p>
+<tabular>
+<row>
+<cell><m>h</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0004" characters="15"/></cell>
+</row>
+<row>
+<cell><m>k</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0005" characters="15"/></cell>
+</row>
+<row>
+<cell><m>r</m></cell>
+<cell><m>=</m></cell>
+<cell><fillin name="AnSwEr0006" characters="15"/></cell>
+</row>
+</tabular>
+</statement>
+      <answer>
+        <p>
+          <m>-2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.26498</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/Union/setAnalGeomConics/circles-1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/Union/setAnalGeomConics/circles-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-177" ww-id="webwork-177">
+    <static seed="177" source="Library/ASU-topics/setGraphEquations/circlenot1.pg">
+      <statement><p>Find the standard form for the equation of a circle <m>(x-h)^2 + (y-k)^2 = r^2</m> with a diameter that has endpoints of 
+<m>(-4, 2)</m> and <m>(6, -8)</m>.</p>
+<p><m>h =</m> <fillin name="AnSwEr0001" characters="30"/></p>
+<p><m>k =</m> <fillin name="AnSwEr0002" characters="30"/></p>
+<p><m>r =</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7.07106781186548</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/circlenot1.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/circlenot1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-178" ww-id="webwork-178">
+    <static seed="178" source="Library/ASU-topics/setGraphEquations/circle3.pg">
+      <statement><p>Find the center <m>(h, k)</m> and the radius <m>r</m> of the circle
+<me>4 x^2 - 6 x+ 4 y^2+ 10 y-1 = 0 .</me></p>
+<p><m>h =</m> <fillin name="AnSwEr0001" characters="30"/></p>
+<p><m>k =</m> <fillin name="AnSwEr0002" characters="30"/></p>
+<p><m>r =</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>0.75</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-1.25</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1.54110350074224</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/circle3.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/circle3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-179" ww-id="webwork-179">
+    <static seed="179" source="Library/ASU-topics/setGraphEquations/circle2.pg">
+      <statement><p>Find the standard form for the equation of a circle <m>(x-h)^2 + (y-k)^2 = r^2</m> with a diameter that has endpoints of 
+<m>(-1, 8)</m> and <m>(4, 2)</m>.</p>
+<p><m>h =</m> <fillin name="AnSwEr0001" characters="30"/></p>
+<p><m>k =</m> <fillin name="AnSwEr0002" characters="30"/></p>
+<p><m>r =</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>1.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.90512483795333</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/circle2.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/circle2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-180" ww-id="webwork-180">
+    <static seed="180" source="Library/ASU-topics/setGraphEquations/srw1_8_73.pg">
+      <statement><p>Find an equation of the circle with center <m>(19,-11)</m> and radius <m>5</m>
+in the form of <me>(x-A)^2+(y-B)^2=C^2</me>
+where <m>A</m>, <m>B</m>, and <m>C</m> are constants. Then</p>
+<p><m>A =</m>  <fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>B =</m>  <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>C =</m>  <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>19</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>No correct answer specified</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/srw1_8_73.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/srw1_8_73.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-181" ww-id="webwork-181">
+    <static seed="181" source="Library/ASU-topics/setGraphEquations/p4.pg">
+      <statement><p>Find an equation of the circle with center at <m>(-10,3)</m> and passing through
+<m>(2,-5)</m> in the form of 
+<m>(x-A)^2+(y-B)^2=C</m> where <m>A, B, C</m> are constants. Then</p>
+<p><m>A</m> is : <fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>B</m> is : <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>C</m> is : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>208</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/p4.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/p4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-182" ww-id="webwork-182">
+    <static seed="182" source="Library/ASU-topics/setGraphEquations/p5.pg">
+      <statement><p>Find an equation of the circle with center at
+<m>(-5,4)</m> that is tangent to the y-axis in the form of 
+<m>(x-A)^2+(y-B)^2=C</m> where <m>A, B, C</m> are constants. Then</p>
+<p><m>A</m> is : <fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>B</m> is : <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>C</m> is : <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>25</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/p5.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/p5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-183" ww-id="webwork-183">
+    <static seed="183" source="Library/ASU-topics/setGraphEquations/sw2_2_53.pg">
+      <statement><p>Find an equation of the circle with center at the origin and passing through
+<m>(-3,-6)</m> in the form of 
+<me>(x-A)^2+(y-B)^2=C</me>
+where <m>A, B, C</m> are constants. Then</p>
+<p><m>A=</m> <fillin name="AnSwEr0001" characters="10"/></p>
+<p><m>B=</m> <fillin name="AnSwEr0002" characters="10"/></p>
+<p><m>C=</m> <fillin name="AnSwEr0003" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>45</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="Library/ASU-topics/setGraphEquations/sw2_2_53.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ASU-topics/setGraphEquations/sw2_2_53.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-184" ww-id="webwork-184">
+    <static seed="184" source="local/uw-stout/math120-sulvn-2-4/circle-problem-1-center-radius.pg">
+      <statement><p>Find the equation of the circle centered at <m>(-3 , -8 )</m> with radius 10</p>
+<p>in the form
+<m>(x-h)^2 + (y-k)^2 = r^2</m>.</p>
+<p>The equation is  (<fillin name="AnSwEr0001" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0002" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0003" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>x+3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y+8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>100</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-1-center-radius.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-1-center-radius.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-185" ww-id="webwork-185">
+    <static seed="185" source="local/uw-stout/math120-sulvn-2-4/circle-problem-2-center-radius.pg">
+      <statement><p>Find an equation of the circle with center <m>(10,-16)</m> and radius <m>6</m>
+in the form of <m>(x-h)^2+(y-k)^2=r^2</m>.</p>
+<p>The equation is  (<fillin name="AnSwEr0001" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0002" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0003" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>x-10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y+16</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>36</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-2-center-radius.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-2-center-radius.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-186" ww-id="webwork-186">
+    <static seed="186" source="local/uw-stout/math120-sulvn-2-4/circle-problem-3-center-point.pg">
+      <statement><p>Find an equation of the circle with center at the origin and passing through
+<m>(1,-1)</m> in the standard form <m>(x-h)^2+(y-k)^2=r^2</m>.</p>
+<p>The equation is  <fillin name="AnSwEr0001" characters="4"/> + <fillin name="AnSwEr0002" characters="4"/> = <fillin name="AnSwEr0003" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>x^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-3-center-point.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-3-center-point.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-187" ww-id="webwork-187">
+    <static seed="187" source="local/uw-stout/math120-sulvn-2-4/circle-problem-4-from-general.pg">
+      <statement><p>Find the center and radius of the circle whose equation is 
+<m>x^2 + 4 x + y^2  - 8 y + 9 = 0</m>.</p>
+<p>The center of the circle is at point <fillin name="AnSwEr0001" characters="10"/>.</p>
+<p>The radius of the circle is <fillin name="AnSwEr0002" characters="5"/>.</p>
+<p>The same equation in the standard form <m>(x-h)^2 + (y-k)^2 = r^2</m> is (<fillin name="AnSwEr0003" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0004" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0005" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-2,4\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.31662</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x+2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y-4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-4-from-general.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-4-from-general.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-188" ww-id="webwork-188">
+    <static seed="188" source="local/uw-stout/math120-sulvn-2-4/circle-problem-5-from-general.pg">
+      <statement><p>Find the center and radius of the circle whose equation is 
+<m>x^2 + 7 x + y^2 + 5 y  - 15 = 0</m>.</p>
+<p>The center of the circle is at point <fillin name="AnSwEr0001" characters="10"/>.</p>
+<p>The radius of the circle is <fillin name="AnSwEr0002" characters="5"/>.</p>
+<p>The same equation in the standard form <m>(x-h)^2 + (y-k)^2 = r^2</m> is</p>
+<p>(<fillin name="AnSwEr0003" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0004" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0005" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-3.5,-2.5\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5.78792</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x+3.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y+2.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>33.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-5-from-general.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-5-from-general.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-189" ww-id="webwork-189">
+    <static seed="189" source="local/uw-stout/math120-sulvn-2-4/circle-problem-6-from-general.pg">
+      <statement><p>Find the center and radius of the circle given by the equation
+<m>\displaystyle
+x^2 + y^2 + 12 x + 6 y + 29 = 0</m></p>
+<p>The center is at point: <fillin name="AnSwEr0001" characters="20"/></p>
+<p>The radius is : <fillin name="AnSwEr0002" characters="10"/></p>
+<p>The same equation in the standard form <m>(x-h)^2 + (y-k)^2 = r^2</m> is</p>
+<p>(<fillin name="AnSwEr0003" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0004" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0005" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-6,-3\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x+6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y+3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>16</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-6-from-general.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-6-from-general.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-190" ww-id="webwork-190">
+    <static seed="190" source="local/uw-stout/math120-sulvn-2-4/circle-problem-7-from-diameter-points.pg">
+      <statement><p>Find the standard form for the equation of a circle 
+<m>(x-h)^2 + (y-k)^2 = r^2</m>
+with a diameter that has endpoints <m>(-10, -9)</m> and <m>(10, 1)</m>.</p>
+<p>The equation is (<fillin name="AnSwEr0001" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0002" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0003" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>x</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y+4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>125</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-7-from-diameter-points.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-7-from-diameter-points.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-191" ww-id="webwork-191">
+    <static seed="191" source="local/uw-stout/math120-sulvn-2-4/circle-problem-8-harder.pg">
+      <statement><p>Find the center and radius of the circle whose equation is 
+<m>2 x^2 - 7 x+ 2 y^2+ 4 y - 4  = 0</m>.</p>
+<p>The center of the circle is at point <fillin name="AnSwEr0001" characters="10"/>.</p>
+<p>The radius of the circle is <fillin name="AnSwEr0002" characters="5"/> .</p>
+<p>The same equation in the standard form <m>(x-h)^2 + (y-k)^2 = r^2</m> is</p>
+<p>(<fillin name="AnSwEr0003" characters="4"/>)<m>^2</m> + (<fillin name="AnSwEr0004" characters="4"/>)<m>^2</m> = <fillin name="AnSwEr0005" characters="3"/>.</p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(1.75,-1\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2.46221</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>x-1.75</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>y+1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.0625</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-2-4/circle-problem-8-harder.pg" domain="https://JustineUro" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-2-4/circle-problem-8-harder.pg"/>
   </webwork-reps>
 </webwork-representations>

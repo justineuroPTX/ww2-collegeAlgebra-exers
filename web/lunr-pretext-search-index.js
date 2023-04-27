@@ -1729,6 +1729,177 @@ var ptx_lunr_docs = [
   "body": "local\/sethw-11-Lines\/Problem11.pg   Given slope = 8 and the point (-7,10). The equation of the line y = mx + b has y-intercept  b = and equation  y =                "
 },
 {
+  "id": "sethw-12-circles",
+  "level": "1",
+  "url": "sethw-12-circles.html",
+  "type": "Chapter",
+  "number": "18",
+  "title": "12-circles",
+  "body": " 12-circles   Library\/Union\/setAnalGeomConics\/circle2.pg   Find the equation of the circle whose diameter has endpoints (-8, 2) and (3, 10). Write it in the form and identify , , and .                                       Library\/Union\/setAnalGeomConics\/p5.pg   Find the equation of the circle that has center and is tangent to the -axis. Write it in the form and identify , , and .                                       Library\/Union\/setAnalGeomConics\/circles-1.pg   (a) Find the equation of the circle whose diameter has endpoints (-5, 9) and (1, -2). Write it in the form and identify , , and .                   (b) Find the equation of the circle that has center and is tangent to the -axis. Write it in the form and identify , , and .                                                      Library\/ASU-topics\/setGraphEquations\/circlenot1.pg   Find the standard form for the equation of a circle with a diameter that has endpoints of and .                           Library\/ASU-topics\/setGraphEquations\/circle3.pg   Find the center and the radius of the circle                           Library\/ASU-topics\/setGraphEquations\/circle2.pg   Find the standard form for the equation of a circle with a diameter that has endpoints of and .                           Library\/ASU-topics\/setGraphEquations\/srw1_8_73.pg   Find an equation of the circle with center and radius in the form of where , , and are constants. Then                    No correct answer specified       Library\/ASU-topics\/setGraphEquations\/p4.pg   Find an equation of the circle with center at and passing through in the form of where are constants. Then  is :  is :  is :                      Library\/ASU-topics\/setGraphEquations\/p5.pg   Find an equation of the circle with center at that is tangent to the y-axis in the form of where are constants. Then  is :  is :  is :                      Library\/ASU-topics\/setGraphEquations\/sw2_2_53.pg   Find an equation of the circle with center at the origin and passing through in the form of where are constants. Then                            local\/uw-stout\/math120-sulvn-2-4\/circle-problem-1-center-radius.pg   Find the equation of the circle centered at with radius 10  in the form .  The equation is ( ) + ( ) = .                      local\/uw-stout\/math120-sulvn-2-4\/circle-problem-2-center-radius.pg   Find an equation of the circle with center and radius in the form of .  The equation is ( ) + ( ) = .                      local\/uw-stout\/math120-sulvn-2-4\/circle-problem-3-center-point.pg   Find an equation of the circle with center at the origin and passing through in the standard form .  The equation is + = .                      local\/uw-stout\/math120-sulvn-2-4\/circle-problem-4-from-general.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is ( ) + ( ) = .                                local\/uw-stout\/math120-sulvn-2-4\/circle-problem-5-from-general.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is  ( ) + ( ) = .                                local\/uw-stout\/math120-sulvn-2-4\/circle-problem-6-from-general.pg   Find the center and radius of the circle given by the equation  The center is at point:  The radius is :  The same equation in the standard form is  ( ) + ( ) = .                                local\/uw-stout\/math120-sulvn-2-4\/circle-problem-7-from-diameter-points.pg   Find the standard form for the equation of a circle with a diameter that has endpoints and .  The equation is ( ) + ( ) = .                      local\/uw-stout\/math120-sulvn-2-4\/circle-problem-8-harder.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is  ( ) + ( ) = .                                 "
+},
+{
+  "id": "ch18-Library-Union-setAnalGeomConics-circle2",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-Union-setAnalGeomConics-circle2",
+  "type": "Exercise",
+  "number": "18.1",
+  "title": "<em class=\"alert\">Library\/Union\/setAnalGeomConics\/circle2.pg<\/em>.",
+  "body": "Library\/Union\/setAnalGeomConics\/circle2.pg   Find the equation of the circle whose diameter has endpoints (-8, 2) and (3, 10). Write it in the form and identify , , and .                                      "
+},
+{
+  "id": "ch18-Library-Union-setAnalGeomConics-p5",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-Union-setAnalGeomConics-p5",
+  "type": "Exercise",
+  "number": "18.2",
+  "title": "<em class=\"alert\">Library\/Union\/setAnalGeomConics\/p5.pg<\/em>.",
+  "body": "Library\/Union\/setAnalGeomConics\/p5.pg   Find the equation of the circle that has center and is tangent to the -axis. Write it in the form and identify , , and .                                      "
+},
+{
+  "id": "ch18-Library-Union-setAnalGeomConics-circles-1",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-Union-setAnalGeomConics-circles-1",
+  "type": "Exercise",
+  "number": "18.3",
+  "title": "<em class=\"alert\">Library\/Union\/setAnalGeomConics\/circles-1.pg<\/em>.",
+  "body": "Library\/Union\/setAnalGeomConics\/circles-1.pg   (a) Find the equation of the circle whose diameter has endpoints (-5, 9) and (1, -2). Write it in the form and identify , , and .                   (b) Find the equation of the circle that has center and is tangent to the -axis. Write it in the form and identify , , and .                                                     "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-circlenot1",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-circlenot1",
+  "type": "Exercise",
+  "number": "18.4",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/circlenot1.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/circlenot1.pg   Find the standard form for the equation of a circle with a diameter that has endpoints of and .                          "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-circle3",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-circle3",
+  "type": "Exercise",
+  "number": "18.5",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/circle3.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/circle3.pg   Find the center and the radius of the circle                          "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-circle2",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-circle2",
+  "type": "Exercise",
+  "number": "18.6",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/circle2.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/circle2.pg   Find the standard form for the equation of a circle with a diameter that has endpoints of and .                          "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-srw1_8_73",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-srw1_8_73",
+  "type": "Exercise",
+  "number": "18.7",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/srw1_8_73.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/srw1_8_73.pg   Find an equation of the circle with center and radius in the form of where , , and are constants. Then                    No correct answer specified      "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-p4",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-p4",
+  "type": "Exercise",
+  "number": "18.8",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/p4.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/p4.pg   Find an equation of the circle with center at and passing through in the form of where are constants. Then  is :  is :  is :                     "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-p5",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-p5",
+  "type": "Exercise",
+  "number": "18.9",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/p5.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/p5.pg   Find an equation of the circle with center at that is tangent to the y-axis in the form of where are constants. Then  is :  is :  is :                     "
+},
+{
+  "id": "ch18-Library-ASU-topics-setGraphEquations-sw2_2_53",
+  "level": "2",
+  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-sw2_2_53",
+  "type": "Exercise",
+  "number": "18.10",
+  "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/sw2_2_53.pg<\/em>.",
+  "body": "Library\/ASU-topics\/setGraphEquations\/sw2_2_53.pg   Find an equation of the circle with center at the origin and passing through in the form of where are constants. Then                           "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-1-center-radius",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-1-center-radius",
+  "type": "Exercise",
+  "number": "18.11",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-1-center-radius.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-1-center-radius.pg   Find the equation of the circle centered at with radius 10  in the form .  The equation is ( ) + ( ) = .                     "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-2-center-radius",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-2-center-radius",
+  "type": "Exercise",
+  "number": "18.12",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-2-center-radius.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-2-center-radius.pg   Find an equation of the circle with center and radius in the form of .  The equation is ( ) + ( ) = .                     "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-3-center-point",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-3-center-point",
+  "type": "Exercise",
+  "number": "18.13",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-3-center-point.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-3-center-point.pg   Find an equation of the circle with center at the origin and passing through in the standard form .  The equation is + = .                     "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-4-from-general",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-4-from-general",
+  "type": "Exercise",
+  "number": "18.14",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-4-from-general.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-4-from-general.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is ( ) + ( ) = .                               "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-5-from-general",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-5-from-general",
+  "type": "Exercise",
+  "number": "18.15",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-5-from-general.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-5-from-general.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is  ( ) + ( ) = .                               "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-6-from-general",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-6-from-general",
+  "type": "Exercise",
+  "number": "18.16",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-6-from-general.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-6-from-general.pg   Find the center and radius of the circle given by the equation  The center is at point:  The radius is :  The same equation in the standard form is  ( ) + ( ) = .                               "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-7-from-diameter-points",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-7-from-diameter-points",
+  "type": "Exercise",
+  "number": "18.17",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-7-from-diameter-points.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-7-from-diameter-points.pg   Find the standard form for the equation of a circle with a diameter that has endpoints and .  The equation is ( ) + ( ) = .                     "
+},
+{
+  "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-8-harder",
+  "level": "2",
+  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-8-harder",
+  "type": "Exercise",
+  "number": "18.18",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-8-harder.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-2-4\/circle-problem-8-harder.pg   Find the center and radius of the circle whose equation is .  The center of the circle is at point .  The radius of the circle is .  The same equation in the standard form is  ( ) + ( ) = .                               "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
