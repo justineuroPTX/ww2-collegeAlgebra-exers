@@ -2242,6 +2242,78 @@ var ptx_lunr_docs = [
   "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p12.pg   The domain of the function is the interval  ,  .  Hint: Both radicands must be non-negative, and we can't divide by zero.  Solution: The numerator is defined on and the denmominator is defined and non-zero on , which is contained in the domain of the numerator. Hence the domain of the function is .    (              )      "
 },
 {
+  "id": "sethw-15-graphs-of-basic-functions",
+  "level": "1",
+  "url": "sethw-15-graphs-of-basic-functions.html",
+  "type": "Chapter",
+  "number": "22",
+  "title": "15-graphs-of-basic-functions",
+  "body": " 15-graphs-of-basic-functions   local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg   Use   to answer the following questions:  1. Is point on the graph of ?  Your answer:   ?    No    Yes    2. If , what is ? What point is on the graph of ?   ,  the point on the graph is .  3. If , what is ? What point(s) are on the graph of ?   ,  the point(s) on the graph are .  4. What is the domain of ?  The domain of is  5. Find the intercepts of the graph of .  intercepts are at point(s)  6. Find the intercepts of the graph of .  intercepts are at point(s)                                               local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-cube-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     5     -5     8     -8     15     -15     27     -27     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                            local\/uw-stout\/math120-sulvn-3-4\/graph-cubic-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-square-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-square-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     4     5     9     10     15     16     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                             local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.   A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is           "
+},
+{
+  "id": "ch22-local-uw-stout-math120-sulvn-3-2-function-concepts-problem-1",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-2-function-concepts-problem-1",
+  "type": "Exercise",
+  "number": "22.1",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg   Use   to answer the following questions:  1. Is point on the graph of ?  Your answer:   ?    No    Yes    2. If , what is ? What point is on the graph of ?   ,  the point on the graph is .  3. If , what is ? What point(s) are on the graph of ?   ,  the point(s) on the graph are .  4. What is the domain of ?  The domain of is  5. Find the intercepts of the graph of .  intercepts are at point(s)  6. Find the intercepts of the graph of .  intercepts are at point(s)                                              "
+},
+{
+  "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
+  "type": "Exercise",
+  "number": "22.2",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                 "
+},
+{
+  "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-cube-root-function",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-cube-root-function",
+  "type": "Exercise",
+  "number": "22.3",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-cube-root-function.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-cube-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     5     -5     8     -8     15     -15     27     -27     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                           "
+},
+{
+  "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-cubic-function",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-cubic-function",
+  "type": "Exercise",
+  "number": "22.4",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-cubic-function.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-cubic-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                 "
+},
+{
+  "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-square-function",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-square-function",
+  "type": "Exercise",
+  "number": "22.5",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-square-function.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-square-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                 "
+},
+{
+  "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-square-root-function",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-square-root-function",
+  "type": "Exercise",
+  "number": "22.6",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-square-root-function.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-square-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     4     5     9     10     15     16     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                            "
+},
+{
+  "id": "ch22-local-Library-Utah-College_Algebra-set6_Polynomial_and_Rational_Functions-1050s6p7-1050s6p7",
+  "level": "2",
+  "url": "exercises-22.html#ch22-local-Library-Utah-College_Algebra-set6_Polynomial_and_Rational_Functions-1050s6p7-1050s6p7",
+  "type": "Exercise",
+  "number": "22.7",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.   A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is         "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
