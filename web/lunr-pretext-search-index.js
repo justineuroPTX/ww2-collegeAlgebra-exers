@@ -2161,6 +2161,87 @@ var ptx_lunr_docs = [
   "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg   The next few problems are focused on the combination of functions: Suppose and are two functions. Then we define  A.  B.  C.  D.  Suppose and Then  1.  ,  2.  ,  3.  ,  4.  ,                          "
 },
 {
+  "id": "sethw-14b-functions-domain",
+  "level": "1",
+  "url": "sethw-14b-functions-domain.html",
+  "type": "Chapter",
+  "number": "21",
+  "title": "14b-functions-domain",
+  "body": " 14b-functions-domain   local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p10.pg   The domain of the function is the interval  ,  ,  and its range is  ,  .    [              ]    [              ]       local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p13.pg   Hint: To find the domain observe that we can't divide by zero. To find the range solve an equation.             Solution: Since we denominator is zero when the domain is the set of all real numbers other than . As discussed in class, to find the range we solve the equatiuon for . Multiplying with gives This can be reqwritten as or Thus which is defined for all except       local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-1.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  (c)  Domain of is .  Note: you want to use interval notation in your answers.                      local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-2.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  Note: you want to use interval notation in your answers.                 local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-3.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  Note: you want to use interval notation in your answers.                 local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-4.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  Note: you want to use interval notation in your answers.                 local\/Library\/Utah\/Intermediate_Algebra\/set5_Graphs_and_Functions\/s5p41.pg   Let the function be defined by Indicate whether the following statements are True (T) or False (F). You must get all answers correct in order to receive credit.  Hint: Draw the graph of .       local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p12.pg   The domain of the function is the interval  ,  .  Hint: Both radicands must be non-negative, and we can't divide by zero.  Solution: The numerator is defined on and the denmominator is defined and non-zero on , which is contained in the domain of the numerator. Hence the domain of the function is .    (              )        "
+},
+{
+  "id": "ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p10",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p10",
+  "type": "Exercise",
+  "number": "21.1",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p10.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p10.pg   The domain of the function is the interval  ,  ,  and its range is  ,  .    [              ]    [              ]      "
+},
+{
+  "id": "ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p13",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p13",
+  "type": "Exercise",
+  "number": "21.2",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p13.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p13.pg   Hint: To find the domain observe that we can't divide by zero. To find the range solve an equation.             Solution: Since we denominator is zero when the domain is the set of all real numbers other than . As discussed in class, to find the range we solve the equatiuon for . Multiplying with gives This can be reqwritten as or Thus which is defined for all except      "
+},
+{
+  "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-1",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-1",
+  "type": "Exercise",
+  "number": "21.3",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-1.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  (c)  Domain of is .  Note: you want to use interval notation in your answers.                     "
+},
+{
+  "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-2",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-2",
+  "type": "Exercise",
+  "number": "21.4",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-2.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-2.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  Note: you want to use interval notation in your answers.                "
+},
+{
+  "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-3",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-3",
+  "type": "Exercise",
+  "number": "21.5",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-3.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-3.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  Note: you want to use interval notation in your answers.                "
+},
+{
+  "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-4",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-4",
+  "type": "Exercise",
+  "number": "21.6",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-4.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-4.pg   Find the domain of each function. Write your answer in interval notation .  (a)  Domain of is .  (b)  Domain of is .  Note: you want to use interval notation in your answers.                "
+},
+{
+  "id": "ch21-local-Library-Utah-Intermediate_Algebra-set5_Graphs_and_Functions-s5p41",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-Library-Utah-Intermediate_Algebra-set5_Graphs_and_Functions-s5p41",
+  "type": "Exercise",
+  "number": "21.7",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Intermediate_Algebra\/set5_Graphs_and_Functions\/s5p41.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Intermediate_Algebra\/set5_Graphs_and_Functions\/s5p41.pg   Let the function be defined by Indicate whether the following statements are True (T) or False (F). You must get all answers correct in order to receive credit.  Hint: Draw the graph of .      "
+},
+{
+  "id": "ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p12",
+  "level": "2",
+  "url": "exercises-21.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p12",
+  "type": "Exercise",
+  "number": "21.8",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p12.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p12.pg   The domain of the function is the interval  ,  .  Hint: Both radicands must be non-negative, and we can't divide by zero.  Solution: The numerator is defined on and the denmominator is defined and non-zero on , which is contained in the domain of the numerator. Hence the domain of the function is .    (              )      "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
