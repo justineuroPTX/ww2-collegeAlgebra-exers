@@ -1497,7 +1497,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
       <statement><p>Solve the following equation:</p>
 <p><m>x^2  - 8 x + 32 = 0</m></p>
 <p>The roots are: <m>x =</m>
-<fillin name="AnSwEr0001" characters="HASH(0x55a25d214088)"/></p>
+<fillin name="AnSwEr0001" characters="HASH(0x55a260316338)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -1515,7 +1515,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
     <static seed="77" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg">
       <statement><p>Solve the following equation:</p>
 <p><m>81 x^2  - 36 x + 293 = 0</m></p>
-<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x55a25e68f528)"/></p>
+<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x55a25b494190)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -5080,16 +5080,16 @@ function is <m>(-1,1)</m>.</p>
 <p>The graph of <m>y = |x|</m> matches...</p>
 <p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><var form="buttons">
 <li>
-<image width="66.6666666666667%" pi:generated="webwork/images/webwork-228-image-1.png"/>
+<image width="50%" pi:generated="webwork/images/webwork-228-image-1.png"/>
 </li>
 <li>
-<image width="66.6666666666667%" pi:generated="webwork/images/webwork-228-image-2.png"/>
+<image width="50%" pi:generated="webwork/images/webwork-228-image-2.png"/>
 </li>
 <li>
-<image width="66.6666666666667%" pi:generated="webwork/images/webwork-228-image-3.png"/>
+<image width="50%" pi:generated="webwork/images/webwork-228-image-3.png"/>
 </li>
 <li>
-<image width="66.6666666666667%" pi:generated="webwork/images/webwork-228-image-4.png"/>
+<image width="50%" pi:generated="webwork/images/webwork-228-image-4.png"/>
 </li>
 </var></p>
 </statement>
@@ -5201,16 +5201,16 @@ function is <m>(-1,1)</m>.</p>
 <p>The graph of <m>y = \sqrt[3]{x}</m> matches...</p>
 <p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><var form="buttons">
 <li>
-<image width="150%" pi:generated="webwork/images/webwork-229-image-1.png"/>
+<image width="74.6666666666667%" pi:generated="webwork/images/webwork-229-image-1.png"/>
 </li>
 <li>
-<image width="150%" pi:generated="webwork/images/webwork-229-image-2.png"/>
+<image width="74.6666666666667%" pi:generated="webwork/images/webwork-229-image-2.png"/>
 </li>
 <li>
-<image width="150%" pi:generated="webwork/images/webwork-229-image-3.png"/>
+<image width="74.6666666666667%" pi:generated="webwork/images/webwork-229-image-3.png"/>
 </li>
 <li>
-<image width="150%" pi:generated="webwork/images/webwork-229-image-4.png"/>
+<image width="74.6666666666667%" pi:generated="webwork/images/webwork-229-image-4.png"/>
 </li>
 </var></p>
 </statement>
@@ -5605,13 +5605,13 @@ function is <m>(-1,1)</m>.</p>
   </webwork-reps>
   <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-233" ww-id="webwork-233">
     <static seed="233" source="local/Library/Utah/College_Algebra/set6_Polynomial_and_Rational_Functions/1050s6p7/1050s6p7.pg">
-      <statement><image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="85.3333333333333%" pi:generated="webwork/images/webwork-233-image-1.gif"/>
+      <statement><image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="64%" pi:generated="webwork/images/webwork-233-image-1.gif"/>
 <p>The Figure above shows the graph of the mystery function 
 <m>y = f(x)</m>.</p>
 <p>In the Figure below, match the colors of the graphs in this Figure with 
 the functions given.  Enter 
 y for yellow, b for blue, r red,and g for green, as appropriate.</p>
-<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="85.3333333333333%" pi:generated="webwork/images/webwork-233-image-2.gif"/>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="64%" pi:generated="webwork/images/webwork-233-image-2.gif"/>
 <p>A. <fillin name="AnSwEr0001" characters="3"/> <m>y = f(x) +2</m></p>
 <p>B. <fillin name="AnSwEr0002" characters="3"/> <m>y = f(x)-2</m></p>
 <p>C. <fillin name="AnSwEr0003" characters="3"/> <m>y = f(x+2)</m></p>
@@ -5637,5 +5637,670 @@ y for yellow, b for blue, r red,and g for green, as appropriate.</p>
     </static>
     <server-data sourceFilePath="local/Library/Utah/College_Algebra/set6_Polynomial_and_Rational_Functions/1050s6p7/1050s6p7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/Library/Utah/College_Algebra/set6_Polynomial_and_Rational_Functions/1050s6p7/1050s6p7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-234" ww-id="webwork-234">
+    <static seed="234" source="local/uw-stout/math120-sulvn-3-3/problem31.pg">
+      <statement><p>Consider the function whose graph is sketched:</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="66.6666666666667%" pi:generated="webwork/images/webwork-234-image-1.png"/>
+<p>Find the open intervals over which the function is increasing or decreasing.</p>
+<p>Write the answers in <url href="/webwork2_files/helpFiles/IntervalNotation.html">interval notation</url>.</p>
+<p>The open <m>x-</m>intervals over which the function is increasing: <fillin name="AnSwEr0001" characters="35"/></p>
+<p>The open <m>x-</m>intervals over which the function is decreasing: <fillin name="AnSwEr0002" characters="35"/></p>
+<p>Function has local maximum at <m>x=</m> <fillin name="AnSwEr0003" characters="35"/></p>
+<p>Function has local minimum at <m>x=</m> <fillin name="AnSwEr0004" characters="35"/></p>
+<p><alert> Note: </alert> if there are no such points, enter <em> none </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-5,\infty \right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(-\infty ,-5\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\text{none}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-3/problem31.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-3/problem31.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-235" ww-id="webwork-235">
+    <static seed="235" source="local/uw-stout/math120-sulvn-3-3/problem32.pg">
+      <statement><p>Consider the function shown in the following graph.</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="66.6666666666667%" pi:generated="webwork/images/webwork-235-image-1.png"/>
+<p>Find open <m>x-</m>intervals where the function is decreasing: <fillin name="AnSwEr0001" characters="40"/></p>
+<p>Find open <m>x-</m>intervals where the function is increasing: <fillin name="AnSwEr0002" characters="40"/></p>
+<p><alert> Note: </alert> use <url href="/webwork2_files/helpFiles/IntervalNotation.html">interval notation</url> to enter your answer.</p>
+<p>Function has local maximum at <m>x=</m> <fillin name="AnSwEr0003" characters="35"/></p>
+<p>Function has local minimum at <m>x=</m> <fillin name="AnSwEr0004" characters="35"/></p>
+<p><alert> Note: </alert> if there are no such points, enter <em> none </em></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-7,3\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(-\infty ,-7\right)\cup \left(3,\infty \right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-3/problem32.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-3/problem32.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-236" ww-id="webwork-236">
+    <static seed="236" source="local/uw-stout/math120-sulvn-3-3/problem33.pg">
+      <statement><p>Consider the function whose graph is sketched:</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="66.6666666666667%" pi:generated="webwork/images/webwork-236-image-1.png"/>
+<p>Find the open intervals over which the function is increasing or decreasing.</p>
+<p>Write the answers in <url href="/webwork2_files/helpFiles/IntervalNotation.html">interval notation</url>.</p>
+<p>The open <m>x-</m>intervals over which the function is increasing: <fillin name="AnSwEr0001" characters="35"/></p>
+<p>The open <m>x-</m>intervals over which the function is decreasing: <fillin name="AnSwEr0002" characters="35"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(1,\infty \right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(-\infty ,-1\right)</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-3/problem33.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-3/problem33.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-237" ww-id="webwork-237">
+    <static seed="237" source="local/uw-stout/math120-sulvn-3-3/sulvn-3-3-even-odd-problem-1.pg">
+      <statement><p>Determine algebraically whether each functions is even, odd, or neither</p>
+<p><ol>
+<li>
+<p>Function <m>\displaystyle f(x) = -8x^{4}+6x^{2}+4</m> is ...</p>
+</li>
+<li>
+<p>Function <m>\displaystyle f(x) = -9x^{2}+4x</m> is ...</p>
+</li>
+<li>
+<p>Function <m>\displaystyle f(x) = 5x^{2}</m> is ...</p>
+</li>
+<li>
+<p>Function <m>\displaystyle f(x) = 4x^{3}</m> is ...</p>
+</li>
+</ol></p>
+</statement>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-3/sulvn-3-3-even-odd-problem-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-3/sulvn-3-3-even-odd-problem-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-238" ww-id="webwork-238">
+    <static seed="238" source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p28.pg">
+      <statement><p>For the following functions, enter <alert> E</alert> if they are even,
+<alert> O</alert> if they are odd, and <alert> N</alert> if they are neither even nor odd.</p>
+<p><m>f(x) = x^2</m>  <fillin name="AnSwEr0001" characters="8"/>.</p>
+<p><m>f(x) = x^3</m>  <fillin name="AnSwEr0002" characters="8"/>.</p>
+<p><m>f(x) = x^2+x^3</m>  <fillin name="AnSwEr0003" characters="8"/>.</p>
+</statement>
+      <answer>
+        <p>E</p>
+      </answer>
+      <answer>
+        <p>O</p>
+      </answer>
+      <answer>
+        <p>N</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p28.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p28.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-239" ww-id="webwork-239">
+    <static seed="239" source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p32.pg">
+      <statement><p>Use E for Even and O for Odd and N for Neither
+Let
+<me>h=f\times g,</me> 
+i.e., <m>h</m> is the product of <m>f</m> and <m>g</m>. Then</p>
+<p><m>h</m> is <fillin name="AnSwEr0001" characters="2"/> if <m>f</m> and <m>g</m> are both even,</p>
+<p><m>h</m> is <fillin name="AnSwEr0002" characters="2"/> if <m>f</m> is even and <m>g</m> is odd, and</p>
+<p><m>h</m> is <fillin name="AnSwEr0003" characters="2"/> if <m>f</m> and <m>g</m> are both odd.</p>
+</statement>
+      <answer>
+        <p>E</p>
+      </answer>
+      <answer>
+        <p>O</p>
+      </answer>
+      <answer>
+        <p>E</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p32.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/College_Algebra/set5_Functions_and_Their_Graphs/1050s5p32.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-240" ww-id="webwork-240">
+    <static seed="240" source="local/Library/Utah/Trigonometry/set3_Algebra/s3p16.pg">
+      <statement><p>A function <m>f</m> is <em> even</em> if it satisfies <m>f(x) = f(-x)</m> for
+all <m>x</m> in its domain.  An example of an even function is <m>f(x) =
+x^2</m> since <m>(x^2) = (-x)^2</m>.</p>
+<p><m>f</m> is <em> odd</em> if it satisfies
+<m>f(x) = -f(-x)</m> for all <m>x</m> in its domain.  An example of an odd
+function is <m>f(x) = x^3</m> since <m>x^3 = -(-x)^3.</m></p>
+<p>Functions may be
+neither even nor odd, for example the function <m>f(x) = x^2+x^3</m> is in
+that category.</p>
+<p>For each function below enter the letter <alert> E</alert> if the function is
+even, the letter <alert> O</alert> (not the digit <m>0</m>!) if it's odd, and the
+letter <alert> N</alert> if it's neither even nor odd.</p>
+<p><fillin name="AnSwEr0001" characters="4"/> <m>f(x) = x^4.</m></p>
+<p><fillin name="AnSwEr0002" characters="4"/> <m>f(x) = x^5.</m></p>
+<p><fillin name="AnSwEr0003" characters="4"/>  <m>f(x) = x^4 + x^5.</m></p>
+</statement>
+      <answer>
+        <p>E</p>
+      </answer>
+      <answer>
+        <p>O</p>
+      </answer>
+      <answer>
+        <p>N</p>
+      </answer>
+      <solution><p><alert> Solution:</alert> 
+This should be immediately clear from the examples given in the problem.
+Let me know if you have any questions.</p>
+</solution>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Trigonometry/set3_Algebra/s3p16.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Trigonometry/set3_Algebra/s3p16.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-241" ww-id="webwork-241">
+    <static seed="241" source="local/Library/Utah/Business_Algebra/set5_Quadratic_and_Other_Special_Functions/p23.pg">
+      <statement><p>Below, enter x if the graph of the given equation is
+symmetric with respect to the <m>x</m>-axis, <m>y</m> if it is symmetric
+with respect to the <m>y</m> axis, o (lower case O) if it is symmetric
+with respect to the origin, and n (for None) if it has none of these
+three symmetries.</p>
+<p><fillin name="AnSwEr0001" characters="3"/> <m>y=x^3+x</m></p>
+<p><fillin name="AnSwEr0002" characters="3"/> <m>y=(x^3+1)^2</m></p>
+<p><fillin name="AnSwEr0003" characters="3"/> <m>y=\frac{1}{1+x^2}</m></p>
+<p><fillin name="AnSwEr0004" characters="3"/> <m>y=\frac{x}{1+x^2}</m>.</p>
+</statement>
+      <answer>
+        <p>o</p>
+      </answer>
+      <answer>
+        <p>n</p>
+      </answer>
+      <answer>
+        <p>y</p>
+      </answer>
+      <answer>
+        <p>o</p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/Library/Utah/Business_Algebra/set5_Quadratic_and_Other_Special_Functions/p23.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/Utah/Business_Algebra/set5_Quadratic_and_Other_Special_Functions/p23.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-242" ww-id="webwork-242">
+    <static seed="242" source="Library/maCalcDB/setAlgebra16FunctionGraphs/c2s2p19_40/c2s2p19_40.pg">
+      <statement><p>Match the functions with their graphs.
+Enter the letter of the graph below which corresponds to the function.
+(<alert> Click on image for a larger view </alert>)
+<ol>
+<li>
+<p><m>2x+3</m></p>
+</li>
+<li>
+<p><m>-x^2</m></p>
+</li>
+<li>
+<p><m>3</m></p>
+</li>
+<li>
+<p><m>|x|+x+1</m></p>
+</li>
+</ol></p>
+</statement>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra16FunctionGraphs/c2s2p19_40/c2s2p19_40.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra16FunctionGraphs/c2s2p19_40/c2s2p19_40.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-243" ww-id="webwork-243">
+    <static seed="243" source="Library/ma112DB/set6/c4s2p59_72/c4s2p59_72.pg">
+      <statement><p>Match the functons with their graphs.
+Enter the letter of the graph below which corresponds to the function.
+<ol>
+<li>
+<p>Piecewise function: <m>f(x)=2</m> if <m>x\le -1</m>, and <m>f(x)=x^2</m> if <m>x&gt;-1</m></p>
+</li>
+<li>
+<p>Piecewise function: <m>f(x)=2x+3</m> if <m>x\lt -1</m>, and <m>f(x)=3-x</m> if <m>x\ge -1</m></p>
+</li>
+<li>
+<p>Piecewise function: <m>f(x)=x</m> if <m>x\le 0</m>, and <m>f(x)=x+1</m> if <m>x&gt;0</m></p>
+</li>
+<li>
+<p>Piecewise function: <m>f(x)=1-x</m> if <m>x\lt -2</m>, and <m>f(x)=4</m> if <m>x\ge -2</m></p>
+</li>
+</ol></p>
+<p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><ol label="A.">
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-243-image-1.gif"/>
+</li>
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-243-image-2.gif"/>
+</li>
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-243-image-3.gif"/>
+</li>
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-243-image-4.gif"/>
+</li>
+</ol></p>
+</statement>
+    </static>
+    <server-data sourceFilePath="Library/ma112DB/set6/c4s2p59_72/c4s2p59_72.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/ma112DB/set6/c4s2p59_72/c4s2p59_72.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-244" ww-id="webwork-244">
+    <static seed="244" source="Library/maCalcDB/setAlgebra16FunctionGraphs/c4s2p59_72/c4s2p59_72.pg">
+      <statement><p>Match the functons with their graphs.
+Enter the letter of the graph below which corresponds to the function.
+<ol>
+<li>
+<p>Piecewise function: <m>f(x)=3</m> if <m>x\lt 2</m>, and <m>f(x)=x-1</m> if <m>x\ge 2</m></p>
+</li>
+<li>
+<p>Piecewise function: <m>f(x)=x</m> if <m>x\le 0</m>, and <m>f(x)=x+1</m> if <m>x&gt;0</m></p>
+</li>
+<li>
+<p>Piecewise function: <m>f(x)=2</m> if <m>x\le -1</m>, and <m>f(x)=x^2</m> if <m>x&gt;-1</m></p>
+</li>
+<li>
+<p>Piecewise function: <m>f(x)=1-x^2</m> if <m>x\le 2</m>, and <m>f(x)=x</m> if <m>x&gt; 2</m></p>
+</li>
+</ol></p>
+<p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><ol label="A.">
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-244-image-1.gif"/>
+</li>
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-244-image-2.gif"/>
+</li>
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-244-image-3.gif"/>
+</li>
+<li>
+<image width="53.6666666666667%" pi:generated="webwork/images/webwork-244-image-4.gif"/>
+</li>
+</ol></p>
+</statement>
+    </static>
+    <server-data sourceFilePath="Library/maCalcDB/setAlgebra16FunctionGraphs/c4s2p59_72/c4s2p59_72.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/maCalcDB/setAlgebra16FunctionGraphs/c4s2p59_72/c4s2p59_72.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-245" ww-id="webwork-245">
+    <static seed="245" source="local/Library/maCalcDB/setAlgebra16FunctionGraphs/c0s1p1/c0s1p1.pg">
+      <statement><p>Error: PGchoicemacros: match_questions_list: Unknown displayMode: PTX.</p>
+<p>Error: PGbasicmacros: imageRow: Unknown displayMode: PTX.</p>
+</statement>
+    </static>
+    <server-data sourceFilePath="local/Library/maCalcDB/setAlgebra16FunctionGraphs/c0s1p1/c0s1p1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/Library/maCalcDB/setAlgebra16FunctionGraphs/c0s1p1/c0s1p1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-246" ww-id="webwork-246">
+    <static seed="246" source="local/uw-stout/math120-sulvn-3-4/graph-abs-function.pg">
+      <statement><p>In this problem you will work on graphing function <m>f(x) = |x|</m>.</p>
+<p>First you will find some points on the graph of <m>y=|x|</m></p>
+<tabular top="medium" bottom="medium" left="medium" right="medium">
+<row>
+<cell><m>x</m> </cell>
+<cell><m>y</m></cell>
+</row>
+<row>
+<cell>0</cell>
+<cell><fillin name="AnSwEr0001" characters="5"/></cell>
+</row>
+<row>
+<cell>1</cell>
+<cell><fillin name="AnSwEr0002" characters="5"/></cell>
+</row>
+<row>
+<cell>-1</cell>
+<cell><fillin name="AnSwEr0003" characters="5"/></cell>
+</row>
+<row>
+<cell>2</cell>
+<cell><fillin name="AnSwEr0004" characters="5"/></cell>
+</row>
+<row>
+<cell>-2</cell>
+<cell><fillin name="AnSwEr0005" characters="5"/></cell>
+</row>
+<row>
+<cell>5</cell>
+<cell><fillin name="AnSwEr0006" characters="5"/></cell>
+</row>
+<row>
+<cell>-5</cell>
+<cell><fillin name="AnSwEr0007" characters="5"/></cell>
+</row>
+<row>
+<cell>9</cell>
+<cell><fillin name="AnSwEr0008" characters="5"/></cell>
+</row>
+<row>
+<cell>-9</cell>
+<cell><fillin name="AnSwEr0009" characters="5"/></cell>
+</row>
+</tabular>
+<p>Next you will plot the points you found above, and draw a line through the points.</p>
+<p>Now, select the correct graph from the list below:</p>
+<p>The graph of <m>y = |x|</m> matches...</p>
+<p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><var form="buttons">
+<li>
+<image width="50%" pi:generated="webwork/images/webwork-246-image-1.png"/>
+</li>
+<li>
+<image width="50%" pi:generated="webwork/images/webwork-246-image-2.png"/>
+</li>
+<li>
+<image width="50%" pi:generated="webwork/images/webwork-246-image-3.png"/>
+</li>
+<li>
+<image width="50%" pi:generated="webwork/images/webwork-246-image-4.png"/>
+</li>
+</var></p>
+</statement>
+      <answer>
+        <p>
+          <m>0</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-4/graph-abs-function.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-4/graph-abs-function.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-247" ww-id="webwork-247">
+    <static seed="247" source="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-1.pg">
+      <statement><p>In this problem you will work on graphing function <m>f(x) = \begin{cases} 
+	-2x +4 \amp  \text{ if } x \le -1 \\ 
+	4x - 2 \amp  \text{ if } x&gt;-1\\ 
+	\end{cases}</m>.</p>
+<p>First you will find some points on the graph of <m>y=\begin{cases} 
+	-2x +4 \amp  \text{ if } x \le -1 \\ 
+	4x - 2 \amp  \text{ if } x&gt;-1\\ 
+	\end{cases}</m></p>
+<tabular top="medium" bottom="medium" left="medium" right="medium">
+<row>
+<cell><m>x</m> </cell>
+<cell><m>y</m></cell>
+</row>
+<row>
+<cell>-3</cell>
+<cell><fillin name="AnSwEr0001" characters="5"/></cell>
+</row>
+<row>
+<cell>-2</cell>
+<cell><fillin name="AnSwEr0002" characters="5"/></cell>
+</row>
+<row>
+<cell>-1</cell>
+<cell><fillin name="AnSwEr0003" characters="5"/></cell>
+</row>
+<row>
+<cell>0</cell>
+<cell><fillin name="AnSwEr0004" characters="5"/></cell>
+</row>
+<row>
+<cell>1</cell>
+<cell><fillin name="AnSwEr0005" characters="5"/></cell>
+</row>
+<row>
+<cell>2</cell>
+<cell><fillin name="AnSwEr0006" characters="5"/></cell>
+</row>
+<row>
+<cell>3</cell>
+<cell><fillin name="AnSwEr0007" characters="5"/></cell>
+</row>
+</tabular>
+<p>Next you will plot the points you found above, and draw a line through the points.</p>
+<p>Now, select the correct graph from the list below:</p>
+<p>The graph of <m>y = \begin{cases} 
+	-2x +4 \amp  \text{ if } x \le -1 \\ 
+	4x - 2 \amp  \text{ if } x&gt;-1\\ 
+	\end{cases}</m></p>
+<p>matches...</p>
+<p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><var form="buttons">
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-1.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-2.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-3.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-4.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-5.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-6.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-247-image-7.png"/>
+</li>
+</var></p>
+</statement>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>2</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>10</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-248" ww-id="webwork-248">
+    <static seed="248" source="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-2.pg">
+      <statement><p>In this problem you will work on graphing function <m>f(x) = \begin{cases} 
+	-3x +5 \amp  \text{ if } -3 \le x \lt  1 \\ 
+	x^2 \amp  \text{ if } 1 \le x \le 3\\ 
+	\end{cases}</m>.</p>
+<p>First you will find some points on the graph of <m>y=\begin{cases} 
+	-3x +5 \amp  \text{ if } -3 \le x \lt  1 \\ 
+	x^2 \amp  \text{ if } 1 \le x \le 3\\ 
+	\end{cases}</m></p>
+<tabular top="medium" bottom="medium" left="medium" right="medium">
+<row>
+<cell><m>x</m> </cell>
+<cell><m>y</m></cell>
+</row>
+<row>
+<cell>-3</cell>
+<cell><fillin name="AnSwEr0001" characters="5"/></cell>
+</row>
+<row>
+<cell>-2</cell>
+<cell><fillin name="AnSwEr0002" characters="5"/></cell>
+</row>
+<row>
+<cell>-1</cell>
+<cell><fillin name="AnSwEr0003" characters="5"/></cell>
+</row>
+<row>
+<cell>0</cell>
+<cell><fillin name="AnSwEr0004" characters="5"/></cell>
+</row>
+<row>
+<cell>1</cell>
+<cell><fillin name="AnSwEr0005" characters="5"/></cell>
+</row>
+<row>
+<cell>2</cell>
+<cell><fillin name="AnSwEr0006" characters="5"/></cell>
+</row>
+<row>
+<cell>3</cell>
+<cell><fillin name="AnSwEr0007" characters="5"/></cell>
+</row>
+</tabular>
+<p>Next you will plot the points you found above, and draw a line through the points.</p>
+<p>Now, select the correct graph from the list below:</p>
+<p>The graph of <m>y = \begin{cases} 
+	-3x +5 \amp  \text{ if } -3 \le x \lt  1 \\ 
+	x^2 \amp  \text{ if } 1 \le x \le 3\\ 
+	\end{cases}</m></p>
+<p>matches...</p>
+<p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><var form="buttons">
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-248-image-1.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-248-image-2.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-248-image-3.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-248-image-4.png"/>
+</li>
+<li>
+<image width="66.6666666666667%" pi:generated="webwork/images/webwork-248-image-5.png"/>
+</li>
+</var></p>
+</statement>
+      <answer>
+        <p>
+          <m>14</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>11</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>8</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-2.pg"/>
   </webwork-reps>
 </webwork-representations>

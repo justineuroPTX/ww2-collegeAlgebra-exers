@@ -2314,6 +2314,159 @@ var ptx_lunr_docs = [
   "body": "local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.   A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is         "
 },
 {
+  "id": "sethw-16-properties-of-functions",
+  "level": "1",
+  "url": "sethw-16-properties-of-functions.html",
+  "type": "Chapter",
+  "number": "23",
+  "title": "16-properties-of-functions",
+  "body": " 16-properties-of-functions   local\/uw-stout\/math120-sulvn-3-3\/problem31.pg   Consider the function whose graph is sketched:   Find the open intervals over which the function is increasing or decreasing.  Write the answers in interval notation .  The open intervals over which the function is increasing:  The open intervals over which the function is decreasing:  Function has local maximum at   Function has local minimum at   Note: if there are no such points, enter none                           local\/uw-stout\/math120-sulvn-3-3\/problem32.pg   Consider the function shown in the following graph.   Find open intervals where the function is decreasing:  Find open intervals where the function is increasing:  Note: use interval notation to enter your answer.  Function has local maximum at   Function has local minimum at   Note: if there are no such points, enter none                           local\/uw-stout\/math120-sulvn-3-3\/problem33.pg   Consider the function whose graph is sketched:   Find the open intervals over which the function is increasing or decreasing.  Write the answers in interval notation .  The open intervals over which the function is increasing:  The open intervals over which the function is decreasing:                 local\/uw-stout\/math120-sulvn-3-3\/sulvn-3-3-even-odd-problem-1.pg   Determine algebraically whether each functions is even, odd, or neither    Function is ...    Function is ...    Function is ...    Function is ...         local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p28.pg   For the following functions, enter E if they are even, O if they are odd, and N if they are neither even nor odd.   .   .   .    E    O    N       local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p32.pg   Use E for Even and O for Odd and N for Neither Let i.e., is the product of and . Then  is if and are both even,  is if is even and is odd, and  is if and are both odd.    E    O    E       local\/Library\/Utah\/Trigonometry\/set3_Algebra\/s3p16.pg   A function is even if it satisfies for all in its domain. An example of an even function is since .  is odd if it satisfies for all in its domain. An example of an odd function is since  Functions may be neither even nor odd, for example the function is in that category.  For each function below enter the letter E if the function is even, the letter O (not the digit !) if it's odd, and the letter N if it's neither even nor odd.          E    O    N   Solution: This should be immediately clear from the examples given in the problem. Let me know if you have any questions.       local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p23.pg   Below, enter x if the graph of the given equation is symmetric with respect to the -axis, if it is symmetric with respect to the axis, o (lower case O) if it is symmetric with respect to the origin, and n (for None) if it has none of these three symmetries.         .    o    n    y    o        "
+},
+{
+  "id": "ch23-local-uw-stout-math120-sulvn-3-3-problem31",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-problem31",
+  "type": "Exercise",
+  "number": "23.1",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/problem31.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-3\/problem31.pg   Consider the function whose graph is sketched:   Find the open intervals over which the function is increasing or decreasing.  Write the answers in interval notation .  The open intervals over which the function is increasing:  The open intervals over which the function is decreasing:  Function has local maximum at   Function has local minimum at   Note: if there are no such points, enter none                          "
+},
+{
+  "id": "ch23-local-uw-stout-math120-sulvn-3-3-problem32",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-problem32",
+  "type": "Exercise",
+  "number": "23.2",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/problem32.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-3\/problem32.pg   Consider the function shown in the following graph.   Find open intervals where the function is decreasing:  Find open intervals where the function is increasing:  Note: use interval notation to enter your answer.  Function has local maximum at   Function has local minimum at   Note: if there are no such points, enter none                          "
+},
+{
+  "id": "ch23-local-uw-stout-math120-sulvn-3-3-problem33",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-problem33",
+  "type": "Exercise",
+  "number": "23.3",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/problem33.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-3\/problem33.pg   Consider the function whose graph is sketched:   Find the open intervals over which the function is increasing or decreasing.  Write the answers in interval notation .  The open intervals over which the function is increasing:  The open intervals over which the function is decreasing:                "
+},
+{
+  "id": "ch23-local-uw-stout-math120-sulvn-3-3-sulvn-3-3-even-odd-problem-1",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-sulvn-3-3-even-odd-problem-1",
+  "type": "Exercise",
+  "number": "23.4",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/sulvn-3-3-even-odd-problem-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-3\/sulvn-3-3-even-odd-problem-1.pg   Determine algebraically whether each functions is even, odd, or neither    Function is ...    Function is ...    Function is ...    Function is ...        "
+},
+{
+  "id": "ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p28",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p28",
+  "type": "Exercise",
+  "number": "23.5",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p28.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p28.pg   For the following functions, enter E if they are even, O if they are odd, and N if they are neither even nor odd.   .   .   .    E    O    N      "
+},
+{
+  "id": "ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p32",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p32",
+  "type": "Exercise",
+  "number": "23.6",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p32.pg<\/em>.",
+  "body": "local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p32.pg   Use E for Even and O for Odd and N for Neither Let i.e., is the product of and . Then  is if and are both even,  is if is even and is odd, and  is if and are both odd.    E    O    E      "
+},
+{
+  "id": "ch23-local-Library-Utah-Trigonometry-set3_Algebra-s3p16",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-Library-Utah-Trigonometry-set3_Algebra-s3p16",
+  "type": "Exercise",
+  "number": "23.7",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Trigonometry\/set3_Algebra\/s3p16.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Trigonometry\/set3_Algebra\/s3p16.pg   A function is even if it satisfies for all in its domain. An example of an even function is since .  is odd if it satisfies for all in its domain. An example of an odd function is since  Functions may be neither even nor odd, for example the function is in that category.  For each function below enter the letter E if the function is even, the letter O (not the digit !) if it's odd, and the letter N if it's neither even nor odd.          E    O    N   Solution: This should be immediately clear from the examples given in the problem. Let me know if you have any questions.      "
+},
+{
+  "id": "ch23-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p23",
+  "level": "2",
+  "url": "exercises-23.html#ch23-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p23",
+  "type": "Exercise",
+  "number": "23.8",
+  "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p23.pg<\/em>.",
+  "body": "local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p23.pg   Below, enter x if the graph of the given equation is symmetric with respect to the -axis, if it is symmetric with respect to the axis, o (lower case O) if it is symmetric with respect to the origin, and n (for None) if it has none of these three symmetries.         .    o    n    y    o      "
+},
+{
+  "id": "sethw-17-library-of-functions",
+  "level": "1",
+  "url": "sethw-17-library-of-functions.html",
+  "type": "Chapter",
+  "number": "24",
+  "title": "17-library-of-functions",
+  "body": " 17-library-of-functions   Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg   Match the functions with their graphs. Enter the letter of the graph below which corresponds to the function. ( Click on image for a larger view )                    Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                       Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                       local\/Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c0s1p1\/c0s1p1.pg   Error: PGchoicemacros: match_questions_list: Unknown displayMode: PTX.  Error: PGbasicmacros: imageRow: Unknown displayMode: PTX.       local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-1.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                                 local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                            "
+},
+{
+  "id": "ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c2s2p19_40-c2s2p19_40",
+  "level": "2",
+  "url": "exercises-24.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c2s2p19_40-c2s2p19_40",
+  "type": "Exercise",
+  "number": "24.1",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg   Match the functions with their graphs. Enter the letter of the graph below which corresponds to the function. ( Click on image for a larger view )                   "
+},
+{
+  "id": "ch24-Library-ma112DB-set6-c4s2p59_72-c4s2p59_72",
+  "level": "2",
+  "url": "exercises-24.html#ch24-Library-ma112DB-set6-c4s2p59_72-c4s2p59_72",
+  "type": "Exercise",
+  "number": "24.2",
+  "title": "<em class=\"alert\">Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg<\/em>.",
+  "body": "Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                      "
+},
+{
+  "id": "ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c4s2p59_72-c4s2p59_72",
+  "level": "2",
+  "url": "exercises-24.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c4s2p59_72-c4s2p59_72",
+  "type": "Exercise",
+  "number": "24.3",
+  "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg<\/em>.",
+  "body": "Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                      "
+},
+{
+  "id": "ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c0s1p1-c0s1p1",
+  "level": "2",
+  "url": "exercises-24.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c0s1p1-c0s1p1",
+  "type": "Exercise",
+  "number": "24.4",
+  "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c0s1p1\/c0s1p1.pg<\/em>.",
+  "body": "local\/Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c0s1p1\/c0s1p1.pg   Error: PGchoicemacros: match_questions_list: Unknown displayMode: PTX.  Error: PGbasicmacros: imageRow: Unknown displayMode: PTX.      "
+},
+{
+  "id": "ch24-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
+  "level": "2",
+  "url": "exercises-24.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
+  "type": "Exercise",
+  "number": "24.5",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                 "
+},
+{
+  "id": "ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-1",
+  "level": "2",
+  "url": "exercises-24.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-1",
+  "type": "Exercise",
+  "number": "24.6",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-1.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                                "
+},
+{
+  "id": "ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-2",
+  "level": "2",
+  "url": "exercises-24.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-2",
+  "type": "Exercise",
+  "number": "24.7",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                          "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",
