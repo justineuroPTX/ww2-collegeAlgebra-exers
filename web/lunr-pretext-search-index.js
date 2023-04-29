@@ -2467,6 +2467,240 @@ var ptx_lunr_docs = [
   "body": "local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                          "
 },
 {
+  "id": "sethw-18-graphing-transformations",
+  "level": "1",
+  "url": "sethw-18-graphing-transformations.html",
+  "type": "Chapter",
+  "number": "25",
+  "title": "18-graphing-transformations",
+  "body": " 18-graphing-transformations   Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q18.pg   Consider the function drawn below:   (click on image to enlarge)  On a separate piece of paper, sketch an accurate graph of the function . Which (if any) of the graphs below matches the graph you drew?     (click on image to enlarge)        (click on image to enlarge)     (click on image to enlarge)     (click on image to enlarge)     (click on image to enlarge)    None of the above     SOLUTION The function is a vertical reflection about the -axis as well as a vertical stretch by a factor of 2. Therefore the correct graph is which is answer B.      Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q20.pg   Consider the graph of given below:   (click on image to enlarge)  Find a possible formula for the transformations of shown below:   (click on image to enlarge)          SOLUTION Notice that the graph has been vertically stretched by a factor of 2 since the difference between the maximum and minimum values is now 24, while on the initial graph of this difference is 12. Next notice that the graph has also been shifted up 4 units. Therefore the correct formula is .      local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec3\/Q17.pg  local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec1\/Q08.pg  local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec2\/Q29.pg  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-1.pg   Part I.  To obtain the graph of   from the graph of   one needs to do the following transformations:    horizontal shift 4 units right    horizontal shift 7 units left    vertical shift 7 units up    vertical shift 7 units down    horizontal shift 4 units left    vertical shift 4 units down    vertical shift 4 units up    horizontal shift 7 units right    Note: select all transformations that apply  Part II.  To obtain the graph of   from the graph of   one needs to do the following transformations:    vertical shift 4 units up    vertical shift 7 units up    horizontal shift 4 units left    vertical shift 7 units down    horizontal shift 7 units left    horizontal shift 7 units right    vertical shift 4 units down    horizontal shift 4 units right    Note: select all transformations that apply       local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-2.pg   Part I.  To obtain the graph of   from the graph of   one needs to do the following transformations:    vertical shift 5 units up    horizontal shift 6 units right    horizontal shift 5 units left    vertical shift 6 units down    horizontal shift 5 units right    horizontal shift 6 units left    vertical shift 6 units up    vertical shift 5 units down    Note: select all transformations that apply  Part II.  To obtain the graph of   from the graph of   one needs to do the following transformations:    horizontal shift 6 units right    vertical shift 5 units up    horizontal shift 6 units left    vertical shift 6 units up    horizontal shift 5 units left    horizontal shift 5 units right    vertical shift 5 units down    vertical shift 6 units down    Note: select all transformations that apply  Part III.  To obtain the graph of   from the graph of   one needs to do the following transformations:    horizontal shift 5 units left    horizontal shift 5 units right    vertical shift 5 units up    vertical shift 5 units down    vertical shift 6 units up    horizontal shift 6 units left    vertical shift 6 units down    horizontal shift 6 units right    Note: select all transformations that apply       local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-1.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units right  2. Vertical shift 3 units up  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units right  2. Vertical shift 3 units down  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-2.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 5 units left  2. Vertical shift 3 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 5 units left  3. Vertical shift 3 units down  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-3.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 4 units right  2. Vertical shift 2 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 4 units right  3. Vertical shift 2 units down  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-4.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units right  2. Vertical shift 4 units up  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 2 units right  3. Vertical shift 4 units up  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-5.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 7 units left  2. Vertical shift 3 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 7 units left  3. Vertical shift 3 units down  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-6.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 3 units right  2. Vertical shift 6 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 3 units right  3. Vertical shift 6 units down  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-7.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units left  2. Vertical shift 6 units up  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 2 units left  3. Vertical shift 6 units up  A formula for the transformed function is                  local\/uw-stout\/math120-sulvn-3-5\/absolute-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions  sketched in green,  sketched in blue, and  sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                       local\/uw-stout\/math120-sulvn-3-5\/cubic-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions  sketched in green,  sketched in blue, and  sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                       local\/uw-stout\/math120-sulvn-3-5\/quadratic-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions sketched in green, sketched in blue, and sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                       local\/uw-stout\/math120-sulvn-3-5\/square-root-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions  sketched in green,  sketched in blue, and  sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                        "
+},
+{
+  "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18",
+  "level": "2",
+  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18",
+  "type": "Exercise",
+  "number": "25.1",
+  "title": "<em class=\"alert\">Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q18.pg<\/em>.",
+  "body": "Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q18.pg   Consider the function drawn below:   (click on image to enlarge)  On a separate piece of paper, sketch an accurate graph of the function . Which (if any) of the graphs below matches the graph you drew?     (click on image to enlarge)        (click on image to enlarge)     (click on image to enlarge)     (click on image to enlarge)     (click on image to enlarge)    None of the above     SOLUTION The function is a vertical reflection about the -axis as well as a vertical stretch by a factor of 2. Therefore the correct graph is which is answer B.     "
+},
+{
+  "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20",
+  "level": "2",
+  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20",
+  "type": "Exercise",
+  "number": "25.2",
+  "title": "<em class=\"alert\">Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q20.pg<\/em>.",
+  "body": "Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q20.pg   Consider the graph of given below:   (click on image to enlarge)  Find a possible formula for the transformations of shown below:   (click on image to enlarge)          SOLUTION Notice that the graph has been vertically stretched by a factor of 2 since the difference between the maximum and minimum values is now 24, while on the initial graph of this difference is 12. Next notice that the graph has also been shifted up 4 units. Therefore the correct formula is .     "
+},
+{
+  "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17",
+  "level": "2",
+  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17",
+  "type": "Exercise",
+  "number": "25.3",
+  "title": "<em class=\"alert\">local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec3\/Q17.pg<\/em>.",
+  "body": "local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec3\/Q17.pg "
+},
+{
+  "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08",
+  "level": "2",
+  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08",
+  "type": "Exercise",
+  "number": "25.4",
+  "title": "<em class=\"alert\">local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec1\/Q08.pg<\/em>.",
+  "body": "local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec1\/Q08.pg "
+},
+{
+  "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29",
+  "level": "2",
+  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29",
+  "type": "Exercise",
+  "number": "25.5",
+  "title": "<em class=\"alert\">local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec2\/Q29.pg<\/em>.",
+  "body": "local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec2\/Q29.pg "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1",
+  "type": "Exercise",
+  "number": "25.6",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-1.pg   Part I.  To obtain the graph of   from the graph of   one needs to do the following transformations:    horizontal shift 4 units right    horizontal shift 7 units left    vertical shift 7 units up    vertical shift 7 units down    horizontal shift 4 units left    vertical shift 4 units down    vertical shift 4 units up    horizontal shift 7 units right    Note: select all transformations that apply  Part II.  To obtain the graph of   from the graph of   one needs to do the following transformations:    vertical shift 4 units up    vertical shift 7 units up    horizontal shift 4 units left    vertical shift 7 units down    horizontal shift 7 units left    horizontal shift 7 units right    vertical shift 4 units down    horizontal shift 4 units right    Note: select all transformations that apply      "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2",
+  "type": "Exercise",
+  "number": "25.7",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-2.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-2.pg   Part I.  To obtain the graph of   from the graph of   one needs to do the following transformations:    vertical shift 5 units up    horizontal shift 6 units right    horizontal shift 5 units left    vertical shift 6 units down    horizontal shift 5 units right    horizontal shift 6 units left    vertical shift 6 units up    vertical shift 5 units down    Note: select all transformations that apply  Part II.  To obtain the graph of   from the graph of   one needs to do the following transformations:    horizontal shift 6 units right    vertical shift 5 units up    horizontal shift 6 units left    vertical shift 6 units up    horizontal shift 5 units left    horizontal shift 5 units right    vertical shift 5 units down    vertical shift 6 units down    Note: select all transformations that apply  Part III.  To obtain the graph of   from the graph of   one needs to do the following transformations:    horizontal shift 5 units left    horizontal shift 5 units right    vertical shift 5 units up    vertical shift 5 units down    vertical shift 6 units up    horizontal shift 6 units left    vertical shift 6 units down    horizontal shift 6 units right    Note: select all transformations that apply      "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1",
+  "type": "Exercise",
+  "number": "25.8",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-1.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-1.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units right  2. Vertical shift 3 units up  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units right  2. Vertical shift 3 units down  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2",
+  "type": "Exercise",
+  "number": "25.9",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-2.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-2.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 5 units left  2. Vertical shift 3 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 5 units left  3. Vertical shift 3 units down  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3",
+  "type": "Exercise",
+  "number": "25.10",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-3.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-3.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 4 units right  2. Vertical shift 2 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 4 units right  3. Vertical shift 2 units down  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4",
+  "type": "Exercise",
+  "number": "25.11",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-4.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-4.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units right  2. Vertical shift 4 units up  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 2 units right  3. Vertical shift 4 units up  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5",
+  "type": "Exercise",
+  "number": "25.12",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-5.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-5.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 7 units left  2. Vertical shift 3 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 7 units left  3. Vertical shift 3 units down  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6",
+  "type": "Exercise",
+  "number": "25.13",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-6.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-6.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 3 units right  2. Vertical shift 6 units down  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 3 units right  3. Vertical shift 6 units down  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7",
+  "type": "Exercise",
+  "number": "25.14",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-7.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-7.pg   PART I.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Horizontal shift 2 units left  2. Vertical shift 6 units up  3. Reflection with respect to axis  A formula for the transformed function is   PART II.  Suppose we start with the graph of and apply the following sequence of transformations to obtain a graph of a new function  1. Reflection with respect to axis  2. Horizontal shift 2 units left  3. Vertical shift 6 units up  A formula for the transformed function is                 "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence",
+  "type": "Exercise",
+  "number": "25.15",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/absolute-5-sequence.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/absolute-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions  sketched in green,  sketched in blue, and  sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                      "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence",
+  "type": "Exercise",
+  "number": "25.16",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/cubic-5-sequence.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/cubic-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions  sketched in green,  sketched in blue, and  sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                      "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence",
+  "type": "Exercise",
+  "number": "25.17",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/quadratic-5-sequence.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/quadratic-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions sketched in green, sketched in blue, and sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                      "
+},
+{
+  "id": "ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence",
+  "level": "2",
+  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence",
+  "type": "Exercise",
+  "number": "25.18",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/square-root-5-sequence.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-5\/square-root-5-sequence.pg    The graph of is sketched in black and it had undergone a series of transformations to graphs of functions  sketched in green,  sketched in blue, and  sketched in red.  That is, the sequence of transformation is as follows:  .  Find a formula for the function   Find a formula for the function   Find a formula for the function                      "
+},
+{
+  "id": "sethw-19-modeling-with-functions",
+  "level": "1",
+  "url": "sethw-19-modeling-with-functions.html",
+  "type": "Chapter",
+  "number": "26",
+  "title": "19-modeling-with-functions",
+  "body": " 19-modeling-with-functions   local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-01.pg   We consider a rectangular field that has perimeter of yards.  1. Determine formula for the area of the field, , in terms of the length of the field, .    2. What is the domain of the function ?  Domain of is  Note: use interval notation for the domain  3. If , what is ?    4. If , what is ?                             local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-02.pg   Let be a point on graph of .  (a) Express the distance from to the point as a function of .    (b) What is if    (c) What is if                        local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-03.pg   An open box with a square base is to be made from a square piece of cardboard inches on a side by cutting out a square from each corner and turning up the sides. See the figure on page 263 of our text.  (a) Express the volume of the box as a function of the length of the side of the square cut from each corner.    (b) What is the volume if a -inch square is cut out?    (c) What is the volume if a -inch square is cut out?    (d) What is domain of ?  Domain of is  Note: use interval notation for the domain                           local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-07.pg   A rectangle has one corner in quadrant I on the graph of , another at the origin, a third on the positive axis, and the fourth on the positive axis. See the figure below   (1) Width of rectangle in terms of is  (2) Height of rectangle in terms of is  (3) Express the area of the rectangle as a function of .  Area   (4) What is the domain of ?  Domain of is  Note: use interval notation for the domain  (5) Graph . For what value of is the largest?  Value of that makes largest is                                local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-08.pg   A rectangle is inscribed in a semicircle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the semicircle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                             local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg   A rectangle is inscribed in a circle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                              "
+},
+{
+  "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-01",
+  "level": "2",
+  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-01",
+  "type": "Exercise",
+  "number": "26.1",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-01.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-01.pg   We consider a rectangular field that has perimeter of yards.  1. Determine formula for the area of the field, , in terms of the length of the field, .    2. What is the domain of the function ?  Domain of is  Note: use interval notation for the domain  3. If , what is ?    4. If , what is ?                            "
+},
+{
+  "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-02",
+  "level": "2",
+  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-02",
+  "type": "Exercise",
+  "number": "26.2",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-02.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-02.pg   Let be a point on graph of .  (a) Express the distance from to the point as a function of .    (b) What is if    (c) What is if                       "
+},
+{
+  "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-03",
+  "level": "2",
+  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-03",
+  "type": "Exercise",
+  "number": "26.3",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-03.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-03.pg   An open box with a square base is to be made from a square piece of cardboard inches on a side by cutting out a square from each corner and turning up the sides. See the figure on page 263 of our text.  (a) Express the volume of the box as a function of the length of the side of the square cut from each corner.    (b) What is the volume if a -inch square is cut out?    (c) What is the volume if a -inch square is cut out?    (d) What is domain of ?  Domain of is  Note: use interval notation for the domain                          "
+},
+{
+  "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-07",
+  "level": "2",
+  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-07",
+  "type": "Exercise",
+  "number": "26.4",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-07.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-07.pg   A rectangle has one corner in quadrant I on the graph of , another at the origin, a third on the positive axis, and the fourth on the positive axis. See the figure below   (1) Width of rectangle in terms of is  (2) Height of rectangle in terms of is  (3) Express the area of the rectangle as a function of .  Area   (4) What is the domain of ?  Domain of is  Note: use interval notation for the domain  (5) Graph . For what value of is the largest?  Value of that makes largest is                               "
+},
+{
+  "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-08",
+  "level": "2",
+  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-08",
+  "type": "Exercise",
+  "number": "26.5",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-08.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-08.pg   A rectangle is inscribed in a semicircle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the semicircle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                            "
+},
+{
+  "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-09",
+  "level": "2",
+  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-09",
+  "type": "Exercise",
+  "number": "26.6",
+  "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg<\/em>.",
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg   A rectangle is inscribed in a circle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                            "
+},
+{
   "id": "colophon-2",
   "level": "1",
   "url": "colophon-2.html",

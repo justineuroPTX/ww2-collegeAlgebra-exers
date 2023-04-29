@@ -1497,7 +1497,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
       <statement><p>Solve the following equation:</p>
 <p><m>x^2  - 8 x + 32 = 0</m></p>
 <p>The roots are: <m>x =</m>
-<fillin name="AnSwEr0001" characters="HASH(0x55a260316338)"/></p>
+<fillin name="AnSwEr0001" characters="HASH(0x55a25fb7da30)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -1515,7 +1515,7 @@ Feel free to use complex numbers in the form <m>a + bi</m> if necessary</p>
     <static seed="77" source="local/uw-stout/math120-sulvn-1-3/quadratic-complex-2-2.pg">
       <statement><p>Solve the following equation:</p>
 <p><m>81 x^2  - 36 x + 293 = 0</m></p>
-<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x55a25b494190)"/></p>
+<p>The solutions are <m>x =</m> <fillin name="AnSwEr0001" characters="HASH(0x55a25d6d5cb8)"/></p>
 <p><alert> Notes: </alert></p>
 <p>(i) feel free to use complex numbers if needed</p>
 <p>(ii) use fractions in your answer, not decimals</p>
@@ -6302,5 +6302,834 @@ Enter the letter of the graph below which corresponds to the function.
     </static>
     <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
     <pg source="local/uw-stout/math120-sulvn-3-4/graph-multi-function-ver-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-249" ww-id="webwork-249">
+    <static seed="249" source="Library/LoyolaChicago/Precalc/Chap5Review/Q18.pg">
+      <statement><p>Consider the function <m>y = f(x)</m> drawn below:</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="66.6666666666667%" pi:generated="webwork/images/webwork-249-image-1.png"/>
+<p><em> (click on image to enlarge) </em></p>
+<p>On a separate piece of paper, sketch an accurate graph of the function <m>y=-2f(x)</m> .  Which (if any) of the graphs below matches the graph you drew?</p>
+<p xmlns:pi="http://pretextbook.org/2020/pretext/internal"><var form="buttons">
+<li>
+<image width="40%" pi:generated="webwork/images/webwork-249-image-2.png"/>
+<p><em>(click on image to enlarge)</em></p>
+</li>
+<li>
+<image width="40%" pi:generated="webwork/images/webwork-249-image-3.png"/>
+</li>
+<li>
+<image width="40%" pi:generated="webwork/images/webwork-249-image-4.png"/>
+<p><em>(click on image to enlarge)</em></p>
+</li>
+<li>
+<image width="40%" pi:generated="webwork/images/webwork-249-image-5.png"/>
+<p><em>(click on image to enlarge)</em></p>
+</li>
+<li>
+<image width="40%" pi:generated="webwork/images/webwork-249-image-6.png"/>
+<p><em>(click on image to enlarge)</em></p>
+</li>
+<li>
+<image width="40%" pi:generated="webwork/images/webwork-249-image-7.png"/>
+<p><em>(click on image to enlarge)</em></p>
+</li>
+<li>
+<p>None of the above</p>
+</li>
+</var></p>
+</statement>
+      <solution><alert>  SOLUTION </alert>
+
+
+
+The function <m>y=-2f(x)</m> is a vertical reflection about the <m>x</m>-axis as well as a vertical stretch by a factor of 2.  Therefore the correct graph is
+
+
+
+
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="40%" pi:generated="webwork/images/webwork-249-image-3.png"/>
+
+
+
+
+which is answer B.
+
+
+
+</solution>
+    </static>
+    <server-data sourceFilePath="Library/LoyolaChicago/Precalc/Chap5Review/Q18.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/LoyolaChicago/Precalc/Chap5Review/Q18.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-250" ww-id="webwork-250">
+    <static seed="250" source="Library/LoyolaChicago/Precalc/Chap5Review/Q20.pg">
+      <statement><p>Consider the graph of <m>f(x)</m> given below:</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="66.6666666666667%" pi:generated="webwork/images/webwork-250-image-1.png"/>
+<p><em> (click on image to enlarge) </em></p>
+<p>Find a possible formula for the transformations of <m>f(x)</m> shown below:</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="66.6666666666667%" pi:generated="webwork/images/webwork-250-image-2.png"/>
+<p><em> (click on image to enlarge) </em></p>
+<p><m>y =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>2f\!\left(x\right)+4</m>
+        </p>
+      </answer>
+      <solution><alert>  SOLUTION </alert>
+
+
+
+Notice that the graph has been vertically stretched by a factor of 2 since the difference between the maximum and minimum <m>y</m> values is now 24, while on the initial graph of <m>f(x)</m> this difference is 12.  Next notice that the graph has also been shifted up 4 units.  Therefore the correct formula is <m>y = 2 f(x) + 4</m> .
+
+
+
+</solution>
+    </static>
+    <server-data sourceFilePath="Library/LoyolaChicago/Precalc/Chap5Review/Q20.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="Library/LoyolaChicago/Precalc/Chap5Review/Q20.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-251" ww-id="webwork-251">
+    <static seed="251" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-1.pg">
+      <statement><p><alert> Part I. </alert></p>
+<p>To obtain the graph of</p>
+<p><m>y = \left(x+7\right)^{3}+6\!\left(x+7\right)^{2}+4</m></p>
+<p>from the graph of</p>
+<p><m>y = x^{3}+6x^{2}</m></p>
+<p>one needs to do the following transformations:</p>
+<p><var form="checkboxes">
+<li>
+<p>horizontal shift 4 units right</p>
+</li>
+<li>
+<p>horizontal shift 7 units left</p>
+</li>
+<li>
+<p>vertical shift 7 units up</p>
+</li>
+<li>
+<p>vertical shift 7 units down</p>
+</li>
+<li>
+<p>horizontal shift 4 units left</p>
+</li>
+<li>
+<p>vertical shift 4 units down</p>
+</li>
+<li>
+<p>vertical shift 4 units up</p>
+</li>
+<li>
+<p>horizontal shift 7 units right</p>
+</li>
+</var></p>
+<p><alert>Note:</alert> select all transformations that apply</p>
+<p><alert> Part II. </alert></p>
+<p>To obtain the graph of</p>
+<p><m>y = \left(x-7\right)^{3}+6\!\left(x-7\right)^{2}+4</m></p>
+<p>from the graph of</p>
+<p><m>y = x^{3}+6x^{2}</m></p>
+<p>one needs to do the following transformations:</p>
+<p><var form="checkboxes">
+<li>
+<p>vertical shift 4 units up</p>
+</li>
+<li>
+<p>vertical shift 7 units up</p>
+</li>
+<li>
+<p>horizontal shift 4 units left</p>
+</li>
+<li>
+<p>vertical shift 7 units down</p>
+</li>
+<li>
+<p>horizontal shift 7 units left</p>
+</li>
+<li>
+<p>horizontal shift 7 units right</p>
+</li>
+<li>
+<p>vertical shift 4 units down</p>
+</li>
+<li>
+<p>horizontal shift 4 units right</p>
+</li>
+</var></p>
+<p><alert>Note:</alert> select all transformations that apply</p>
+</statement>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-252" ww-id="webwork-252">
+    <static seed="252" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-2.pg">
+      <statement><p><alert> Part I. </alert></p>
+<p>To obtain the graph of</p>
+<p><m>y = f(x+5) - 6</m></p>
+<p>from the graph of</p>
+<p><m>y = f(x)</m></p>
+<p>one needs to do the following transformations:</p>
+<p><var form="checkboxes">
+<li>
+<p>vertical shift 5 units up</p>
+</li>
+<li>
+<p>horizontal shift 6 units right</p>
+</li>
+<li>
+<p>horizontal shift 5 units left</p>
+</li>
+<li>
+<p>vertical shift 6 units down</p>
+</li>
+<li>
+<p>horizontal shift 5 units right</p>
+</li>
+<li>
+<p>horizontal shift 6 units left</p>
+</li>
+<li>
+<p>vertical shift 6 units up</p>
+</li>
+<li>
+<p>vertical shift 5 units down</p>
+</li>
+</var></p>
+<p><alert>Note:</alert> select all transformations that apply</p>
+<p><alert> Part II. </alert></p>
+<p>To obtain the graph of</p>
+<p><m>y = f(x+5) + 6</m></p>
+<p>from the graph of</p>
+<p><m>y = f(x)</m></p>
+<p>one needs to do the following transformations:</p>
+<p><var form="checkboxes">
+<li>
+<p>horizontal shift 6 units right</p>
+</li>
+<li>
+<p>vertical shift 5 units up</p>
+</li>
+<li>
+<p>horizontal shift 6 units left</p>
+</li>
+<li>
+<p>vertical shift 6 units up</p>
+</li>
+<li>
+<p>horizontal shift 5 units left</p>
+</li>
+<li>
+<p>horizontal shift 5 units right</p>
+</li>
+<li>
+<p>vertical shift 5 units down</p>
+</li>
+<li>
+<p>vertical shift 6 units down</p>
+</li>
+</var></p>
+<p><alert>Note:</alert> select all transformations that apply</p>
+<p><alert> Part III. </alert></p>
+<p>To obtain the graph of</p>
+<p><m>y = f(x-5) - 6</m></p>
+<p>from the graph of</p>
+<p><m>y = f(x)</m></p>
+<p>one needs to do the following transformations:</p>
+<p><var form="checkboxes">
+<li>
+<p>horizontal shift 5 units left</p>
+</li>
+<li>
+<p>horizontal shift 5 units right</p>
+</li>
+<li>
+<p>vertical shift 5 units up</p>
+</li>
+<li>
+<p>vertical shift 5 units down</p>
+</li>
+<li>
+<p>vertical shift 6 units up</p>
+</li>
+<li>
+<p>horizontal shift 6 units left</p>
+</li>
+<li>
+<p>vertical shift 6 units down</p>
+</li>
+<li>
+<p>horizontal shift 6 units right</p>
+</li>
+</var></p>
+<p><alert>Note:</alert> select all transformations that apply</p>
+</statement>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-253" ww-id="webwork-253">
+    <static seed="253" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-1.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = x^{2}-9x</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 2 units right</p>
+<p>2. Vertical shift 3 units up</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = x^{2}-9x</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 2 units right</p>
+<p>2. Vertical shift 3 units down</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(x-2\right)^{2}-9\!\left(x-2\right)+3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(x-2\right)^{2}-9\!\left(x-2\right)-3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-1.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-1.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-254" ww-id="webwork-254">
+    <static seed="254" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-2.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = x^{2}+6x-12</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 5 units left</p>
+<p>2. Vertical shift 3 units down</p>
+<p>3. Reflection with respect to <m>x</m> axis</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = x^{2}+6x-12</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Reflection with respect to <m>x</m> axis</p>
+<p>2. Horizontal shift 5 units left</p>
+<p>3. Vertical shift 3 units down</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-\left(\left(x+5\right)^{2}+6\!\left(x+5\right)-12-3\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left(x+5\right)^{2}-6\!\left(x+5\right)+12-3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-2.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-2.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-255" ww-id="webwork-255">
+    <static seed="255" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-3.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = -5\!\left|x\right|</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 4 units right</p>
+<p>2. Vertical shift 2 units down</p>
+<p>3. Reflection with respect to <m>x</m> axis</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = -5\!\left|x\right|</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Reflection with respect to <m>x</m> axis</p>
+<p>2. Horizontal shift 4 units right</p>
+<p>3. Vertical shift 2 units down</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-\left(-5\!\left|x-4\right|-2\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5\!\left|x-4\right|-2</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-3.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-3.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-256" ww-id="webwork-256">
+    <static seed="256" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-4.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = x^{2}-3x</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 2 units right</p>
+<p>2. Vertical shift 4 units up</p>
+<p>3. Reflection with respect to <m>y</m> axis</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = x^{2}-3x</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Reflection with respect to <m>y</m> axis</p>
+<p>2. Horizontal shift 2 units right</p>
+<p>3. Vertical shift 4 units up</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(-x-2\right)^{2}-3\!\left(-x-2\right)+4</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left(x-2\right)^{2}+3\!\left(x-2\right)+4</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-4.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-4.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-257" ww-id="webwork-257">
+    <static seed="257" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-5.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = \left|x+5\right|</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 7 units left</p>
+<p>2. Vertical shift 3 units down</p>
+<p>3. Reflection with respect to <m>y</m> axis</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = \left|x+5\right|</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Reflection with respect to <m>y</m> axis</p>
+<p>2. Horizontal shift 7 units left</p>
+<p>3. Vertical shift 3 units down</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left|-x+7+5\right|-3</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left|-\left(x+7\right)+5\right|-3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-5.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-5.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-258" ww-id="webwork-258">
+    <static seed="258" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-6.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = \sqrt{x}</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 3 units right</p>
+<p>2. Vertical shift 6 units down</p>
+<p>3. Reflection with respect to <m>x</m> axis</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = \sqrt{x}</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Reflection with respect to <m>x</m> axis</p>
+<p>2. Horizontal shift 3 units right</p>
+<p>3. Vertical shift 6 units down</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>-\left(\sqrt{x-3}-6\right)</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\sqrt{x-3}-6</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-6.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-6.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-259" ww-id="webwork-259">
+    <static seed="259" source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-7.pg">
+      <statement><p><alert> PART I. </alert></p>
+<p>Suppose we start with the graph of <m>y = \sqrt{x}</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Horizontal shift 2 units left</p>
+<p>2. Vertical shift 6 units up</p>
+<p>3. Reflection with respect to <m>y</m> axis</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0001" characters="20"/></p>
+<p><alert> PART II. </alert></p>
+<p>Suppose we start with the graph of <m>y = \sqrt{x}</m> and apply the following sequence of transformations to obtain a graph of a new function <m>g(x)</m></p>
+<p>1. Reflection with respect to <m>y</m> axis</p>
+<p>2. Horizontal shift 2 units left</p>
+<p>3. Vertical shift 6 units up</p>
+<p>A formula for the transformed function is <m>g(x) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\sqrt{-x+2}+6</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\sqrt{-\left(x+2\right)}+6</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-7.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-7.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-260" ww-id="webwork-260">
+    <static seed="260" source="local/uw-stout/math120-sulvn-3-5/absolute-5-sequence.pg">
+      <statement><image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100%" pi:generated="webwork/images/webwork-260-image-1.png"/>
+<p>The graph of <m>f(x)=|x|</m> is sketched in black and it had undergone a series of transformations to graphs of functions</p>
+<p><m>f_1</m> sketched in green,</p>
+<p><m>f_2</m> sketched in blue, and</p>
+<p><m>f_3</m> sketched in red.</p>
+<p>That is, the sequence of transformation is as follows:</p>
+<p><m>f\rightarrow f_1\rightarrow f_2\rightarrow f_3</m>.</p>
+<p>Find a formula for the function <m>f_1(x)</m></p>
+<p><m>f_1(x)=</m><fillin name="AnSwEr0001" characters="30"/></p>
+<p>Find a formula for the function <m>f_2(x)</m></p>
+<p><m>f_2(x)=</m><fillin name="AnSwEr0002" characters="30"/></p>
+<p>Find a formula for the function <m>f_3(x)</m></p>
+<p><m>f_3(x)=</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left|x+3\right|</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left|x+3\right|</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left|x+3\right|+6</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/absolute-5-sequence.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/absolute-5-sequence.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-261" ww-id="webwork-261">
+    <static seed="261" source="local/uw-stout/math120-sulvn-3-5/cubic-5-sequence.pg">
+      <statement><image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100%" pi:generated="webwork/images/webwork-261-image-1.png"/>
+<p>The graph of <m>f(x)=x^3</m> is sketched in black and it had undergone a series of transformations to graphs of functions</p>
+<p><m>f_1</m> sketched in green,</p>
+<p><m>f_2</m> sketched in blue, and</p>
+<p><m>f_3</m> sketched in red.</p>
+<p>That is, the sequence of transformation is as follows:</p>
+<p><m>f\rightarrow f_1\rightarrow f_2\rightarrow f_3</m>.</p>
+<p>Find a formula for the function <m>f_1(x)</m></p>
+<p><m>f_1(x)=</m><fillin name="AnSwEr0001" characters="30"/></p>
+<p>Find a formula for the function <m>f_2(x)</m></p>
+<p><m>f_2(x)=</m><fillin name="AnSwEr0002" characters="30"/></p>
+<p>Find a formula for the function <m>f_3(x)</m></p>
+<p><m>f_3(x)=</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(x-5\right)^{3}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left(x-5\right)^{3}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left(x-5\right)^{3}-7</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/cubic-5-sequence.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/cubic-5-sequence.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-262" ww-id="webwork-262">
+    <static seed="262" source="local/uw-stout/math120-sulvn-3-5/quadratic-5-sequence.pg">
+      <statement><image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100%" pi:generated="webwork/images/webwork-262-image-1.png"/>
+<p>The graph of <m>f(x)=x^2</m> is sketched in black and it had undergone a series of transformations to graphs of functions <m>f_1</m>
+sketched in green, <m>f_2</m> sketched in blue, and <m>f_3</m> sketched in red.</p>
+<p>That is, the sequence of transformation is as follows:</p>
+<p><m>f\rightarrow f_1\rightarrow f_2\rightarrow f_3</m>.</p>
+<p>Find a formula for the function <m>f_1(x)</m></p>
+<p><m>f_1(x)=</m><fillin name="AnSwEr0001" characters="30"/></p>
+<p>Find a formula for the function <m>f_2(x)</m></p>
+<p><m>f_2(x)=</m><fillin name="AnSwEr0002" characters="30"/></p>
+<p>Find a formula for the function <m>f_3(x)</m></p>
+<p><m>f_3(x)=</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\left(x-7\right)^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left(x-7\right)^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\left(x-7\right)^{2}-3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/quadratic-5-sequence.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/quadratic-5-sequence.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-263" ww-id="webwork-263">
+    <static seed="263" source="local/uw-stout/math120-sulvn-3-5/square-root-5-sequence.pg">
+      <statement><image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100%" pi:generated="webwork/images/webwork-263-image-1.png"/>
+<p>The graph of <m>f(x)=\sqrt{x}</m> is sketched in black and it had undergone a series of transformations to graphs of functions</p>
+<p><m>f_1</m> sketched in green,</p>
+<p><m>f_2</m> sketched in blue, and</p>
+<p><m>f_3</m> sketched in red.</p>
+<p>That is, the sequence of transformation is as follows:</p>
+<p><m>f\rightarrow f_1\rightarrow f_2\rightarrow f_3</m>.</p>
+<p>Find a formula for the function <m>f_1(x)</m></p>
+<p><m>f_1(x)=</m><fillin name="AnSwEr0001" characters="30"/></p>
+<p>Find a formula for the function <m>f_2(x)</m></p>
+<p><m>f_2(x)=</m><fillin name="AnSwEr0002" characters="30"/></p>
+<p>Find a formula for the function <m>f_3(x)</m></p>
+<p><m>f_3(x)=</m><fillin name="AnSwEr0003" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\sqrt{x+4}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\sqrt{x+4}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>-\sqrt{x+4}+3</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-5/square-root-5-sequence.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-5/square-root-5-sequence.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-264" ww-id="webwork-264">
+    <static seed="264" source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-01.pg">
+      <statement><p>We consider a rectangular field that has perimeter of <m>423</m> yards.</p>
+<p>1. Determine formula for the area of the field, <m>A</m>, in terms of the length of the field, <m>x</m>.</p>
+<p><m>A(x) =</m> <fillin name="AnSwEr0001" characters="40"/></p>
+<p>2. What is the domain of the function <m>A</m>?</p>
+<p>Domain of <m>A(x)</m> is <fillin name="AnSwEr0002" characters="40"/></p>
+<p><alert> Note: </alert> use interval notation for the domain</p>
+<p>3. If <m>x = 69</m>, what is <m>A</m>?</p>
+<p><m>A(69) =</m> <fillin name="AnSwEr0003" characters="20"/></p>
+<p>4. If <m>A(x) = 6660.5</m>, what is <m>x</m>?</p>
+<p><m>x =</m> <fillin name="AnSwEr0004" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\frac{x\!\left(423-2x\right)}{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left[0,211.5\right]</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>9832.5</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>173, 38.5</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-01.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-01.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-265" ww-id="webwork-265">
+    <static seed="265" source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-02.pg">
+      <statement><p>Let <m>P = ( x, y )</m> be a point on graph of <m>y = x^{2}-8</m>.</p>
+<p>(a) Express the distance <m>d</m> from <m>P</m> to the point 
+<m>( 2, -1 )</m> as a function of <m>x</m>.</p>
+<p><m>d(x) =</m> <fillin name="AnSwEr0001" characters="40"/></p>
+<p>(b) What is <m>d</m> if <m>x = 0</m></p>
+<p><m>d(0) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+<p>(c) What is <m>d</m> if <m>x = 1</m></p>
+<p><m>d(1) =</m> <fillin name="AnSwEr0003" characters="20"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>\sqrt{\left(x-2\right)^{2}+\left(x^{2}-8+1\right)^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>7.28011</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.08276</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-02.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-02.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-266" ww-id="webwork-266">
+    <static seed="266" source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-03.pg">
+      <statement><p>An open box with a square base is to be made from a square piece of cardboard 
+<m>34</m> inches on a side by cutting out a square from each corner and turning up the sides. See the figure on page 263 of our text.</p>
+<p>(a) Express the volume <m>V</m> of the box as a function of the length <m>x</m> of the side of the square cut from each corner.</p>
+<p><m>V(x) =</m> <fillin name="AnSwEr0001" characters="40"/></p>
+<p>(b) What is the volume if a <m>10.6</m>-inch square is cut out?</p>
+<p><m>V(10.6) =</m> <fillin name="AnSwEr0002" characters="20"/></p>
+<p>(c) What is the volume if a <m>11</m>-inch square is cut out?</p>
+<p><m>V(11) =</m> <fillin name="AnSwEr0003" characters="20"/></p>
+<p>(d) What is domain of <m>V(x)</m>?</p>
+<p>Domain of <m>V(x)</m> is <fillin name="AnSwEr0004" characters="20"/></p>
+<p><alert> Note: </alert> use interval notation for the domain</p>
+</statement>
+      <answer>
+        <p>
+          <m>x\!\left(34-2x\right)^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1736.7</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>1584</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left[0,17\right]</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-03.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-03.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-267" ww-id="webwork-267">
+    <static seed="267" source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-07.pg">
+      <statement><p>A rectangle has one corner in quadrant I on the graph of <m>y = 36 - x^2</m>, another 
+at the origin, a third on the positive <m>y-</m>axis, and the fourth on the positive <m>x-</m>axis. See the figure below</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100.166666666667%" pi:generated="webwork/images/webwork-267-image-1.png"/>
+<p>(1) Width of rectangle in terms of <m>x</m> is <fillin name="AnSwEr0001" characters="20"/></p>
+<p>(2) Height of rectangle in terms of <m>x</m> is <fillin name="AnSwEr0002" characters="20"/></p>
+<p>(3) Express the area <m>A</m> of the rectangle as a function of <m>x</m>.</p>
+<p>Area <m>A(x) =</m>   <fillin name="AnSwEr0003" characters="40"/></p>
+<p>(4) What is the domain of <m>A</m>?</p>
+<p>Domain of <m>A</m> is <fillin name="AnSwEr0004" characters="40"/></p>
+<p><alert> Note: </alert> use interval notation for the domain</p>
+<p>(5) Graph  <m>A = A(x)</m>.  For what value of <m>x</m> is <m>A</m> the largest?</p>
+<p>Value of <m>x</m> that makes <m>A(x)</m> largest is <m>x \approx</m><fillin name="AnSwEr0005" characters="10"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>x</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>36-x^{2}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>36x-x^{3}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>\left[0,6\right]</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>3.4641</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-07.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-07.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-268" ww-id="webwork-268">
+    <static seed="268" source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-08.pg">
+      <statement><p>A rectangle is inscribed in a semicircle of radius <m>r = 7</m>. See the figure below</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100.166666666667%" pi:generated="webwork/images/webwork-268-image-1.png"/>
+<p>Let <m>P = (x, y)</m> be the point in quadrant I that is a vertex of the rectangle and is on the semicircle of radius <m>r = 7</m> shown above.</p>
+<p>(1) Express the area <m>A</m> of the rectangle as a function of <m>x</m>.</p>
+<p><m>A(x) =</m> <fillin name="AnSwEr0001" characters="30"/></p>
+<p>(2) Express the perimeter <m>P</m> of the rectangle as a function of <m>x</m>.</p>
+<p><m>P(x) =</m> <fillin name="AnSwEr0002" characters="30"/></p>
+<p>(3) Graph <m>A = A(x)</m>. For what value of <m>x</m> is <m>A</m> the largest ?</p>
+<p><m>x \approx</m> <fillin name="AnSwEr0003" characters="30"/></p>
+<p>(4) Graph <m>P = P(x)</m>. For what value of <m>x</m> is <m>P</m> the largest ?</p>
+<p><m>x \approx</m> <fillin name="AnSwEr0004" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>2x\sqrt{49-x^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4x+2\sqrt{49-x^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4.94975</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>6.26099</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-08.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-08.pg"/>
+  </webwork-reps>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-269" ww-id="webwork-269">
+    <static seed="269" source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-09.pg">
+      <statement><p>A rectangle is inscribed in a circle of radius <m>r = 8</m>. See the figure below</p>
+<image xmlns:pi="http://pretextbook.org/2020/pretext/internal" width="100.166666666667%" pi:generated="webwork/images/webwork-269-image-1.png"/>
+<p>Let <m>P = (x, y)</m> be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius <m>r = 8</m> shown above.</p>
+<p>(1) Express the area <m>A</m> of the rectangle as a function of <m>x</m>.</p>
+<p><m>A(x) =</m> <fillin name="AnSwEr0001" characters="30"/></p>
+<p>(2) Express the perimeter <m>P</m> of the rectangle as a function of <m>x</m>.</p>
+<p><m>P(x) =</m> <fillin name="AnSwEr0002" characters="30"/></p>
+<p>(3) Graph <m>A = A(x)</m>. For what value of <m>x</m> is <m>A</m>  the largest ?</p>
+<p><m>x \approx</m> <fillin name="AnSwEr0003" characters="30"/></p>
+<p>(4) Graph <m>P = P(x)</m>. For what value of <m>x</m> is <m>P</m>  the largest ?</p>
+<p><m>x \approx</m> <fillin name="AnSwEr0004" characters="30"/></p>
+</statement>
+      <answer>
+        <p>
+          <m>4x\sqrt{64-x^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>4x+4\sqrt{64-x^{2}}</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5.65685</m>
+        </p>
+      </answer>
+      <answer>
+        <p>
+          <m>5.65685</m>
+        </p>
+      </answer>
+    </static>
+    <server-data sourceFilePath="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-09.pg" domain="https://192.168.1.57" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg source="local/uw-stout/math120-sulvn-3-6/functions-as-models-problem-09.pg"/>
   </webwork-reps>
 </webwork-representations>
