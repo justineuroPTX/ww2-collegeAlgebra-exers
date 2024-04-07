@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>13-variation-sci-formulas</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="WeBWorK2 Model Course - College Algebra">
+<meta property="book:author" content="You">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math",
+    "renderActions": {
+      "findScript": [
+        10,
+        function (doc) {
+            document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
+                var display = !!node.type.match(/; *mode=display/);
+                var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
+                var text = document.createTextNode('');
+                node.parentNode.replaceChild(text, node);
+                math.start = {node: text, delim: '', n: 0};
+                math.end = {node: text, delim: '', n: 0};
+                doc.math.push(math);
+            });
+        },
+        ""
+      ]
+    }
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "_static/pretext/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="_static/pretext/js/pretext-webwork/2.17/pretext-webwork.js"></script><script src="https://192.168.1.116/webwork2_files/node_modules/iframe-resizer/js/iframeResizer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="_static/pretext/js/pretext_search.js"></script><link href="_static/pretext/css/pretext_search.css" rel="stylesheet" type="text/css">
+<script src="_static/pretext/js/lib/jquery.min.js"></script><script src="_static/pretext/js/lib/jquery.sticky.js"></script><script src="_static/pretext/js/lib/jquery.espy.min.js"></script><script src="_static/pretext/js/pretext.js"></script><script src="_static/pretext/js/pretext_add_on.js?x=1"></script><script src="_static/pretext/js/user_preferences.js"></script><script src="_static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+<link href="_static/pretext/css/pretext.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/shell_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/banner_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/toc_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/style_default.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="_static/pretext/css/setcolors.css" rel="stylesheet" type="text/css">
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" class="logo-link" target="_blank" href=""></a><div class="title-container">
+<h1 class="heading"><a href="ww2-collAlg.html"><span class="title">WeBWorK2 Model Course - College Algebra:</span> <span class="subtitle">Compilation of Exercises</span></a></h1>
+<p class="byline">You</p>
+</div>
+</div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div>
+<span class="nav-other-controls"></span><span class="treebuttons"><a class="previous-button button" href="sethw-12-circles.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="ww2-collAlg.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="sethw-14a-Determine-And-Evaluate-Function.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth1"><ul class="structural contains-active toc-item-list">
+<li class="toc-item toc-frontmatter">
+<div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-colophon"><div class="toc-title-box"><a href="frontmatter-2.html" class="internal"><span class="title">Colophon</span></a></div></li>
+<li class="toc-item toc-preface"><div class="toc-title-box"><a href="frontmatter-3.html" class="internal"><span class="title">Preface</span></a></div></li>
+</ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-01a-polynomials-addition-multiplication.html" class="internal"><span class="codenumber">1</span> <span class="title">01a-polynomials-addition-multiplication</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-01a-polynomials-addition-multiplication-2.html" class="internal"><span class="codenumber">1</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-01b-polynomials-factoring.html" class="internal"><span class="codenumber">2</span> <span class="title">01b-polynomials-factoring</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-01b-polynomials-factoring-2.html" class="internal"><span class="codenumber">2</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-02-linear-equations.html" class="internal"><span class="codenumber">3</span> <span class="title">02-linear-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-02-linear-equations-exer.html" class="internal"><span class="codenumber">3</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-03-quadratic-equations-in-reals.html" class="internal"><span class="codenumber">4</span> <span class="title">03-quadratic-equations-in-reals</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-03-quadratic-equations-in-reals-2.html" class="internal"><span class="codenumber">4</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-04a-review-of-complex-numbers.html" class="internal"><span class="codenumber">5</span> <span class="title">04a-review-of-complex-numbers</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-04a-review-of-complex-numbers-2.html" class="internal"><span class="codenumber">5</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-04b-quadratic-equations-in-complex-numbers.html" class="internal"><span class="codenumber">6</span> <span class="title">04b-quadratic-equations-in-complex-numbers</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-04b-quadratic-equations-in-complex-numbers-2.html" class="internal"><span class="codenumber">6</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05a-rational-eqns-equiv-to-quadratic.html" class="internal"><span class="codenumber">7</span> <span class="title">05a-rational-eqns-equiv-to-quadratic</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05a-rational-eqns-equiv-to-quadratic-2.html" class="internal"><span class="codenumber">7</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05b-radical-equations.html" class="internal"><span class="codenumber">8</span> <span class="title">05b-radical-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05b-radical-equations-2.html" class="internal"><span class="codenumber">8</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05c-other-quadratic-in-form-equations.html" class="internal"><span class="codenumber">9</span> <span class="title">05c-other-quadratic-in-form-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05c-other-quadratic-in-form-equations-2.html" class="internal"><span class="codenumber">9</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05d-factorable-equations-misc-equations.html" class="internal"><span class="codenumber">10</span> <span class="title">05d-factorable-equations-misc-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05d-factorable-equations-misc-equations-2.html" class="internal"><span class="codenumber">10</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-06-Linear-Inequalities.html" class="internal"><span class="codenumber">11</span> <span class="title">06-Linear-Inequalities</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-06-Linear-Inequalities-2.html" class="internal"><span class="codenumber">11</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-07a-absolute-value-equations.html" class="internal"><span class="codenumber">12</span> <span class="title">07a-absolute-value-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-07a-absolute-value-equations-2.html" class="internal"><span class="codenumber">12</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-07b-absolute-value-inequalities.html" class="internal"><span class="codenumber">13</span> <span class="title">07b-absolute-value-inequalities</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-07b-absolute-value-inequalities-2.html" class="internal"><span class="codenumber">13</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-08-word-problems.html" class="internal"><span class="codenumber">14</span> <span class="title">08-word-problems</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-08-word-problems-2.html" class="internal"><span class="codenumber">14</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-09-coordinates-distance-midpoint.html" class="internal"><span class="codenumber">15</span> <span class="title">09-coordinates-distance-midpoint</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-09-coordinates-distance-midpoint-2.html" class="internal"><span class="codenumber">15</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-10-graphs-intercepts-symmetry.html" class="internal"><span class="codenumber">16</span> <span class="title">10-graphs-intercepts-symmetry</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-10-graphs-intercepts-symmetry-2.html" class="internal"><span class="codenumber">16</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-11-Lines.html" class="internal"><span class="codenumber">17</span> <span class="title">11-Lines</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-11-Lines-2.html" class="internal"><span class="codenumber">17</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-12-circles.html" class="internal"><span class="codenumber">18</span> <span class="title">12-circles</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-12-circles-2.html" class="internal"><span class="codenumber">18</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter active">
+<div class="toc-title-box"><a href="sethw-13-variation-sci-formulas.html" class="internal"><span class="codenumber">19</span> <span class="title">13-variation-sci-formulas</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-13-variation-sci-formulas-2.html" class="internal"><span class="codenumber">19</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-14a-Determine-And-Evaluate-Function.html" class="internal"><span class="codenumber">20</span> <span class="title">14a-Determine-And-Evaluate-Function</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-14a-Determine-And-Evaluate-Function-2.html" class="internal"><span class="codenumber">20</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-14b-functions-domain.html" class="internal"><span class="codenumber">21</span> <span class="title">14b-functions-domain</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-14b-functions-domain-2.html" class="internal"><span class="codenumber">21</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-15-graphs-of-basic-functions.html" class="internal"><span class="codenumber">22</span> <span class="title">15-graphs-of-basic-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-15-graphs-of-basic-functions-2.html" class="internal"><span class="codenumber">22</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-16-properties-of-functions.html" class="internal"><span class="codenumber">23</span> <span class="title">16-properties-of-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-16-properties-of-functions-2.html" class="internal"><span class="codenumber">23</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-17-library-of-functions.html" class="internal"><span class="codenumber">24</span> <span class="title">17-library-of-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-17-library-of-functions-2.html" class="internal"><span class="codenumber">24</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-18-graphing-transformations.html" class="internal"><span class="codenumber">25</span> <span class="title">18-graphing-transformations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-18-graphing-transformations-2.html" class="internal"><span class="codenumber">25</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-19-modeling-with-functions.html" class="internal"><span class="codenumber">26</span> <span class="title">19-modeling-with-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-19-modeling-with-functions-2.html" class="internal"><span class="codenumber">26</span> <span class="title">Exercises</span></a></div></li></ul>
+</li>
+<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="chapter" id="sethw-13-variation-sci-formulas"><h2 class="heading">
+<span class="type">Chapter</span><span class="space"> </span><span class="codenumber">19</span><span class="space"> </span><span class="title">13-variation-sci-formulas</span>
+</h2>
+<section class="exercises" id="sethw-13-variation-sci-formulas-2"><h3 class="heading hide-type">
+<span class="type">Exercises</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Exercises</span>
+</h3>
+<details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_1" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">1<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_1.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-192" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="192" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_1.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-192')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-192-1-1-1">Suppose <span class="process-math">\(r\)</span> varies directly with <span class="process-math">\(t\)</span> and that <span class="process-math">\(r=21\)</span> when <span class="process-math">\(t=3\text{.}\)</span> What is the value of <span class="process-math">\(r\)</span> when <span class="process-math">\(t=9\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-192-1-1-2">
+<span class="process-math">\(r=\)</span> <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-192-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-192-1-2-1"><span class="process-math">\(63\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-find_const" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">2<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/find_const.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-193" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="193" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/find_const.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-193')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-193-1-1-1">Suppose <span class="process-math">\(p\)</span> varies directly  as the square of  <span class="process-math">\(q\text{.}\)</span> If <span class="process-math">\(p = -9\)</span> when <span class="process-math">\(q = 11\text{,}\)</span> what is <span class="process-math">\(p\)</span> if <span class="process-math">\(q\)</span> is 6?</div> <div class="para" id="extracted-webwork-193-1-1-2">
+<span class="process-math">\(p\)</span> = <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-193-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-193-1-2-1"><span class="process-math">\(-2.67768595041322\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-lh3-5_26" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">3<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/lh3-5_26.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-194" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="194" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/lh3-5_26.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-194')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-194-1-1-1">State sales tax <span class="process-math">\(y\)</span> is directly proportional to retail price <span class="process-math">\(x\text{.}\)</span> An item that sells for <span class="process-math">\(164\)</span> dollars has a sales tax of <span class="process-math">\(12.32\)</span> dollars. Find a mathematical model that gives the amount of sales tax <span class="process-math">\(y\)</span> in terms of the retail price <span class="process-math">\(x\text{.}\)</span>
+</div> <div class="para" id="extracted-webwork-194-1-1-2">Your answer is <span class="process-math">\(y=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
+</div> <div class="para" id="extracted-webwork-194-1-1-3">What is the sales tax on a <span class="process-math">\(340\)</span> dollars purchase.</div> <div class="para" id="extracted-webwork-194-1-1-4">Your answer is: <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div>
+<div class="solutions">
+<details id="extracted-webwork-194-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-194-1-2-1"><span class="process-math">\(\frac{12.32x}{164}\)</span></div></div></details><details id="extracted-webwork-194-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-194-1-3-1"><span class="process-math">\(25.5414634146341\)</span></div></div></details>
+</div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_2" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">4<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_2.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-195" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="195" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-195')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-195-1-1-1">Suppose <span class="process-math">\(p\)</span> varies directly with <span class="process-math">\(q\)</span> and that <span class="process-math">\(p=24\)</span> when <span class="process-math">\(q=8\text{.}\)</span> What is the value of <span class="process-math">\(p\)</span> when <span class="process-math">\(q=4\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-195-1-1-2">
+<span class="process-math">\(p=\)</span> <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-195-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-195-1-2-1"><span class="process-math">\(12\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_ab_6_2" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">5<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_ab_6_2.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-196" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="196" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_ab_6_2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-196')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-196-1-1-1">At 3:00 PM a man 144 cm tall casts a shadow 150 cm long.  At the same time, a tall building nearby casts a shadow 179 m long.  How tall is the building? <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-196-1-1-2">Give your answer in meters.  (You may need the fact that 100 cm = 1 m.)</div>
+<div class="solutions"><details id="extracted-webwork-196-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-196-1-2-1"><span class="process-math">\(171.84\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_3" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">6<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_3.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-197" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="197" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_3.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-197')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-197-1-1-1">Suppose <span class="process-math">\(z\)</span> varies inversely with <span class="process-math">\(t\)</span> and that <span class="process-math">\(z=30\)</span> when <span class="process-math">\(t=10\text{.}\)</span> What is the value of <span class="process-math">\(z\)</span> when <span class="process-math">\(t=6\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-197-1-1-2">
+<span class="process-math">\(z=\)</span> <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-197-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-197-1-2-1"><span class="process-math">\(50\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_4" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">7<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_4.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-198" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="198" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_4.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-198')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-198-1-1-1">Suppose <span class="process-math">\(f\)</span> varies inversely with <span class="process-math">\(g\)</span> and that <span class="process-math">\(f=24\)</span> when <span class="process-math">\(g=6\text{.}\)</span> What is the value of <span class="process-math">\(f\)</span> when <span class="process-math">\(g=8\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-198-1-1-2">
+<span class="process-math">\(f=\)</span> <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-198-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-198-1-2-1"><span class="process-math">\(18\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-lh3-5_50" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">8<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/lh3-5_50.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-199" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="199" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/lh3-5_50.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-199')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-199-1-1-1">Suppose <span class="process-math">\(p\)</span> varies jointly as the cube root of  <span class="process-math">\(q\)</span> and the square of  <span class="process-math">\(r\text{.}\)</span> If <span class="process-math">\(p = 11\)</span> when <span class="process-math">\(q = 1\)</span> and <span class="process-math">\(r = 5\text{,}\)</span> what is <span class="process-math">\(p\)</span> if <span class="process-math">\(q =13\)</span> and <span class="process-math">\(r = 2\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-199-1-1-2">
+<span class="process-math">\(p\)</span> = <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-199-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-199-1-2-1"><span class="process-math">\(4.13834905038853\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_5" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">9<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_5.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-200" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="200" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_5.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-200')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-200-1-1-1">Suppose <span class="process-math">\(z\)</span> varies directly with <span class="process-math">\(x\)</span> and inversely with the square of <span class="process-math">\(y\text{.}\)</span> If <span class="process-math">\(z =4\)</span> when <span class="process-math">\(x=2\)</span> and <span class="process-math">\(y=1\text{,}\)</span> what is <span class="process-math">\(z\)</span> when <span class="process-math">\(x=10\)</span> and <span class="process-math">\(y=9\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-200-1-1-2">
+<span class="process-math">\(z=\)</span> <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-200-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-200-1-2-1"><span class="process-math">\(0.246913580246914\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-lh3-5_54" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">10<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/lh3-5_54.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-201" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="201" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/lh3-5_54.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-201')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-201-1-1-1">If <span class="process-math">\(q\)</span> varies jointly as <span class="process-math">\(p\)</span> and  <span class="process-math">\(t\)</span> and inversely as <span class="process-math">\(r\text{,}\)</span> then find an equation for <span class="process-math">\(q\)</span> if <span class="process-math">\(q = -4\)</span> when <span class="process-math">\(p = 6\text{,}\)</span> <span class="process-math">\(t=-5\text{,}\)</span> and <span class="process-math">\(r = -7\text{.}\)</span>
+</div> <div class="para" id="extracted-webwork-201-1-1-2">
+<span class="process-math">\(q =\)</span> <span class="fillin underline" role="img" aria-label="15-character blank" style="width: 6.818181818181818em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-201-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-201-1-2-1"><span class="process-math">\(\frac{-0.933333pt}{r}\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-variation_eqn2" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">11<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/variation_eqn2.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-202" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="202" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/variation_eqn2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-202')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-202-1-1-1">If <span class="process-math">\(q\)</span> varies jointly as <span class="process-math">\(r\)</span> and the cube of  <span class="process-math">\(t\)</span> and inversely as <span class="process-math">\(p\text{,}\)</span> then find an equation for <span class="process-math">\(q\)</span> if <span class="process-math">\(q = -3\)</span> when <span class="process-math">\(t = 4\text{,}\)</span> <span class="process-math">\(r=5\text{,}\)</span> and <span class="process-math">\(p = 2\text{.}\)</span>
+</div> <div class="para" id="extracted-webwork-202-1-1-2">
+<span class="process-math">\(q =\)</span> <span class="fillin underline" role="img" aria-label="15-character blank" style="width: 6.818181818181818em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-202-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-202-1-2-1"><span class="process-math">\(\frac{-0.01875t^{3}r}{p}\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_6" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">12<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_6.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-203" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="203" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_6.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-203')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-203-1-1-1">Suppose <span class="process-math">\(z\)</span> varies directly with <span class="process-math">\(y\)</span> and directly with the cube of <span class="process-math">\(x\text{.}\)</span> If <span class="process-math">\(z =648\)</span> when <span class="process-math">\(x=3\)</span> and <span class="process-math">\(y=8\text{,}\)</span> what is <span class="process-math">\(z\)</span> when <span class="process-math">\(x=12\)</span> and <span class="process-math">\(y=3\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-203-1-1-2">
+<span class="process-math">\(z=\)</span> <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-203-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-203-1-2-1"><span class="process-math">\(15552\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-variation_eqn" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">13<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/variation_eqn.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-204" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="204" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/variation_eqn.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-204')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-204-1-1-1">If <span class="process-math">\(r\)</span> varies jointly as <span class="process-math">\(p\)</span> and  <span class="process-math">\(t\)</span> and inversely as <span class="process-math">\(q\text{,}\)</span> then find an equation for <span class="process-math">\(r\)</span> if <span class="process-math">\(r = -5\)</span> when <span class="process-math">\(p = -4\text{,}\)</span> <span class="process-math">\(t=1\text{,}\)</span> and <span class="process-math">\(q = -3\text{.}\)</span>
+</div> <div class="para" id="extracted-webwork-204-1-1-2">
+<span class="process-math">\(r =\)</span> <span class="fillin underline" role="img" aria-label="15-character blank" style="width: 6.818181818181818em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-204-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-204-1-2-1"><span class="process-math">\(\frac{-3.75pt}{q}\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-joint" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">14<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/joint.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-205" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="205" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/joint.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-205')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-205-1-1-1">Suppose <span class="process-math">\(p\)</span> varies jointly as the cube root of  <span class="process-math">\(q\)</span> and the cube root of  <span class="process-math">\(r\text{.}\)</span> If <span class="process-math">\(p = 4\)</span> when <span class="process-math">\(q = 6\)</span> and <span class="process-math">\(r = 4\text{,}\)</span> what is <span class="process-math">\(p\)</span> if <span class="process-math">\(q =13\)</span> and <span class="process-math">\(r = 10\text{?}\)</span>
+</div> <div class="para" id="extracted-webwork-205-1-1-2">
+<span class="process-math">\(p\)</span> = <span class="fillin underline" role="img" aria-label="10-character blank" style="width: 4.545454545454546em;"></span>
+</div>
+<div class="solutions"><details id="extracted-webwork-205-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-205-1-2-1"><span class="process-math">\(7.02485495353088\)</span></div></div></details></div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-lh3-5_60" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">15<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/Rochester/setAlgebra24Variation/lh3-5_60.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-206" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="206" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/Rochester/setAlgebra24Variation/lh3-5_60.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-206')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-206-1-1-1">The stopping distance <span class="process-math">\(d\)</span> of an automobile is directly proportional to the square of its speed <span class="process-math">\(v\text{.}\)</span> A car required <span class="process-math">\(80\)</span> feet to stop when its speed was <span class="process-math">\(60\)</span> miles per hour. Find a mathematical model that gives the stopping distance <span class="process-math">\(d\)</span> in terms of its speed <span class="process-math">\(v\text{.}\)</span>
+</div> <div class="para" id="extracted-webwork-206-1-1-2">Your answer is <span class="process-math">\(d=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
+</div> <div class="para" id="extracted-webwork-206-1-1-3">Estimate the stopping distance if the brakes are applied when the car is traveling at <span class="process-math">\(68\)</span> miles per hour.</div> <div class="para" id="extracted-webwork-206-1-1-4">Your answer is: <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div>
+<div class="solutions">
+<details id="extracted-webwork-206-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-206-1-2-1"><span class="process-math">\(\frac{80v^{2}}{3600}\)</span></div></div></details><details id="extracted-webwork-206-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-206-1-3-1"><span class="process-math">\(102.755555555556\)</span></div></div></details>
+</div>
+</div>
+</div></article></details><details id="ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_9" class="exercise exercise-like born-hidden-knowl"><summary class="knowl__link"><h1 class="heading">
+<span class="codenumber">16<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/Rochester/setAlgebra24Variation/ur_alg_11_9.pg</em>.</span>
+</h1></summary><article class="exercise exercise-like knowl__content"><div id="webwork-207" class="exercise-wrapper" data-domain="https://192.168.1.116" data-seed="207" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/Library/Rochester/setAlgebra24Variation/ur_alg_11_9.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+<div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-207')">Activate</button></div>
+<div class="problem-contents">
+<div class="para" id="extracted-webwork-207-1-1-1">For each power function, choose (by letter) the graph which most closely resembles the graph of that function. You may always assume that the constant of variation <span class="process-math">\(k\)</span> is positive.</div> <div class="para" id="extracted-webwork-207-1-1-2">Warning: You have only 4 attempts at this problem so make them count!</div> <div class="para" id="extracted-webwork-207-1-1-3">
+<span class="process-math">\(y=kx^{1.05}\)</span> <span class="fillin underline" role="img" aria-label="4-character blank" style="width: 1.818181818181818em;"></span>  <span class="process-math">\(y=kx^3\)</span> <span class="fillin underline" role="img" aria-label="4-character blank" style="width: 1.818181818181818em;"></span>
+</div> <div class="para" id="extracted-webwork-207-1-1-4">
+<span class="process-math">\(y=kx\)</span> <span class="fillin underline" role="img" aria-label="4-character blank" style="width: 1.818181818181818em;"></span>  <span class="process-math">\(y=kx^{.55}\)</span> <span class="fillin underline" role="img" aria-label="4-character blank" style="width: 1.818181818181818em;"></span>
+</div> <div class="para" id="extracted-webwork-207-1-1-5">
+<span class="process-math">\(y=kx^8\)</span> <span class="fillin underline" role="img" aria-label="4-character blank" style="width: 1.818181818181818em;"></span>  <span class="process-math">\(y=\frac{k}{x^{2.5}}\)</span> <span class="fillin underline" role="img" aria-label="4-character blank" style="width: 1.818181818181818em;"></span>
+</div>
+<div class="solutions">
+<details id="extracted-webwork-207-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-207-1-2-1">A</div></div></details><details id="extracted-webwork-207-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-207-1-3-1">A</div></div></details><details id="extracted-webwork-207-1-4" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-207-1-4-1">B</div></div></details><details id="extracted-webwork-207-1-5" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">4</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-207-1-5-1">C</div></div></details><details id="extracted-webwork-207-1-6" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">5</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-207-1-6-1">A</div></div></details><details id="extracted-webwork-207-1-7" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">6</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-207-1-7-1">D</div></div></details>
+</div>
+</div>
+</div></article></details></section></section></div>
+<div class="ptx-content-footer">
+<a class="previous-button button" href="sethw-12-circles.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="sethw-14a-Determine-And-Evaluate-Function.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+</div>
+</body>
+</html>
