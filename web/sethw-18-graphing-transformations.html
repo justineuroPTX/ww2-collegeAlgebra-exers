@@ -5,7 +5,7 @@
 <!--*         https://pretextbook.org          *-->
 <!--*                                          *-->
 <!--********************************************-->
-<html lang="en-US">
+<html lang="en-US" dir="ltr" data-legacy-colorscheme="blue_red">
 <head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>18-graphing-transformations</title>
@@ -14,20 +14,38 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="WeBWorK2 Model Course - College Algebra">
 <meta property="book:author" content="You">
-<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
-  tex: {
-    inlineMath: [['\\(','\\)']],
-    tags: "none",
-    tagSide: "right",
-    tagIndent: ".8em",
-    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
   },
-  options: {
-    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
-    processHtmlClass: "process-math",
-    renderActions: {
-        findScript: [10, function (doc) {
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math",
+    "renderActions": {
+      "findScript": [
+        10,
+        function (doc) {
             document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
                 var display = !!node.type.match(/; *mode=display/);
                 var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
@@ -37,163 +55,97 @@ window.MathJax = {
                 math.end = {node: text, delim: '', n: 0};
                 doc.math.push(math);
             });
-        }, '']
-    },
+        },
+        ""
+      ]
+    }
   },
-  chtml: {
-    scale: 0.98,
-    mtextInheritFont: true
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
   },
-  loader: {
-    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
-    paths: {pretext: "https://pretextbook.org/js/lib"},
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "static/pretext/js/lib"
+    }
   },
-  startup: {
+  "startup": {
     pageReady() {
       return MathJax.startup.defaultPageReady().then(function () {
       console.log("in ready function");
       rsMathReady();
       }
     )}
-  },
+  }
 };
-</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><link href="http://192.168.1.57/webwork2_files/js/apps/MathView/mathview.css" rel="stylesheet">
-<script src="https://pretextbook.org/js/0.3/pretext-webwork/2.17/pretext-webwork.js"></script><script src="http://192.168.1.57/webwork2_files/node_modules/iframe-resizer/js/iframeResizer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.3/pretext_search.js"></script><link href="https://pretextbook.org/css/0.7/pretext_search.css" rel="stylesheet" type="text/css">
-<script>js_version = 0.3</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.3/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.3/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.3/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="static/pretext/js/pretext-webwork/2.17/pretext-webwork.js"></script><script src="https://192.168.254.107/webwork2_files/node_modules/iframe-resizer/js/iframeResizer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="static/pretext/js/pretext_search.js"></script><script src="static/pretext/js/lib/jquery.min.js"></script><script src="static/pretext/js/lib/jquery.sticky.js"></script><script src="static/pretext/js/lib/jquery.espy.min.js"></script><script src="static/pretext/js/pretext.js"></script><script src="static/pretext/js/pretext_add_on.js?x=1"></script><script src="static/pretext/js/user_preferences.js"></script><script src="static/pretext/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
 </script><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 <link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
-<link href="https://pretextbook.org/css/0.7/pretext.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/pretext_add_on.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/shell_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/banner_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/navbar_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/toc_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/knowls_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/style_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/colors_blue_red.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.7/setcolors.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;" rel="stylesheet">
+<link href="static/pretext/css/theme.css" rel="stylesheet" type="text/css">
+<link href="static/pretext/css/ol-markers.css" rel="stylesheet" type="text/css">
+<!--** eBookCongig is necessary to configure interactive       **-->
+<!--** Runestone components to run locally in reader's browser **-->
+<!--** No external communication:                              **-->
+<!--**     log level is 0, Runestone Services are disabled     **-->
+<script type="text/javascript">
+eBookConfig = {};
+eBookConfig.useRunestoneServices = false;
+eBookConfig.host = 'http://127.0.0.1:8000';
+eBookConfig.course = 'PTX_Course_Title_Here';
+eBookConfig.basecourse = 'PTX_Base_Course';
+eBookConfig.isLoggedIn = false;
+eBookConfig.email = '';
+eBookConfig.isInstructor = false;
+eBookConfig.logLevel = 0;
+eBookConfig.username = '';
+eBookConfig.readings = null;
+eBookConfig.activities = null;
+eBookConfig.downloadsEnabled = false;
+eBookConfig.allow_pairs = false;
+eBookConfig.enableScratchAC = false;
+eBookConfig.build_info = "";
+eBookConfig.python3 = null;
+eBookConfig.runestone_version = '7.5.9';
+eBookConfig.jobehost = '';
+eBookConfig.proxyuri_runs = '';
+eBookConfig.proxyuri_files = '';
+eBookConfig.enable_chatcodes =  false;
+</script>
+<!--*** Runestone Services ***-->
+<script src="static/prefix-runtime.d7db380f34a0a67e.bundle.js"></script><script src="static/prefix-723.3e6434f80549315a.bundle.js"></script><script src="static/prefix-runestone.f6bda0c0ccce4835.bundle.js"></script><link rel="stylesheet" type="text/css" href="static/prefix-723.3bccd435914aa0ff.css">
+<link rel="stylesheet" type="text/css" href="static/prefix-runestone.e0c6d4592e23c667.css">
 </head>
 <body class="pretext book ignore-math">
-<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
-<a id="logo-link" class="logo-link" href=""></a><div class="title-container">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner"><div class="title-container">
 <h1 class="heading"><a href="ww2-collAlg.html"><span class="title">WeBWorK2 Model Course - College Algebra:</span> <span class="subtitle">Compilation of Exercises</span></a></h1>
 <p class="byline">You</p>
-</div>
+</div></div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><div class="ptx-navbar-contents">
+<button class="toc-toggle button" title="Contents"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5d2;</span><span class="name">Contents</span></button><div class="searchbox">
+<div class="searchwidget"><button id="searchbutton" class="searchbutton button" type="button" title="Search book"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe8b6;</span><span class="name">Search Book</span></button></div>
 <div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
-<button id="closesearchresults" class="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms" class="searchterms"></span>
-</h2>
+<div class="search-results-controls">
+<input aria-label="Search term" id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search term"><button title="Close search" id="closesearchresults" class="closesearchresults"><span class="material-symbols-outlined">close</span></button>
+</div>
+<h2 class="search-results-heading">Search Results: </h2>
 <div id="searchempty" class="searchempty"><span>No results.</span></div>
 <ol id="searchresults" class="searchresults"></ol>
 </div>
-</div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="avatarbutton" class="avatarbutton name">You!</span><div id="preferences_menu_holder" class="preferences_menu_holder hidden"><ol id="preferences_menu" class="preferences_menu" style="font-family: 'Roboto Serif', serif;">
-<li data-env="avatar" tabindex="-1">Choose avatar<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
-<ol class="hidden avatar">
-<li data-val="You!" tabindex="-1">
-<span id="theYou!" class="avatarcheck">✔️</span>You!</li>
-<li data-val="😺" tabindex="-1">
-<span id="the😺" class="avatarcheck"></span>😺</li>
-<li data-val="👤" tabindex="-1">
-<span id="the👤" class="avatarcheck"></span>👤</li>
-<li data-val="👽" tabindex="-1">
-<span id="the👽" class="avatarcheck"></span>👽</li>
-<li data-val="🐶" tabindex="-1">
-<span id="the🐶" class="avatarcheck"></span>🐶</li>
-<li data-val="🐼" tabindex="-1">
-<span id="the🐼" class="avatarcheck"></span>🐼</li>
-<li data-val="🌈" tabindex="-1">
-<span id="the🌈" class="avatarcheck"></span>🌈</li>
-</ol>
-</li>
-<li data-env="fontfamily" tabindex="-1">Font family<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
-<ol class="hidden fontfamily">
-<li data-val="face" data-change="OS" tabindex="-1" style="font-family: 'Open Sans'">
-<span id="theOS" class="ffcheck">✔️</span><span class="name">Open Sans</span><span class="sample">AaBbCc 123 PreTeXt</span>
-</li>
-<li data-val="face" data-change="RS" tabindex="-1" style="font-family: 'Roboto Serif'">
-<span id="theRS" class="ffcheck"></span><span class="name">Roboto Serif</span><span class="sample">AaBbCc 123 PreTeXt</span>
-</li>
-</ol>
-</li>
-<li data-env="font" tabindex="-1">Adjust font<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
-<ol class="hidden fonts">
-<li>Size</li>
-<li><span id="thesize">12</span></li>
-<li data-val="size" data-change="-1" tabindex="-1" style="font-size: 80%">Smaller</li>
-<li data-val="size" data-change="1" tabindex="-1" style="font-size: 110%">Larger</li>
-<li>Width</li>
-<li><span id="thewdth">100</span></li>
-<li data-val="wdth" data-change="-5" tabindex="-1" style="font-variation-settings: 'wdth' 60">narrower</li>
-<li data-val="wdth" data-change="5" tabindex="-1" style="font-variation-settings: 'wdth' 150">wider</li>
-<li>Weight</li>
-<li><span id="thewght">400</span></li>
-<li data-val="wght" data-change="-50" tabindex="-1" style="font-weight: 200">thinner</li>
-<li data-val="wght" data-change="50" tabindex="-1" style="font-weight: 700">heavier</li>
-<li>Letter spacing</li>
-<li>
-<span id="thelspace">0</span><span class="byunits">/200</span>
-</li>
-<li data-val="lspace" data-change="-1" tabindex="-1">closer</li>
-<li data-val="lspace" data-change="1" tabindex="-1">f a r t h e r</li>
-<li>Word spacing</li>
-<li>
-<span id="thewspace">0</span><span class="byunits">/50</span>
-</li>
-<li data-val="wspace" data-change="-1" tabindex="-1">smaller gap </li>
-<li data-val="wspace" data-change="1" tabindex="-1">larger gap</li>
-<li>Line Spacing</li>
-<li>
-<span id="theheight">135</span><span class="byunits">/100</span>
-</li>
-<li data-val="height" data-change="-5" tabindex="-1" style="line-height: 1">closer<br>together</li>
-<li data-val="height" data-change="5" tabindex="-1" style="line-height: 1.75">further<br>apart</li>
-</ol>
-</li>
-<li data-env="atmosphere" tabindex="-1">Light/dark mode<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
-<ol class="hidden atmosphere">
-<li data-val="default" tabindex="-1">
-<span id="thedefault" class="atmospherecheck">✔️</span>default</li>
-<li data-val="pastel" tabindex="-1">
-<span id="thepastel" class="atmospherecheck"></span>pastel</li>
-<li data-val="darktwilight" tabindex="-1">
-<span id="thedarktwilight" class="atmospherecheck"></span>twilight</li>
-<li data-val="dark" tabindex="-1">
-<span id="thedark" class="atmospherecheck"></span>dark</li>
-<li data-val="darkmidnight" tabindex="-1">
-<span id="thedarkmidnight" class="atmospherecheck"></span>midnight</li>
-</ol>
-</li>
-<li data-env="ruler" tabindex="-1">Reading ruler<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
-<ol class="hidden ruler">
-<li data-val="none" tabindex="-1">
-<span id="thenone" class="rulercheck">✔️</span>none</li>
-<li data-val="underline" tabindex="-1">
-<span id="theunderline" class="rulercheck"></span>underline</li>
-<li data-val="lunderline" tabindex="-1">
-<span id="thelunderline" class="rulercheck"></span>L-underline</li>
-<li data-val="greybar" tabindex="-1">
-<span id="thegreybar" class="rulercheck"></span>grey bar</li>
-<li data-val="lightbox" tabindex="-1">
-<span id="thelightbox" class="rulercheck"></span>light box</li>
-<li data-val="sunrise" tabindex="-1">
-<span id="thesunrise" class="rulercheck"></span>sunrise</li>
-<li data-val="sunriseunderline" tabindex="-1">
-<span id="thesunriseunderline" class="rulercheck"></span>sunrise underline</li>
-<li class="moveQ">Motion by:</li>
-<li data-val="mouse" tabindex="-1">
-<span id="themouse" class="motioncheck">✔️</span>follow the mouse</li>
-<li data-val="arrow" tabindex="-1">
-<span id="thearrow" class="motioncheck"></span>up/down arrows - not yet</li>
-<li data-val="eye" tabindex="-1">
-<span id="theeye" class="motioncheck"></span>eye tracking - not yet</li>
-</ol>
-</li>
-</ol></div></button><span class="treebuttons"><a class="previous-button button" href="sethw-17-library-of-functions.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="ww2-collAlg.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="sethw-19-modeling-with-functions.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
-<input id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" class="searchbutton" type="button" onclick="doSearch()">🔍</button>
-</div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\R}{\mathbb R}
+</div>
+<span class="nav-other-controls"></span><span class="treebuttons"><a class="previous-button button" href="sethw-17-library-of-functions.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="up-button button" href="ww2-collAlg.html" title="Up"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Up</span></a><a class="next-button button" href="sethw-19-modeling-with-functions.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a></span>
+</div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\R}{\mathbb R}
 \newcommand{\lt}{&lt;}
 \newcommand{\gt}{&gt;}
 \newcommand{\amp}{&amp;}
@@ -201,466 +153,448 @@ window.MathJax = {
 \newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
 \)</span></div>
 <div class="ptx-page">
-<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth1"><ul class="structural">
-<li>
-<div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div>
-<ul class="structural">
-<li><div class="toc-item"><a href="colophon-1.html" class="internal"><span class="title">Colophon</span></a></div></li>
-<li><div class="toc-item"><a href="preface-1.html" class="internal"><span class="title">Preface</span></a></div></li>
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth1"><ul class="structural toc-item-list contains-active">
+<li class="toc-item toc-frontmatter">
+<div class="toc-title-box"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div>
+<ul class="structural toc-item-list">
+<li class="toc-item toc-colophon"><div class="toc-title-box"><a href="front-colophon.html" class="internal"><span class="title">Colophon</span></a></div></li>
+<li class="toc-item toc-preface"><div class="toc-title-box"><a href="frontmatter-4.html" class="internal"><span class="title">Preface</span></a></div></li>
 </ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-01a-polynomials-addition-multiplication.html" class="internal"><span class="codenumber">1</span> <span class="title">01a-polynomials-addition-multiplication</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-1.html" class="internal"><span class="codenumber">1</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-01a-polynomials-addition-multiplication.html" class="internal"><span class="codenumber">1</span> <span class="title">01a-polynomials-addition-multiplication</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-01a-polynomials-addition-multiplication-2.html" class="internal"><span class="codenumber">1</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-01b-polynomials-factoring.html" class="internal"><span class="codenumber">2</span> <span class="title">01b-polynomials-factoring</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-2.html" class="internal"><span class="codenumber">2</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-01b-polynomials-factoring.html" class="internal"><span class="codenumber">2</span> <span class="title">01b-polynomials-factoring</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-01b-polynomials-factoring-2.html" class="internal"><span class="codenumber">2</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-02-linear-equations.html" class="internal"><span class="codenumber">3</span> <span class="title">02-linear-equations</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="sethw-02-linear-equations-exer.html" class="internal"><span class="codenumber">3</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-02-linear-equations.html" class="internal"><span class="codenumber">3</span> <span class="title">02-linear-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-02-linear-equations-exer.html" class="internal"><span class="codenumber">3</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-03-quadratic-equations-in-reals.html" class="internal"><span class="codenumber">4</span> <span class="title">03-quadratic-equations-in-reals</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-4.html" class="internal"><span class="codenumber">4</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-03-quadratic-equations-in-reals.html" class="internal"><span class="codenumber">4</span> <span class="title">03-quadratic-equations-in-reals</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-03-quadratic-equations-in-reals-2.html" class="internal"><span class="codenumber">4</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-04a-review-of-complex-numbers.html" class="internal"><span class="codenumber">5</span> <span class="title">04a-review-of-complex-numbers</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-5.html" class="internal"><span class="codenumber">5</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-04a-review-of-complex-numbers.html" class="internal"><span class="codenumber">5</span> <span class="title">04a-review-of-complex-numbers</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-04a-review-of-complex-numbers-2.html" class="internal"><span class="codenumber">5</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-04b-quadratic-equations-in-complex-numbers.html" class="internal"><span class="codenumber">6</span> <span class="title">04b-quadratic-equations-in-complex-numbers</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-6.html" class="internal"><span class="codenumber">6</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-04b-quadratic-equations-in-complex-numbers.html" class="internal"><span class="codenumber">6</span> <span class="title">04b-quadratic-equations-in-complex-numbers</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-04b-quadratic-equations-in-complex-numbers-2.html" class="internal"><span class="codenumber">6</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-05a-rational-eqns-equiv-to-quadratic.html" class="internal"><span class="codenumber">7</span> <span class="title">05a-rational-eqns-equiv-to-quadratic</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-7.html" class="internal"><span class="codenumber">7</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05a-rational-eqns-equiv-to-quadratic.html" class="internal"><span class="codenumber">7</span> <span class="title">05a-rational-eqns-equiv-to-quadratic</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05a-rational-eqns-equiv-to-quadratic-2.html" class="internal"><span class="codenumber">7</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-05b-radical-equations.html" class="internal"><span class="codenumber">8</span> <span class="title">05b-radical-equations</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-8.html" class="internal"><span class="codenumber">8</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05b-radical-equations.html" class="internal"><span class="codenumber">8</span> <span class="title">05b-radical-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05b-radical-equations-2.html" class="internal"><span class="codenumber">8</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-05c-other-quadratic-in-form-equations.html" class="internal"><span class="codenumber">9</span> <span class="title">05c-other-quadratic-in-form-equations</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-9.html" class="internal"><span class="codenumber">9</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05c-other-quadratic-in-form-equations.html" class="internal"><span class="codenumber">9</span> <span class="title">05c-other-quadratic-in-form-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05c-other-quadratic-in-form-equations-2.html" class="internal"><span class="codenumber">9</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-05d-factorable-equations-misc-equations.html" class="internal"><span class="codenumber">10</span> <span class="title">05d-factorable-equations-misc-equations</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-10.html" class="internal"><span class="codenumber">10</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-05d-factorable-equations-misc-equations.html" class="internal"><span class="codenumber">10</span> <span class="title">05d-factorable-equations-misc-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-05d-factorable-equations-misc-equations-2.html" class="internal"><span class="codenumber">10</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-06-Linear-Inequalities.html" class="internal"><span class="codenumber">11</span> <span class="title">06-Linear-Inequalities</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-11.html" class="internal"><span class="codenumber">11</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-06-Linear-Inequalities.html" class="internal"><span class="codenumber">11</span> <span class="title">06-Linear-Inequalities</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-06-Linear-Inequalities-2.html" class="internal"><span class="codenumber">11</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-07a-absolute-value-equations.html" class="internal"><span class="codenumber">12</span> <span class="title">07a-absolute-value-equations</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-12.html" class="internal"><span class="codenumber">12</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-07a-absolute-value-equations.html" class="internal"><span class="codenumber">12</span> <span class="title">07a-absolute-value-equations</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-07a-absolute-value-equations-2.html" class="internal"><span class="codenumber">12</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-07b-absolute-value-inequalities.html" class="internal"><span class="codenumber">13</span> <span class="title">07b-absolute-value-inequalities</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-13.html" class="internal"><span class="codenumber">13</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-07b-absolute-value-inequalities.html" class="internal"><span class="codenumber">13</span> <span class="title">07b-absolute-value-inequalities</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-07b-absolute-value-inequalities-2.html" class="internal"><span class="codenumber">13</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-08-word-problems.html" class="internal"><span class="codenumber">14</span> <span class="title">08-word-problems</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-14.html" class="internal"><span class="codenumber">14</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-08-word-problems.html" class="internal"><span class="codenumber">14</span> <span class="title">08-word-problems</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-08-word-problems-2.html" class="internal"><span class="codenumber">14</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-09-coordinates-distance-midpoint.html" class="internal"><span class="codenumber">15</span> <span class="title">09-coordinates-distance-midpoint</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-15.html" class="internal"><span class="codenumber">15</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-09-coordinates-distance-midpoint.html" class="internal"><span class="codenumber">15</span> <span class="title">09-coordinates-distance-midpoint</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-09-coordinates-distance-midpoint-2.html" class="internal"><span class="codenumber">15</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-10-graphs-intercepts-symmetry.html" class="internal"><span class="codenumber">16</span> <span class="title">10-graphs-intercepts-symmetry</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-16.html" class="internal"><span class="codenumber">16</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-10-graphs-intercepts-symmetry.html" class="internal"><span class="codenumber">16</span> <span class="title">10-graphs-intercepts-symmetry</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-10-graphs-intercepts-symmetry-2.html" class="internal"><span class="codenumber">16</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-11-Lines.html" class="internal"><span class="codenumber">17</span> <span class="title">11-Lines</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-17.html" class="internal"><span class="codenumber">17</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-11-Lines.html" class="internal"><span class="codenumber">17</span> <span class="title">11-Lines</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-11-Lines-2.html" class="internal"><span class="codenumber">17</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-12-circles.html" class="internal"><span class="codenumber">18</span> <span class="title">12-circles</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-18.html" class="internal"><span class="codenumber">18</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-12-circles.html" class="internal"><span class="codenumber">18</span> <span class="title">12-circles</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-12-circles-2.html" class="internal"><span class="codenumber">18</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-13-variation-sci-formulas.html" class="internal"><span class="codenumber">19</span> <span class="title">13-variation-sci-formulas</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-19.html" class="internal"><span class="codenumber">19</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-13-variation-sci-formulas.html" class="internal"><span class="codenumber">19</span> <span class="title">13-variation-sci-formulas</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-13-variation-sci-formulas-2.html" class="internal"><span class="codenumber">19</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-14a-Determine-And-Evaluate-Function.html" class="internal"><span class="codenumber">20</span> <span class="title">14a-Determine-And-Evaluate-Function</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-20.html" class="internal"><span class="codenumber">20</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-14a-Determine-And-Evaluate-Function.html" class="internal"><span class="codenumber">20</span> <span class="title">14a-Determine-And-Evaluate-Function</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-14a-Determine-And-Evaluate-Function-2.html" class="internal"><span class="codenumber">20</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-14b-functions-domain.html" class="internal"><span class="codenumber">21</span> <span class="title">14b-functions-domain</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-21.html" class="internal"><span class="codenumber">21</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-14b-functions-domain.html" class="internal"><span class="codenumber">21</span> <span class="title">14b-functions-domain</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-14b-functions-domain-2.html" class="internal"><span class="codenumber">21</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-15-graphs-of-basic-functions.html" class="internal"><span class="codenumber">22</span> <span class="title">15-graphs-of-basic-functions</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-22.html" class="internal"><span class="codenumber">22</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-15-graphs-of-basic-functions.html" class="internal"><span class="codenumber">22</span> <span class="title">15-graphs-of-basic-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-15-graphs-of-basic-functions-2.html" class="internal"><span class="codenumber">22</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-16-properties-of-functions.html" class="internal"><span class="codenumber">23</span> <span class="title">16-properties-of-functions</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-23.html" class="internal"><span class="codenumber">23</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-16-properties-of-functions.html" class="internal"><span class="codenumber">23</span> <span class="title">16-properties-of-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-16-properties-of-functions-2.html" class="internal"><span class="codenumber">23</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-17-library-of-functions.html" class="internal"><span class="codenumber">24</span> <span class="title">17-library-of-functions</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-24.html" class="internal"><span class="codenumber">24</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-17-library-of-functions.html" class="internal"><span class="codenumber">24</span> <span class="title">17-library-of-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-17-library-of-functions-2.html" class="internal"><span class="codenumber">24</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li class="active">
-<div class="toc-item"><a href="sethw-18-graphing-transformations.html" class="internal"><span class="codenumber">25</span> <span class="title">18-graphing-transformations</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-25.html" class="internal"><span class="codenumber">25</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter contains-active">
+<div class="toc-title-box"><a href="sethw-18-graphing-transformations.html" class="internal"><span class="codenumber">25</span> <span class="title">18-graphing-transformations</span></a></div>
+<ul class="structural toc-item-list active"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-18-graphing-transformations-2.html" class="internal"><span class="codenumber">25</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li>
-<div class="toc-item"><a href="sethw-19-modeling-with-functions.html" class="internal"><span class="codenumber">26</span> <span class="title">19-modeling-with-functions</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="exercises-26.html" class="internal"><span class="codenumber">26</span> <span class="title">Exercises</span></a></div></li></ul>
+<li class="toc-item toc-chapter">
+<div class="toc-title-box"><a href="sethw-19-modeling-with-functions.html" class="internal"><span class="codenumber">26</span> <span class="title">19-modeling-with-functions</span></a></div>
+<ul class="structural toc-item-list"><li class="toc-item toc-exercises"><div class="toc-title-box"><a href="sethw-19-modeling-with-functions-2.html" class="internal"><span class="codenumber">26</span> <span class="title">Exercises</span></a></div></li></ul>
 </li>
-<li><div class="toc-item"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+<li class="toc-item toc-backmatter"><div class="toc-title-box"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
 </ul></nav></div>
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="chapter" id="sethw-18-graphing-transformations"><h2 class="heading">
-<span class="type">Chapter</span> <span class="codenumber">25</span> <span class="title">18-graphing-transformations</span>
+<span class="type">Chapter</span><span class="space"> </span><span class="codenumber">25</span><span class="space"> </span><span class="title">18-graphing-transformations</span>
 </h2>
-<section class="exercises" id="exercises-25"><h3 class="heading hide-type">
-<span class="type">Exercises</span> <span class="codenumber"></span> <span class="title">Exercises</span>
+<section class="exercises" id="sethw-18-graphing-transformations-2"><h3 class="heading hide-type">
+<span class="type">Exercises</span><span class="space"> </span><span class="codenumber"></span><span class="space"> </span><span class="title">Exercises</span>
 </h3>
-<article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18"><a href="" data-knowl="" class="id-ref exercise-knowl original has-image" data-refid="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18"><h1 class="heading">
+<article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18"><h1 class="heading">
 <span class="codenumber">1<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/LoyolaChicago/Precalc/Chap5Review/Q18.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18"><article class="exercise exercise-like"><div id="webwork-249" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="249" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="Library/LoyolaChicago/Precalc/Chap5Review/Q18.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-249" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="249" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/LoyolaChicago/Precalc/Chap5Review/Q18.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-249')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1527">Consider the function <span class="process-math">\(y = f(x)\)</span> drawn below:</div> <div class="image-box" style="width: 66.6666666666667%; margin-left: 16.6666666666667%; margin-right: 16.6666666666667%;"><img src="generated/webwork/images/webwork-249-image-1.png" class="contained"></div> <div class="para" id="p-1528"><em class="emphasis">(click on image to enlarge)</em></div> <div class="para" id="p-1529">On a separate piece of paper, sketch an accurate graph of the function <span class="process-math">\(y=-2f(x)\)</span> .  Which (if any) of the graphs below matches the graph you drew?</div> <div class="para" id="p-1530"><ul style="list-style:circle;">
-<li id="li-72">
+<div class="para" id="extracted-webwork-249-1-1-1">Consider the function <span class="process-math">\(y = f(x)\)</span> drawn below:</div> <div class="image-box" style="width: 66.6666666666667%; margin-left: 16.6666666666667%; margin-right: 16.6666666666667%;"><img src="generated/webwork/images/webwork-249-image-1.png" class="contained"></div> <div class="para" id="extracted-webwork-249-1-1-3"><em class="emphasis">(click on image to enlarge)</em></div> <div class="para" id="extracted-webwork-249-1-1-4">On a separate piece of paper, sketch an accurate graph of the function <span class="process-math">\(y=-2f(x)\)</span> .  Which (if any) of the graphs below matches the graph you drew?</div> <div class="para logical" id="extracted-webwork-249-1-1-5"><ul class="circle" id="extracted-webwork-249-1-1-5-1">
+<li id="extracted-webwork-249-1-1-5-1-1">
 <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-2.png" class="contained"></div>
-<div class="para" id="p-1531"><em class="emphasis">(click on image to enlarge)</em></div>
+<div class="para" id="extracted-webwork-249-1-1-5-1-1-2"><em class="emphasis">(click on image to enlarge)</em></div>
 </li>
-<li id="li-73"><div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-3.png" class="contained"></div></li>
-<li id="li-74">
+<li id="extracted-webwork-249-1-1-5-1-2"><div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-3.png" class="contained"></div></li>
+<li id="extracted-webwork-249-1-1-5-1-3">
 <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-4.png" class="contained"></div>
-<div class="para" id="p-1532"><em class="emphasis">(click on image to enlarge)</em></div>
+<div class="para" id="extracted-webwork-249-1-1-5-1-3-2"><em class="emphasis">(click on image to enlarge)</em></div>
 </li>
-<li id="li-75">
+<li id="extracted-webwork-249-1-1-5-1-4">
 <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-5.png" class="contained"></div>
-<div class="para" id="p-1533"><em class="emphasis">(click on image to enlarge)</em></div>
+<div class="para" id="extracted-webwork-249-1-1-5-1-4-2"><em class="emphasis">(click on image to enlarge)</em></div>
 </li>
-<li id="li-76">
+<li id="extracted-webwork-249-1-1-5-1-5">
 <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-6.png" class="contained"></div>
-<div class="para" id="p-1534"><em class="emphasis">(click on image to enlarge)</em></div>
+<div class="para" id="extracted-webwork-249-1-1-5-1-5-2"><em class="emphasis">(click on image to enlarge)</em></div>
 </li>
-<li id="li-77">
+<li id="extracted-webwork-249-1-1-5-1-6">
 <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-7.png" class="contained"></div>
-<div class="para" id="p-1535"><em class="emphasis">(click on image to enlarge)</em></div>
+<div class="para" id="extracted-webwork-249-1-1-5-1-6-2"><em class="emphasis">(click on image to enlarge)</em></div>
 </li>
-<li id="li-78"><div class="para" id="p-1536">None of the above</div></li>
+<li id="extracted-webwork-249-1-1-5-1-7"><div class="para" id="extracted-webwork-249-1-1-5-1-7-1">None of the above</div></li>
 </ul></div>
-<div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original has-image" data-refid="hk-solution-27" id="solution-27"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-27"><div class="solution solution-like">
-<em class="alert">SOLUTION</em> The function <span class="process-math">\(y=-2f(x)\)</span> is a vertical reflection about the <span class="process-math">\(x\)</span>-axis as well as a vertical stretch by a factor of 2.  Therefore the correct graph is <div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-3.png" class="contained"></div> which is answer B.</div></div>
+<div class="solutions"><details id="extracted-webwork-249-1-2" class="solution solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Solution</span><span class="period">.</span></summary><div class="solution solution-like knowl__content">
+<em class="alert">SOLUTION</em><span class="process-math">\(y=-2f(x)\)</span><span class="process-math">\(x\)</span><div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="generated/webwork/images/webwork-249-image-3.png" class="contained"></div>
+</div></details></div>
 </div>
-</div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20"><a href="" data-knowl="" class="id-ref exercise-knowl original has-image" data-refid="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20"><h1 class="heading">
 <span class="codenumber">2<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">Library/LoyolaChicago/Precalc/Chap5Review/Q20.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20"><article class="exercise exercise-like"><div id="webwork-250" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="250" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="Library/LoyolaChicago/Precalc/Chap5Review/Q20.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-250" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="250" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="Library/LoyolaChicago/Precalc/Chap5Review/Q20.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-250')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1537">Consider the graph of <span class="process-math">\(f(x)\)</span> given below:</div> <div class="image-box" style="width: 66.6666666666667%; margin-left: 16.6666666666667%; margin-right: 16.6666666666667%;"><img src="generated/webwork/images/webwork-250-image-1.png" class="contained"></div> <div class="para" id="p-1538"><em class="emphasis">(click on image to enlarge)</em></div> <div class="para" id="p-1539">Find a possible formula for the transformations of <span class="process-math">\(f(x)\)</span> shown below:</div> <div class="image-box" style="width: 66.6666666666667%; margin-left: 16.6666666666667%; margin-right: 16.6666666666667%;"><img src="generated/webwork/images/webwork-250-image-2.png" class="contained"></div> <div class="para" id="p-1540"><em class="emphasis">(click on image to enlarge)</em></div> <div class="para" id="p-1541">
+<div class="para" id="extracted-webwork-250-1-1-1">Consider the graph of <span class="process-math">\(f(x)\)</span> given below:</div> <div class="image-box" style="width: 66.6666666666667%; margin-left: 16.6666666666667%; margin-right: 16.6666666666667%;"><img src="generated/webwork/images/webwork-250-image-1.png" class="contained"></div> <div class="para" id="extracted-webwork-250-1-1-3"><em class="emphasis">(click on image to enlarge)</em></div> <div class="para" id="extracted-webwork-250-1-1-4">Find a possible formula for the transformations of <span class="process-math">\(f(x)\)</span> shown below:</div> <div class="image-box" style="width: 66.6666666666667%; margin-left: 16.6666666666667%; margin-right: 16.6666666666667%;"><img src="generated/webwork/images/webwork-250-image-2.png" class="contained"></div> <div class="para" id="extracted-webwork-250-1-1-6"><em class="emphasis">(click on image to enlarge)</em></div> <div class="para" id="extracted-webwork-250-1-1-7">
 <span class="process-math">\(y =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-538" id="answer-538"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-538"><div class="answer solution-like"><div class="para" id="p-1542"><span class="process-math">\(2f\!\left(x\right)+4\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-28" id="solution-28"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-28"><div class="solution solution-like">
-<em class="alert">SOLUTION</em> Notice that the graph has been vertically stretched by a factor of 2 since the difference between the maximum and minimum <span class="process-math">\(y\)</span> values is now 24, while on the initial graph of <span class="process-math">\(f(x)\)</span> this difference is 12.  Next notice that the graph has also been shifted up 4 units.  Therefore the correct formula is <span class="process-math">\(y = 2 f(x) + 4\)</span> .</div></div>
+<details id="extracted-webwork-250-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-250-1-2-1"><span class="process-math">\(2f\!\left(x\right)+4\)</span></div></div></details><details id="extracted-webwork-250-1-3" class="solution solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Solution</span><span class="period">.</span></summary><div class="solution solution-like knowl__content">
+<em class="alert">SOLUTION</em><span class="process-math">\(y\)</span><span class="process-math">\(f(x)\)</span><span class="process-math">\(y = 2 f(x) + 4\)</span>
+</div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17"><h1 class="heading">
 <span class="codenumber">3<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/LoyolaChicago/Precalc/Chap5Sec3/Q17.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17"><article class="exercise exercise-like"></article></div>
-<article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08"><h1 class="heading">
+</h1></article><article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08"><h1 class="heading">
 <span class="codenumber">4<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/LoyolaChicago/Precalc/Chap5Sec1/Q08.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08"><article class="exercise exercise-like"></article></div>
-<article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29"><h1 class="heading">
+</h1></article><article class="exercise exercise-like" id="ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29"><h1 class="heading">
 <span class="codenumber">5<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/Library/LoyolaChicago/Precalc/Chap5Sec2/Q29.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29"><article class="exercise exercise-like"></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1"><h1 class="heading">
+</h1></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1"><h1 class="heading">
 <span class="codenumber">6<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-1.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1"><article class="exercise exercise-like"><div id="webwork-251" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="251" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-1.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-251" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="251" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-1.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-251')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1543"><em class="alert">Part I.</em></div> <div class="para" id="p-1544">To obtain the graph of</div> <div class="para" id="p-1545"><span class="process-math">\(y = \left(x+7\right)^{3}+6\!\left(x+7\right)^{2}+4\)</span></div> <div class="para" id="p-1546">from the graph of</div> <div class="para" id="p-1547"><span class="process-math">\(y = x^{3}+6x^{2}\)</span></div> <div class="para" id="p-1548">one needs to do the following transformations:</div> <div class="para" id="p-1549"><ul style="list-style:circle;">
-<li id="li-79"><div class="para" id="p-1550">horizontal shift 4 units right</div></li>
-<li id="li-80"><div class="para" id="p-1551">horizontal shift 7 units left</div></li>
-<li id="li-81"><div class="para" id="p-1552">vertical shift 7 units up</div></li>
-<li id="li-82"><div class="para" id="p-1553">vertical shift 7 units down</div></li>
-<li id="li-83"><div class="para" id="p-1554">horizontal shift 4 units left</div></li>
-<li id="li-84"><div class="para" id="p-1555">vertical shift 4 units down</div></li>
-<li id="li-85"><div class="para" id="p-1556">vertical shift 4 units up</div></li>
-<li id="li-86"><div class="para" id="p-1557">horizontal shift 7 units right</div></li>
-</ul></div> <div class="para" id="p-1558">
-<em class="alert">Note:</em> select all transformations that apply</div> <div class="para" id="p-1559"><em class="alert">Part II.</em></div> <div class="para" id="p-1560">To obtain the graph of</div> <div class="para" id="p-1561"><span class="process-math">\(y = \left(x-7\right)^{3}+6\!\left(x-7\right)^{2}+4\)</span></div> <div class="para" id="p-1562">from the graph of</div> <div class="para" id="p-1563"><span class="process-math">\(y = x^{3}+6x^{2}\)</span></div> <div class="para" id="p-1564">one needs to do the following transformations:</div> <div class="para" id="p-1565"><ul style="list-style:circle;">
-<li id="li-87"><div class="para" id="p-1566">vertical shift 4 units up</div></li>
-<li id="li-88"><div class="para" id="p-1567">vertical shift 7 units up</div></li>
-<li id="li-89"><div class="para" id="p-1568">horizontal shift 4 units left</div></li>
-<li id="li-90"><div class="para" id="p-1569">vertical shift 7 units down</div></li>
-<li id="li-91"><div class="para" id="p-1570">horizontal shift 7 units left</div></li>
-<li id="li-92"><div class="para" id="p-1571">horizontal shift 7 units right</div></li>
-<li id="li-93"><div class="para" id="p-1572">vertical shift 4 units down</div></li>
-<li id="li-94"><div class="para" id="p-1573">horizontal shift 4 units right</div></li>
-</ul></div> <div class="para" id="p-1574">
+<div class="para" id="extracted-webwork-251-1-1-1"><em class="alert">Part I.</em></div> <div class="para" id="extracted-webwork-251-1-1-2">To obtain the graph of</div> <div class="para" id="extracted-webwork-251-1-1-3"><span class="process-math">\(y = \left(x+7\right)^{3}+6\!\left(x+7\right)^{2}+4\)</span></div> <div class="para" id="extracted-webwork-251-1-1-4">from the graph of</div> <div class="para" id="extracted-webwork-251-1-1-5"><span class="process-math">\(y = x^{3}+6x^{2}\)</span></div> <div class="para" id="extracted-webwork-251-1-1-6">one needs to do the following transformations:</div> <div class="para logical" id="extracted-webwork-251-1-1-7"><ul class="square" id="extracted-webwork-251-1-1-7-1">
+<li id="extracted-webwork-251-1-1-7-1-1"><div class="para" id="extracted-webwork-251-1-1-7-1-1-1">horizontal shift 4 units right</div></li>
+<li id="extracted-webwork-251-1-1-7-1-2"><div class="para" id="extracted-webwork-251-1-1-7-1-2-1">horizontal shift 7 units left</div></li>
+<li id="extracted-webwork-251-1-1-7-1-3"><div class="para" id="extracted-webwork-251-1-1-7-1-3-1">vertical shift 7 units up</div></li>
+<li id="extracted-webwork-251-1-1-7-1-4"><div class="para" id="extracted-webwork-251-1-1-7-1-4-1">vertical shift 7 units down</div></li>
+<li id="extracted-webwork-251-1-1-7-1-5"><div class="para" id="extracted-webwork-251-1-1-7-1-5-1">horizontal shift 4 units left</div></li>
+<li id="extracted-webwork-251-1-1-7-1-6"><div class="para" id="extracted-webwork-251-1-1-7-1-6-1">vertical shift 4 units down</div></li>
+<li id="extracted-webwork-251-1-1-7-1-7"><div class="para" id="extracted-webwork-251-1-1-7-1-7-1">vertical shift 4 units up</div></li>
+<li id="extracted-webwork-251-1-1-7-1-8"><div class="para" id="extracted-webwork-251-1-1-7-1-8-1">horizontal shift 7 units right</div></li>
+</ul></div> <div class="para" id="extracted-webwork-251-1-1-8">
+<em class="alert">Note:</em> select all transformations that apply</div> <div class="para" id="extracted-webwork-251-1-1-9"><em class="alert">Part II.</em></div> <div class="para" id="extracted-webwork-251-1-1-10">To obtain the graph of</div> <div class="para" id="extracted-webwork-251-1-1-11"><span class="process-math">\(y = \left(x-7\right)^{3}+6\!\left(x-7\right)^{2}+4\)</span></div> <div class="para" id="extracted-webwork-251-1-1-12">from the graph of</div> <div class="para" id="extracted-webwork-251-1-1-13"><span class="process-math">\(y = x^{3}+6x^{2}\)</span></div> <div class="para" id="extracted-webwork-251-1-1-14">one needs to do the following transformations:</div> <div class="para logical" id="extracted-webwork-251-1-1-15"><ul class="square" id="extracted-webwork-251-1-1-15-1">
+<li id="extracted-webwork-251-1-1-15-1-1"><div class="para" id="extracted-webwork-251-1-1-15-1-1-1">vertical shift 4 units up</div></li>
+<li id="extracted-webwork-251-1-1-15-1-2"><div class="para" id="extracted-webwork-251-1-1-15-1-2-1">vertical shift 7 units up</div></li>
+<li id="extracted-webwork-251-1-1-15-1-3"><div class="para" id="extracted-webwork-251-1-1-15-1-3-1">horizontal shift 4 units left</div></li>
+<li id="extracted-webwork-251-1-1-15-1-4"><div class="para" id="extracted-webwork-251-1-1-15-1-4-1">vertical shift 7 units down</div></li>
+<li id="extracted-webwork-251-1-1-15-1-5"><div class="para" id="extracted-webwork-251-1-1-15-1-5-1">horizontal shift 7 units left</div></li>
+<li id="extracted-webwork-251-1-1-15-1-6"><div class="para" id="extracted-webwork-251-1-1-15-1-6-1">horizontal shift 7 units right</div></li>
+<li id="extracted-webwork-251-1-1-15-1-7"><div class="para" id="extracted-webwork-251-1-1-15-1-7-1">vertical shift 4 units down</div></li>
+<li id="extracted-webwork-251-1-1-15-1-8"><div class="para" id="extracted-webwork-251-1-1-15-1-8-1">horizontal shift 4 units right</div></li>
+</ul></div> <div class="para" id="extracted-webwork-251-1-1-16">
 <em class="alert">Note:</em> select all transformations that apply</div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2"><h1 class="heading">
 <span class="codenumber">7<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-2.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2"><article class="exercise exercise-like"><div id="webwork-252" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="252" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-252" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="252" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-formula-to-transformations-problem-2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-252')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1575"><em class="alert">Part I.</em></div> <div class="para" id="p-1576">To obtain the graph of</div> <div class="para" id="p-1577"><span class="process-math">\(y = f(x+5) - 6\)</span></div> <div class="para" id="p-1578">from the graph of</div> <div class="para" id="p-1579"><span class="process-math">\(y = f(x)\)</span></div> <div class="para" id="p-1580">one needs to do the following transformations:</div> <div class="para" id="p-1581"><ul style="list-style:circle;">
-<li id="li-95"><div class="para" id="p-1582">vertical shift 5 units up</div></li>
-<li id="li-96"><div class="para" id="p-1583">horizontal shift 6 units right</div></li>
-<li id="li-97"><div class="para" id="p-1584">horizontal shift 5 units left</div></li>
-<li id="li-98"><div class="para" id="p-1585">vertical shift 6 units down</div></li>
-<li id="li-99"><div class="para" id="p-1586">horizontal shift 5 units right</div></li>
-<li id="li-100"><div class="para" id="p-1587">horizontal shift 6 units left</div></li>
-<li id="li-101"><div class="para" id="p-1588">vertical shift 6 units up</div></li>
-<li id="li-102"><div class="para" id="p-1589">vertical shift 5 units down</div></li>
-</ul></div> <div class="para" id="p-1590">
-<em class="alert">Note:</em> select all transformations that apply</div> <div class="para" id="p-1591"><em class="alert">Part II.</em></div> <div class="para" id="p-1592">To obtain the graph of</div> <div class="para" id="p-1593"><span class="process-math">\(y = f(x+5) + 6\)</span></div> <div class="para" id="p-1594">from the graph of</div> <div class="para" id="p-1595"><span class="process-math">\(y = f(x)\)</span></div> <div class="para" id="p-1596">one needs to do the following transformations:</div> <div class="para" id="p-1597"><ul style="list-style:circle;">
-<li id="li-103"><div class="para" id="p-1598">horizontal shift 6 units right</div></li>
-<li id="li-104"><div class="para" id="p-1599">vertical shift 5 units up</div></li>
-<li id="li-105"><div class="para" id="p-1600">horizontal shift 6 units left</div></li>
-<li id="li-106"><div class="para" id="p-1601">vertical shift 6 units up</div></li>
-<li id="li-107"><div class="para" id="p-1602">horizontal shift 5 units left</div></li>
-<li id="li-108"><div class="para" id="p-1603">horizontal shift 5 units right</div></li>
-<li id="li-109"><div class="para" id="p-1604">vertical shift 5 units down</div></li>
-<li id="li-110"><div class="para" id="p-1605">vertical shift 6 units down</div></li>
-</ul></div> <div class="para" id="p-1606">
-<em class="alert">Note:</em> select all transformations that apply</div> <div class="para" id="p-1607"><em class="alert">Part III.</em></div> <div class="para" id="p-1608">To obtain the graph of</div> <div class="para" id="p-1609"><span class="process-math">\(y = f(x-5) - 6\)</span></div> <div class="para" id="p-1610">from the graph of</div> <div class="para" id="p-1611"><span class="process-math">\(y = f(x)\)</span></div> <div class="para" id="p-1612">one needs to do the following transformations:</div> <div class="para" id="p-1613"><ul style="list-style:circle;">
-<li id="li-111"><div class="para" id="p-1614">horizontal shift 5 units left</div></li>
-<li id="li-112"><div class="para" id="p-1615">horizontal shift 5 units right</div></li>
-<li id="li-113"><div class="para" id="p-1616">vertical shift 5 units up</div></li>
-<li id="li-114"><div class="para" id="p-1617">vertical shift 5 units down</div></li>
-<li id="li-115"><div class="para" id="p-1618">vertical shift 6 units up</div></li>
-<li id="li-116"><div class="para" id="p-1619">horizontal shift 6 units left</div></li>
-<li id="li-117"><div class="para" id="p-1620">vertical shift 6 units down</div></li>
-<li id="li-118"><div class="para" id="p-1621">horizontal shift 6 units right</div></li>
-</ul></div> <div class="para" id="p-1622">
+<div class="para" id="extracted-webwork-252-1-1-1"><em class="alert">Part I.</em></div> <div class="para" id="extracted-webwork-252-1-1-2">To obtain the graph of</div> <div class="para" id="extracted-webwork-252-1-1-3"><span class="process-math">\(y = f(x+5) - 6\)</span></div> <div class="para" id="extracted-webwork-252-1-1-4">from the graph of</div> <div class="para" id="extracted-webwork-252-1-1-5"><span class="process-math">\(y = f(x)\)</span></div> <div class="para" id="extracted-webwork-252-1-1-6">one needs to do the following transformations:</div> <div class="para logical" id="extracted-webwork-252-1-1-7"><ul class="square" id="extracted-webwork-252-1-1-7-1">
+<li id="extracted-webwork-252-1-1-7-1-1"><div class="para" id="extracted-webwork-252-1-1-7-1-1-1">vertical shift 5 units up</div></li>
+<li id="extracted-webwork-252-1-1-7-1-2"><div class="para" id="extracted-webwork-252-1-1-7-1-2-1">horizontal shift 6 units right</div></li>
+<li id="extracted-webwork-252-1-1-7-1-3"><div class="para" id="extracted-webwork-252-1-1-7-1-3-1">horizontal shift 5 units left</div></li>
+<li id="extracted-webwork-252-1-1-7-1-4"><div class="para" id="extracted-webwork-252-1-1-7-1-4-1">vertical shift 6 units down</div></li>
+<li id="extracted-webwork-252-1-1-7-1-5"><div class="para" id="extracted-webwork-252-1-1-7-1-5-1">horizontal shift 5 units right</div></li>
+<li id="extracted-webwork-252-1-1-7-1-6"><div class="para" id="extracted-webwork-252-1-1-7-1-6-1">horizontal shift 6 units left</div></li>
+<li id="extracted-webwork-252-1-1-7-1-7"><div class="para" id="extracted-webwork-252-1-1-7-1-7-1">vertical shift 6 units up</div></li>
+<li id="extracted-webwork-252-1-1-7-1-8"><div class="para" id="extracted-webwork-252-1-1-7-1-8-1">vertical shift 5 units down</div></li>
+</ul></div> <div class="para" id="extracted-webwork-252-1-1-8">
+<em class="alert">Note:</em> select all transformations that apply</div> <div class="para" id="extracted-webwork-252-1-1-9"><em class="alert">Part II.</em></div> <div class="para" id="extracted-webwork-252-1-1-10">To obtain the graph of</div> <div class="para" id="extracted-webwork-252-1-1-11"><span class="process-math">\(y = f(x+5) + 6\)</span></div> <div class="para" id="extracted-webwork-252-1-1-12">from the graph of</div> <div class="para" id="extracted-webwork-252-1-1-13"><span class="process-math">\(y = f(x)\)</span></div> <div class="para" id="extracted-webwork-252-1-1-14">one needs to do the following transformations:</div> <div class="para logical" id="extracted-webwork-252-1-1-15"><ul class="square" id="extracted-webwork-252-1-1-15-1">
+<li id="extracted-webwork-252-1-1-15-1-1"><div class="para" id="extracted-webwork-252-1-1-15-1-1-1">horizontal shift 6 units right</div></li>
+<li id="extracted-webwork-252-1-1-15-1-2"><div class="para" id="extracted-webwork-252-1-1-15-1-2-1">vertical shift 5 units up</div></li>
+<li id="extracted-webwork-252-1-1-15-1-3"><div class="para" id="extracted-webwork-252-1-1-15-1-3-1">horizontal shift 6 units left</div></li>
+<li id="extracted-webwork-252-1-1-15-1-4"><div class="para" id="extracted-webwork-252-1-1-15-1-4-1">vertical shift 6 units up</div></li>
+<li id="extracted-webwork-252-1-1-15-1-5"><div class="para" id="extracted-webwork-252-1-1-15-1-5-1">horizontal shift 5 units left</div></li>
+<li id="extracted-webwork-252-1-1-15-1-6"><div class="para" id="extracted-webwork-252-1-1-15-1-6-1">horizontal shift 5 units right</div></li>
+<li id="extracted-webwork-252-1-1-15-1-7"><div class="para" id="extracted-webwork-252-1-1-15-1-7-1">vertical shift 5 units down</div></li>
+<li id="extracted-webwork-252-1-1-15-1-8"><div class="para" id="extracted-webwork-252-1-1-15-1-8-1">vertical shift 6 units down</div></li>
+</ul></div> <div class="para" id="extracted-webwork-252-1-1-16">
+<em class="alert">Note:</em> select all transformations that apply</div> <div class="para" id="extracted-webwork-252-1-1-17"><em class="alert">Part III.</em></div> <div class="para" id="extracted-webwork-252-1-1-18">To obtain the graph of</div> <div class="para" id="extracted-webwork-252-1-1-19"><span class="process-math">\(y = f(x-5) - 6\)</span></div> <div class="para" id="extracted-webwork-252-1-1-20">from the graph of</div> <div class="para" id="extracted-webwork-252-1-1-21"><span class="process-math">\(y = f(x)\)</span></div> <div class="para" id="extracted-webwork-252-1-1-22">one needs to do the following transformations:</div> <div class="para logical" id="extracted-webwork-252-1-1-23"><ul class="square" id="extracted-webwork-252-1-1-23-1">
+<li id="extracted-webwork-252-1-1-23-1-1"><div class="para" id="extracted-webwork-252-1-1-23-1-1-1">horizontal shift 5 units left</div></li>
+<li id="extracted-webwork-252-1-1-23-1-2"><div class="para" id="extracted-webwork-252-1-1-23-1-2-1">horizontal shift 5 units right</div></li>
+<li id="extracted-webwork-252-1-1-23-1-3"><div class="para" id="extracted-webwork-252-1-1-23-1-3-1">vertical shift 5 units up</div></li>
+<li id="extracted-webwork-252-1-1-23-1-4"><div class="para" id="extracted-webwork-252-1-1-23-1-4-1">vertical shift 5 units down</div></li>
+<li id="extracted-webwork-252-1-1-23-1-5"><div class="para" id="extracted-webwork-252-1-1-23-1-5-1">vertical shift 6 units up</div></li>
+<li id="extracted-webwork-252-1-1-23-1-6"><div class="para" id="extracted-webwork-252-1-1-23-1-6-1">horizontal shift 6 units left</div></li>
+<li id="extracted-webwork-252-1-1-23-1-7"><div class="para" id="extracted-webwork-252-1-1-23-1-7-1">vertical shift 6 units down</div></li>
+<li id="extracted-webwork-252-1-1-23-1-8"><div class="para" id="extracted-webwork-252-1-1-23-1-8-1">horizontal shift 6 units right</div></li>
+</ul></div> <div class="para" id="extracted-webwork-252-1-1-24">
 <em class="alert">Note:</em> select all transformations that apply</div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1"><h1 class="heading">
 <span class="codenumber">8<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-1.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1"><article class="exercise exercise-like"><div id="webwork-253" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="253" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-1.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-253" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="253" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-1.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-253')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1623"><em class="alert">PART I.</em></div> <div class="para" id="p-1624">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-9x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1625">1. Horizontal shift 2 units right</div> <div class="para" id="p-1626">2. Vertical shift 3 units up</div> <div class="para" id="p-1627">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1628"><em class="alert">PART II.</em></div> <div class="para" id="p-1629">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-9x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1630">1. Horizontal shift 2 units right</div> <div class="para" id="p-1631">2. Vertical shift 3 units down</div> <div class="para" id="p-1632">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-253-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-253-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-9x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-253-1-1-3">1. Horizontal shift 2 units right</div> <div class="para" id="extracted-webwork-253-1-1-4">2. Vertical shift 3 units up</div> <div class="para" id="extracted-webwork-253-1-1-5">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-253-1-1-6"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-253-1-1-7">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-9x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-253-1-1-8">1. Horizontal shift 2 units right</div> <div class="para" id="extracted-webwork-253-1-1-9">2. Vertical shift 3 units down</div> <div class="para" id="extracted-webwork-253-1-1-10">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-539" id="answer-539"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-539"><div class="answer solution-like"><div class="para" id="p-1633"><span class="process-math">\(\left(x-2\right)^{2}-9\!\left(x-2\right)+3\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-540" id="answer-540"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-540"><div class="answer solution-like"><div class="para" id="p-1634"><span class="process-math">\(\left(x-2\right)^{2}-9\!\left(x-2\right)-3\)</span></div></div></div>
+<details id="extracted-webwork-253-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-253-1-2-1"><span class="process-math">\(\left(x-2\right)^{2}-9\!\left(x-2\right)+3\)</span></div></div></details><details id="extracted-webwork-253-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-253-1-3-1"><span class="process-math">\(\left(x-2\right)^{2}-9\!\left(x-2\right)-3\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2"><h1 class="heading">
 <span class="codenumber">9<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-2.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2"><article class="exercise exercise-like"><div id="webwork-254" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="254" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-254" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="254" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-2.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-254')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1635"><em class="alert">PART I.</em></div> <div class="para" id="p-1636">Suppose we start with the graph of <span class="process-math">\(y = x^{2}+6x-12\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1637">1. Horizontal shift 5 units left</div> <div class="para" id="p-1638">2. Vertical shift 3 units down</div> <div class="para" id="p-1639">3. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="p-1640">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1641"><em class="alert">PART II.</em></div> <div class="para" id="p-1642">Suppose we start with the graph of <span class="process-math">\(y = x^{2}+6x-12\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1643">1. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="p-1644">2. Horizontal shift 5 units left</div> <div class="para" id="p-1645">3. Vertical shift 3 units down</div> <div class="para" id="p-1646">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-254-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-254-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = x^{2}+6x-12\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-254-1-1-3">1. Horizontal shift 5 units left</div> <div class="para" id="extracted-webwork-254-1-1-4">2. Vertical shift 3 units down</div> <div class="para" id="extracted-webwork-254-1-1-5">3. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="extracted-webwork-254-1-1-6">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-254-1-1-7"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-254-1-1-8">Suppose we start with the graph of <span class="process-math">\(y = x^{2}+6x-12\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-254-1-1-9">1. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="extracted-webwork-254-1-1-10">2. Horizontal shift 5 units left</div> <div class="para" id="extracted-webwork-254-1-1-11">3. Vertical shift 3 units down</div> <div class="para" id="extracted-webwork-254-1-1-12">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-541" id="answer-541"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-541"><div class="answer solution-like"><div class="para" id="p-1647"><span class="process-math">\(-\left(\left(x+5\right)^{2}+6\!\left(x+5\right)-12-3\right)\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-542" id="answer-542"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-542"><div class="answer solution-like"><div class="para" id="p-1648"><span class="process-math">\(-\left(x+5\right)^{2}-6\!\left(x+5\right)+12-3\)</span></div></div></div>
+<details id="extracted-webwork-254-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-254-1-2-1"><span class="process-math">\(-\left(\left(x+5\right)^{2}+6\!\left(x+5\right)-12-3\right)\)</span></div></div></details><details id="extracted-webwork-254-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-254-1-3-1"><span class="process-math">\(-\left(x+5\right)^{2}-6\!\left(x+5\right)+12-3\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3"><h1 class="heading">
 <span class="codenumber">10<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-3.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3"><article class="exercise exercise-like"><div id="webwork-255" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="255" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-3.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-255" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="255" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-3.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-255')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1649"><em class="alert">PART I.</em></div> <div class="para" id="p-1650">Suppose we start with the graph of <span class="process-math">\(y = -5\!\left|x\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1651">1. Horizontal shift 4 units right</div> <div class="para" id="p-1652">2. Vertical shift 2 units down</div> <div class="para" id="p-1653">3. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="p-1654">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1655"><em class="alert">PART II.</em></div> <div class="para" id="p-1656">Suppose we start with the graph of <span class="process-math">\(y = -5\!\left|x\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1657">1. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="p-1658">2. Horizontal shift 4 units right</div> <div class="para" id="p-1659">3. Vertical shift 2 units down</div> <div class="para" id="p-1660">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-255-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-255-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = -5\!\left|x\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-255-1-1-3">1. Horizontal shift 4 units right</div> <div class="para" id="extracted-webwork-255-1-1-4">2. Vertical shift 2 units down</div> <div class="para" id="extracted-webwork-255-1-1-5">3. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="extracted-webwork-255-1-1-6">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-255-1-1-7"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-255-1-1-8">Suppose we start with the graph of <span class="process-math">\(y = -5\!\left|x\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-255-1-1-9">1. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="extracted-webwork-255-1-1-10">2. Horizontal shift 4 units right</div> <div class="para" id="extracted-webwork-255-1-1-11">3. Vertical shift 2 units down</div> <div class="para" id="extracted-webwork-255-1-1-12">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-543" id="answer-543"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-543"><div class="answer solution-like"><div class="para" id="p-1661"><span class="process-math">\(-\left(-5\!\left|x-4\right|-2\right)\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-544" id="answer-544"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-544"><div class="answer solution-like"><div class="para" id="p-1662"><span class="process-math">\(5\!\left|x-4\right|-2\)</span></div></div></div>
+<details id="extracted-webwork-255-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-255-1-2-1"><span class="process-math">\(-\left(-5\!\left|x-4\right|-2\right)\)</span></div></div></details><details id="extracted-webwork-255-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-255-1-3-1"><span class="process-math">\(5\!\left|x-4\right|-2\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4"><h1 class="heading">
 <span class="codenumber">11<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-4.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4"><article class="exercise exercise-like"><div id="webwork-256" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="256" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-4.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-256" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="256" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-4.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-256')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1663"><em class="alert">PART I.</em></div> <div class="para" id="p-1664">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-3x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1665">1. Horizontal shift 2 units right</div> <div class="para" id="p-1666">2. Vertical shift 4 units up</div> <div class="para" id="p-1667">3. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="p-1668">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1669"><em class="alert">PART II.</em></div> <div class="para" id="p-1670">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-3x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1671">1. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="p-1672">2. Horizontal shift 2 units right</div> <div class="para" id="p-1673">3. Vertical shift 4 units up</div> <div class="para" id="p-1674">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-256-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-256-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-3x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-256-1-1-3">1. Horizontal shift 2 units right</div> <div class="para" id="extracted-webwork-256-1-1-4">2. Vertical shift 4 units up</div> <div class="para" id="extracted-webwork-256-1-1-5">3. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="extracted-webwork-256-1-1-6">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-256-1-1-7"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-256-1-1-8">Suppose we start with the graph of <span class="process-math">\(y = x^{2}-3x\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-256-1-1-9">1. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="extracted-webwork-256-1-1-10">2. Horizontal shift 2 units right</div> <div class="para" id="extracted-webwork-256-1-1-11">3. Vertical shift 4 units up</div> <div class="para" id="extracted-webwork-256-1-1-12">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-545" id="answer-545"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-545"><div class="answer solution-like"><div class="para" id="p-1675"><span class="process-math">\(\left(-x-2\right)^{2}-3\!\left(-x-2\right)+4\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-546" id="answer-546"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-546"><div class="answer solution-like"><div class="para" id="p-1676"><span class="process-math">\(\left(x-2\right)^{2}+3\!\left(x-2\right)+4\)</span></div></div></div>
+<details id="extracted-webwork-256-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-256-1-2-1"><span class="process-math">\(\left(-x-2\right)^{2}-3\!\left(-x-2\right)+4\)</span></div></div></details><details id="extracted-webwork-256-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-256-1-3-1"><span class="process-math">\(\left(x-2\right)^{2}+3\!\left(x-2\right)+4\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5"><h1 class="heading">
 <span class="codenumber">12<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-5.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5"><article class="exercise exercise-like"><div id="webwork-257" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="257" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-5.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-257" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="257" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-5.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-257')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1677"><em class="alert">PART I.</em></div> <div class="para" id="p-1678">Suppose we start with the graph of <span class="process-math">\(y = \left|x+5\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1679">1. Horizontal shift 7 units left</div> <div class="para" id="p-1680">2. Vertical shift 3 units down</div> <div class="para" id="p-1681">3. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="p-1682">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1683"><em class="alert">PART II.</em></div> <div class="para" id="p-1684">Suppose we start with the graph of <span class="process-math">\(y = \left|x+5\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1685">1. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="p-1686">2. Horizontal shift 7 units left</div> <div class="para" id="p-1687">3. Vertical shift 3 units down</div> <div class="para" id="p-1688">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-257-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-257-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = \left|x+5\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-257-1-1-3">1. Horizontal shift 7 units left</div> <div class="para" id="extracted-webwork-257-1-1-4">2. Vertical shift 3 units down</div> <div class="para" id="extracted-webwork-257-1-1-5">3. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="extracted-webwork-257-1-1-6">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-257-1-1-7"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-257-1-1-8">Suppose we start with the graph of <span class="process-math">\(y = \left|x+5\right|\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-257-1-1-9">1. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="extracted-webwork-257-1-1-10">2. Horizontal shift 7 units left</div> <div class="para" id="extracted-webwork-257-1-1-11">3. Vertical shift 3 units down</div> <div class="para" id="extracted-webwork-257-1-1-12">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-547" id="answer-547"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-547"><div class="answer solution-like"><div class="para" id="p-1689"><span class="process-math">\(\left|-x+7+5\right|-3\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-548" id="answer-548"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-548"><div class="answer solution-like"><div class="para" id="p-1690"><span class="process-math">\(\left|-\left(x+7\right)+5\right|-3\)</span></div></div></div>
+<details id="extracted-webwork-257-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-257-1-2-1"><span class="process-math">\(\left|-x+7+5\right|-3\)</span></div></div></details><details id="extracted-webwork-257-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-257-1-3-1"><span class="process-math">\(\left|-\left(x+7\right)+5\right|-3\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6"><h1 class="heading">
 <span class="codenumber">13<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-6.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6"><article class="exercise exercise-like"><div id="webwork-258" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="258" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-6.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-258" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="258" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-6.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-258')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1691"><em class="alert">PART I.</em></div> <div class="para" id="p-1692">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1693">1. Horizontal shift 3 units right</div> <div class="para" id="p-1694">2. Vertical shift 6 units down</div> <div class="para" id="p-1695">3. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="p-1696">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1697"><em class="alert">PART II.</em></div> <div class="para" id="p-1698">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1699">1. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="p-1700">2. Horizontal shift 3 units right</div> <div class="para" id="p-1701">3. Vertical shift 6 units down</div> <div class="para" id="p-1702">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-258-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-258-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-258-1-1-3">1. Horizontal shift 3 units right</div> <div class="para" id="extracted-webwork-258-1-1-4">2. Vertical shift 6 units down</div> <div class="para" id="extracted-webwork-258-1-1-5">3. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="extracted-webwork-258-1-1-6">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-258-1-1-7"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-258-1-1-8">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-258-1-1-9">1. Reflection with respect to <span class="process-math">\(x\)</span> axis</div> <div class="para" id="extracted-webwork-258-1-1-10">2. Horizontal shift 3 units right</div> <div class="para" id="extracted-webwork-258-1-1-11">3. Vertical shift 6 units down</div> <div class="para" id="extracted-webwork-258-1-1-12">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-549" id="answer-549"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-549"><div class="answer solution-like"><div class="para" id="p-1703"><span class="process-math">\(-\left(\sqrt{x-3}-6\right)\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-550" id="answer-550"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-550"><div class="answer solution-like"><div class="para" id="p-1704"><span class="process-math">\(-\sqrt{x-3}-6\)</span></div></div></div>
+<details id="extracted-webwork-258-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-258-1-2-1"><span class="process-math">\(-\left(\sqrt{x-3}-6\right)\)</span></div></div></details><details id="extracted-webwork-258-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-258-1-3-1"><span class="process-math">\(-\sqrt{x-3}-6\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7"><a href="" data-knowl="" class="id-ref exercise-knowl original" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7"><h1 class="heading">
 <span class="codenumber">14<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-7.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7"><article class="exercise exercise-like"><div id="webwork-259" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="259" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-7.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-259" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="259" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/sulvn-3-5-transformations-to-formula-problem-7.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-259')">Activate</button></div>
 <div class="problem-contents">
-<div class="para" id="p-1705"><em class="alert">PART I.</em></div> <div class="para" id="p-1706">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1707">1. Horizontal shift 2 units left</div> <div class="para" id="p-1708">2. Vertical shift 6 units up</div> <div class="para" id="p-1709">3. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="p-1710">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
-</div> <div class="para" id="p-1711"><em class="alert">PART II.</em></div> <div class="para" id="p-1712">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
-</div> <div class="para" id="p-1713">1. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="p-1714">2. Horizontal shift 2 units left</div> <div class="para" id="p-1715">3. Vertical shift 6 units up</div> <div class="para" id="p-1716">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+<div class="para" id="extracted-webwork-259-1-1-1"><em class="alert">PART I.</em></div> <div class="para" id="extracted-webwork-259-1-1-2">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-259-1-1-3">1. Horizontal shift 2 units left</div> <div class="para" id="extracted-webwork-259-1-1-4">2. Vertical shift 6 units up</div> <div class="para" id="extracted-webwork-259-1-1-5">3. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="extracted-webwork-259-1-1-6">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
+</div> <div class="para" id="extracted-webwork-259-1-1-7"><em class="alert">PART II.</em></div> <div class="para" id="extracted-webwork-259-1-1-8">Suppose we start with the graph of <span class="process-math">\(y = \sqrt{x}\)</span> and apply the following sequence of transformations to obtain a graph of a new function <span class="process-math">\(g(x)\)</span>
+</div> <div class="para" id="extracted-webwork-259-1-1-9">1. Reflection with respect to <span class="process-math">\(y\)</span> axis</div> <div class="para" id="extracted-webwork-259-1-1-10">2. Horizontal shift 2 units left</div> <div class="para" id="extracted-webwork-259-1-1-11">3. Vertical shift 6 units up</div> <div class="para" id="extracted-webwork-259-1-1-12">A formula for the transformed function is <span class="process-math">\(g(x) =\)</span> <span class="fillin underline" role="img" aria-label="20-character blank" style="width: 9.090909090909092em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-551" id="answer-551"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-551"><div class="answer solution-like"><div class="para" id="p-1717"><span class="process-math">\(\sqrt{-x+2}+6\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-552" id="answer-552"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-552"><div class="answer solution-like"><div class="para" id="p-1718"><span class="process-math">\(\sqrt{-\left(x+2\right)}+6\)</span></div></div></div>
+<details id="extracted-webwork-259-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-259-1-2-1"><span class="process-math">\(\sqrt{-x+2}+6\)</span></div></div></details><details id="extracted-webwork-259-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-259-1-3-1"><span class="process-math">\(\sqrt{-\left(x+2\right)}+6\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence"><a href="" data-knowl="" class="id-ref exercise-knowl original has-image" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence"><h1 class="heading">
 <span class="codenumber">15<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/absolute-5-sequence.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence"><article class="exercise exercise-like"><div id="webwork-260" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="260" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/absolute-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-260" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="260" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/absolute-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-260')">Activate</button></div>
 <div class="problem-contents">
-<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-260-image-1.png" class="contained"></div> <div class="para" id="p-1719">The graph of <span class="process-math">\(f(x)=|x|\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions</div> <div class="para" id="p-1720">
-<span class="process-math">\(f_1\)</span> sketched in green,</div> <div class="para" id="p-1721">
-<span class="process-math">\(f_2\)</span> sketched in blue, and</div> <div class="para" id="p-1722">
-<span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="p-1723">That is, the sequence of transformation is as follows:</div> <div class="para" id="p-1724"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="p-1725">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
-</div> <div class="para" id="p-1726">
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-260-image-1.png" class="contained"></div> <div class="para" id="extracted-webwork-260-1-1-2">The graph of <span class="process-math">\(f(x)=|x|\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions</div> <div class="para" id="extracted-webwork-260-1-1-3">
+<span class="process-math">\(f_1\)</span> sketched in green,</div> <div class="para" id="extracted-webwork-260-1-1-4">
+<span class="process-math">\(f_2\)</span> sketched in blue, and</div> <div class="para" id="extracted-webwork-260-1-1-5">
+<span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="extracted-webwork-260-1-1-6">That is, the sequence of transformation is as follows:</div> <div class="para" id="extracted-webwork-260-1-1-7"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="extracted-webwork-260-1-1-8">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
+</div> <div class="para" id="extracted-webwork-260-1-1-9">
 <span class="process-math">\(f_1(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1727">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
-</div> <div class="para" id="p-1728">
+</div> <div class="para" id="extracted-webwork-260-1-1-10">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
+</div> <div class="para" id="extracted-webwork-260-1-1-11">
 <span class="process-math">\(f_2(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1729">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
-</div> <div class="para" id="p-1730">
+</div> <div class="para" id="extracted-webwork-260-1-1-12">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
+</div> <div class="para" id="extracted-webwork-260-1-1-13">
 <span class="process-math">\(f_3(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-553" id="answer-553"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-553"><div class="answer solution-like"><div class="para" id="p-1731"><span class="process-math">\(\left|x+3\right|\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-554" id="answer-554"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-554"><div class="answer solution-like"><div class="para" id="p-1732"><span class="process-math">\(-\left|x+3\right|\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-555" id="answer-555"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-555"><div class="answer solution-like"><div class="para" id="p-1733"><span class="process-math">\(-\left|x+3\right|+6\)</span></div></div></div>
+<details id="extracted-webwork-260-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-260-1-2-1"><span class="process-math">\(\left|x+3\right|\)</span></div></div></details><details id="extracted-webwork-260-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-260-1-3-1"><span class="process-math">\(-\left|x+3\right|\)</span></div></div></details><details id="extracted-webwork-260-1-4" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-260-1-4-1"><span class="process-math">\(-\left|x+3\right|+6\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence"><a href="" data-knowl="" class="id-ref exercise-knowl original has-image" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence"><h1 class="heading">
 <span class="codenumber">16<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/cubic-5-sequence.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence"><article class="exercise exercise-like"><div id="webwork-261" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="261" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/cubic-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-261" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="261" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/cubic-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-261')">Activate</button></div>
 <div class="problem-contents">
-<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-261-image-1.png" class="contained"></div> <div class="para" id="p-1734">The graph of <span class="process-math">\(f(x)=x^3\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions</div> <div class="para" id="p-1735">
-<span class="process-math">\(f_1\)</span> sketched in green,</div> <div class="para" id="p-1736">
-<span class="process-math">\(f_2\)</span> sketched in blue, and</div> <div class="para" id="p-1737">
-<span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="p-1738">That is, the sequence of transformation is as follows:</div> <div class="para" id="p-1739"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="p-1740">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
-</div> <div class="para" id="p-1741">
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-261-image-1.png" class="contained"></div> <div class="para" id="extracted-webwork-261-1-1-2">The graph of <span class="process-math">\(f(x)=x^3\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions</div> <div class="para" id="extracted-webwork-261-1-1-3">
+<span class="process-math">\(f_1\)</span> sketched in green,</div> <div class="para" id="extracted-webwork-261-1-1-4">
+<span class="process-math">\(f_2\)</span> sketched in blue, and</div> <div class="para" id="extracted-webwork-261-1-1-5">
+<span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="extracted-webwork-261-1-1-6">That is, the sequence of transformation is as follows:</div> <div class="para" id="extracted-webwork-261-1-1-7"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="extracted-webwork-261-1-1-8">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
+</div> <div class="para" id="extracted-webwork-261-1-1-9">
 <span class="process-math">\(f_1(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1742">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
-</div> <div class="para" id="p-1743">
+</div> <div class="para" id="extracted-webwork-261-1-1-10">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
+</div> <div class="para" id="extracted-webwork-261-1-1-11">
 <span class="process-math">\(f_2(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1744">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
-</div> <div class="para" id="p-1745">
+</div> <div class="para" id="extracted-webwork-261-1-1-12">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
+</div> <div class="para" id="extracted-webwork-261-1-1-13">
 <span class="process-math">\(f_3(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-556" id="answer-556"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-556"><div class="answer solution-like"><div class="para" id="p-1746"><span class="process-math">\(\left(x-5\right)^{3}\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-557" id="answer-557"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-557"><div class="answer solution-like"><div class="para" id="p-1747"><span class="process-math">\(-\left(x-5\right)^{3}\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-558" id="answer-558"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-558"><div class="answer solution-like"><div class="para" id="p-1748"><span class="process-math">\(-\left(x-5\right)^{3}-7\)</span></div></div></div>
+<details id="extracted-webwork-261-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-261-1-2-1"><span class="process-math">\(\left(x-5\right)^{3}\)</span></div></div></details><details id="extracted-webwork-261-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-261-1-3-1"><span class="process-math">\(-\left(x-5\right)^{3}\)</span></div></div></details><details id="extracted-webwork-261-1-4" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-261-1-4-1"><span class="process-math">\(-\left(x-5\right)^{3}-7\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence"><a href="" data-knowl="" class="id-ref exercise-knowl original has-image" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence"><h1 class="heading">
 <span class="codenumber">17<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/quadratic-5-sequence.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence"><article class="exercise exercise-like"><div id="webwork-262" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="262" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/quadratic-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-262" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="262" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/quadratic-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-262')">Activate</button></div>
 <div class="problem-contents">
-<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-262-image-1.png" class="contained"></div> <div class="para" id="p-1749">The graph of <span class="process-math">\(f(x)=x^2\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions <span class="process-math">\(f_1\)</span> sketched in green, <span class="process-math">\(f_2\)</span> sketched in blue, and <span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="p-1750">That is, the sequence of transformation is as follows:</div> <div class="para" id="p-1751"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="p-1752">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
-</div> <div class="para" id="p-1753">
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-262-image-1.png" class="contained"></div> <div class="para" id="extracted-webwork-262-1-1-2">The graph of <span class="process-math">\(f(x)=x^2\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions <span class="process-math">\(f_1\)</span> sketched in green, <span class="process-math">\(f_2\)</span> sketched in blue, and <span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="extracted-webwork-262-1-1-3">That is, the sequence of transformation is as follows:</div> <div class="para" id="extracted-webwork-262-1-1-4"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="extracted-webwork-262-1-1-5">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
+</div> <div class="para" id="extracted-webwork-262-1-1-6">
 <span class="process-math">\(f_1(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1754">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
-</div> <div class="para" id="p-1755">
+</div> <div class="para" id="extracted-webwork-262-1-1-7">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
+</div> <div class="para" id="extracted-webwork-262-1-1-8">
 <span class="process-math">\(f_2(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1756">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
-</div> <div class="para" id="p-1757">
+</div> <div class="para" id="extracted-webwork-262-1-1-9">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
+</div> <div class="para" id="extracted-webwork-262-1-1-10">
 <span class="process-math">\(f_3(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-559" id="answer-559"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-559"><div class="answer solution-like"><div class="para" id="p-1758"><span class="process-math">\(\left(x-7\right)^{2}\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-560" id="answer-560"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-560"><div class="answer solution-like"><div class="para" id="p-1759"><span class="process-math">\(-\left(x-7\right)^{2}\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-561" id="answer-561"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-561"><div class="answer solution-like"><div class="para" id="p-1760"><span class="process-math">\(-\left(x-7\right)^{2}-3\)</span></div></div></div>
+<details id="extracted-webwork-262-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-262-1-2-1"><span class="process-math">\(\left(x-7\right)^{2}\)</span></div></div></details><details id="extracted-webwork-262-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-262-1-3-1"><span class="process-math">\(-\left(x-7\right)^{2}\)</span></div></div></details><details id="extracted-webwork-262-1-4" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-262-1-4-1"><span class="process-math">\(-\left(x-7\right)^{2}-3\)</span></div></div></details>
 </div>
 </div>
-</div></article></div>
-<article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence"><a href="" data-knowl="" class="id-ref exercise-knowl original has-image" data-refid="hk-ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence"><h1 class="heading">
+</div></article><article class="exercise exercise-like" id="ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence"><h1 class="heading">
 <span class="codenumber">18<span class="period">.</span></span><span class="space"> </span><span class="title"><em class="alert">local/uw-stout/math120-sulvn-3-5/square-root-5-sequence.pg</em>.</span>
-</h1></a></article><div class="hidden-content tex2jax_ignore" id="hk-ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence"><article class="exercise exercise-like"><div id="webwork-263" class="exercise-wrapper" data-domain="http://192.168.1.57" data-seed="263" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/square-root-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
+</h1>
+<div id="webwork-263" class="exercise-wrapper" data-domain="https://192.168.254.107" data-seed="263" data-localize-correct="Correct" data-localize-incorrect="Incorrect" data-localize-blank="Blank" data-localize-submit="Submit" data-localize-check-responses="Check Responses" data-localize-reveal="Reveal" data-localize-randomize="Randomize" data-localize-reset="Reset" data-localize-hint="Hint" data-localize-solution="Solution" data-sourceFilePath="local/uw-stout/math120-sulvn-3-5/square-root-5-sequence.pg" data-courseID="anonymous" data-userID="anonymous" data-coursePassword="anonymous" aria-live="polite">
 <div class="problem-buttons"><button class="webwork-button" onclick="handleWW('webwork-263')">Activate</button></div>
 <div class="problem-contents">
-<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-263-image-1.png" class="contained"></div> <div class="para" id="p-1761">The graph of <span class="process-math">\(f(x)=\sqrt{x}\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions</div> <div class="para" id="p-1762">
-<span class="process-math">\(f_1\)</span> sketched in green,</div> <div class="para" id="p-1763">
-<span class="process-math">\(f_2\)</span> sketched in blue, and</div> <div class="para" id="p-1764">
-<span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="p-1765">That is, the sequence of transformation is as follows:</div> <div class="para" id="p-1766"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="p-1767">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
-</div> <div class="para" id="p-1768">
+<div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="generated/webwork/images/webwork-263-image-1.png" class="contained"></div> <div class="para" id="extracted-webwork-263-1-1-2">The graph of <span class="process-math">\(f(x)=\sqrt{x}\)</span> is sketched in black and it had undergone a series of transformations to graphs of functions</div> <div class="para" id="extracted-webwork-263-1-1-3">
+<span class="process-math">\(f_1\)</span> sketched in green,</div> <div class="para" id="extracted-webwork-263-1-1-4">
+<span class="process-math">\(f_2\)</span> sketched in blue, and</div> <div class="para" id="extracted-webwork-263-1-1-5">
+<span class="process-math">\(f_3\)</span> sketched in red.</div> <div class="para" id="extracted-webwork-263-1-1-6">That is, the sequence of transformation is as follows:</div> <div class="para" id="extracted-webwork-263-1-1-7"><span class="process-math">\(f\rightarrow f_1\rightarrow f_2\rightarrow f_3\text{.}\)</span></div> <div class="para" id="extracted-webwork-263-1-1-8">Find a formula for the function <span class="process-math">\(f_1(x)\)</span>
+</div> <div class="para" id="extracted-webwork-263-1-1-9">
 <span class="process-math">\(f_1(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1769">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
-</div> <div class="para" id="p-1770">
+</div> <div class="para" id="extracted-webwork-263-1-1-10">Find a formula for the function <span class="process-math">\(f_2(x)\)</span>
+</div> <div class="para" id="extracted-webwork-263-1-1-11">
 <span class="process-math">\(f_2(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
-</div> <div class="para" id="p-1771">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
-</div> <div class="para" id="p-1772">
+</div> <div class="para" id="extracted-webwork-263-1-1-12">Find a formula for the function <span class="process-math">\(f_3(x)\)</span>
+</div> <div class="para" id="extracted-webwork-263-1-1-13">
 <span class="process-math">\(f_3(x)=\)</span><span class="fillin underline" role="img" aria-label="30-character blank" style="width: 13.6363636363636em;"></span>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-562" id="answer-562"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-562"><div class="answer solution-like"><div class="para" id="p-1773"><span class="process-math">\(\sqrt{x+4}\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-563" id="answer-563"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-563"><div class="answer solution-like"><div class="para" id="p-1774"><span class="process-math">\(-\sqrt{x+4}\)</span></div></div></div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-564" id="answer-564"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-564"><div class="answer solution-like"><div class="para" id="p-1775"><span class="process-math">\(-\sqrt{x+4}+3\)</span></div></div></div>
+<details id="extracted-webwork-263-1-2" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">1</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-263-1-2-1"><span class="process-math">\(\sqrt{x+4}\)</span></div></div></details><details id="extracted-webwork-263-1-3" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">2</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-263-1-3-1"><span class="process-math">\(-\sqrt{x+4}\)</span></div></div></details><details id="extracted-webwork-263-1-4" class="answer solution-like born-hidden-knowl"><summary class="knowl__link"><span class="type">Answer</span><span class="space"> </span><span class="codenumber">3</span><span class="period">.</span></summary><div class="answer solution-like knowl__content"><div class="para" id="extracted-webwork-263-1-4-1"><span class="process-math">\(-\sqrt{x+4}+3\)</span></div></div></details>
 </div>
 </div>
-</div></article></div></section></section></div>
+</div></article></section></section></div>
 <div class="ptx-content-footer">
-<a class="previous-button button" href="sethw-17-library-of-functions.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="sethw-19-modeling-with-functions.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
+<a class="previous-button button" href="sethw-17-library-of-functions.html" title="Previous"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cb;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5ce;</span><span class="name">Top</span></a><a class="next-button button" href="sethw-19-modeling-with-functions.html" title="Next"><span class="name">Next</span><span class="icon material-symbols-outlined" aria-hidden="true">&#xe5cc;</span></a>
 </div></main>
 </div>
 <div id="ptx-page-footer" class="ptx-page-footer">
-<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="338 3000 8772 6866" role="img"><title>PreTeXt logo</title><g style="stroke-width:.025in; stroke:currentColor; fill:none"><polyline points="472,3590 472,9732 " style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png" alt="Runstone Academy logo"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png" alt="MathJax logo"></a>
 </div>
 </body>
 </html>

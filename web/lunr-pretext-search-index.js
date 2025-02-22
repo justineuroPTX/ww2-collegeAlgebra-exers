@@ -1,18 +1,18 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "colophon-1",
+  "id": "front-colophon",
   "level": "1",
-  "url": "colophon-1.html",
+  "url": "front-colophon.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
-  "body": "   example.org   https:\/\/example.org   copyright  "
+  "body": ""
 },
 {
-  "id": "preface-1",
+  "id": "frontmatter-4",
   "level": "1",
-  "url": "preface-1.html",
+  "url": "frontmatter-4.html",
   "type": "Preface",
   "number": "",
   "title": "Preface",
@@ -30,7 +30,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem1",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem1",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem1",
   "type": "Exercise",
   "number": "1.1",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem1.pg<\/em>.",
@@ -39,7 +39,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem2",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem2",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem2",
   "type": "Exercise",
   "number": "1.2",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem2.pg<\/em>.",
@@ -48,7 +48,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem4",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem4",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem4",
   "type": "Exercise",
   "number": "1.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem4.pg<\/em>.",
@@ -57,7 +57,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem5",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem5",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem5",
   "type": "Exercise",
   "number": "1.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem5.pg<\/em>.",
@@ -66,7 +66,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem6",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem6",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem6",
   "type": "Exercise",
   "number": "1.5",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem6.pg<\/em>.",
@@ -75,7 +75,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem7",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem7",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem7",
   "type": "Exercise",
   "number": "1.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem7.pg<\/em>.",
@@ -84,7 +84,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem8",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem8",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem8",
   "type": "Exercise",
   "number": "1.7",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem8.pg<\/em>.",
@@ -93,7 +93,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem3",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem3",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem3",
   "type": "Exercise",
   "number": "1.8",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem3.pg<\/em>.",
@@ -102,7 +102,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-problem9",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-problem9",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-problem9",
   "type": "Exercise",
   "number": "1.9",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/problem9.pg<\/em>.",
@@ -111,7 +111,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-sulvn-R-4-85",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-R-4-85",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-R-4-85",
   "type": "Exercise",
   "number": "1.10",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/sulvn-R-4-85.pg<\/em>.",
@@ -120,7 +120,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-91",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-91",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-91",
   "type": "Exercise",
   "number": "1.11",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/sulvn-r-4-91.pg<\/em>.",
@@ -129,7 +129,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-93",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-93",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-93",
   "type": "Exercise",
   "number": "1.12",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/sulvn-r-4-93.pg<\/em>.",
@@ -138,7 +138,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-96",
   "level": "2",
-  "url": "exercises-1.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-96",
+  "url": "sethw-01a-polynomials-addition-multiplication-2.html#ch1-local-uw-stout-math120-sulvn-R-4-sulvn-r-4-96",
   "type": "Exercise",
   "number": "1.13",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-4\/sulvn-r-4-96.pg<\/em>.",
@@ -156,7 +156,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-2",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-2",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-2",
   "type": "Exercise",
   "number": "2.1",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-2.pg<\/em>.",
@@ -165,7 +165,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-3-1",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-3-1",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-3-1",
   "type": "Exercise",
   "number": "2.2",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-3-1.pg<\/em>.",
@@ -174,7 +174,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-3",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-3",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-3",
   "type": "Exercise",
   "number": "2.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-3.pg<\/em>.",
@@ -183,7 +183,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-4",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-4",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-4",
   "type": "Exercise",
   "number": "2.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-4.pg<\/em>.",
@@ -192,7 +192,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-5-2",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-5-2",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-5-2",
   "type": "Exercise",
   "number": "2.5",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-5-2.pg<\/em>.",
@@ -201,7 +201,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-5",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-5",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-5",
   "type": "Exercise",
   "number": "2.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-5.pg<\/em>.",
@@ -210,7 +210,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-10",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-10",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-10",
   "type": "Exercise",
   "number": "2.7",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-10.pg<\/em>.",
@@ -219,7 +219,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-6",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-6",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-6",
   "type": "Exercise",
   "number": "2.8",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-6.pg<\/em>.",
@@ -228,7 +228,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-7",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-7",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-7",
   "type": "Exercise",
   "number": "2.9",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-7.pg<\/em>.",
@@ -237,7 +237,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-9",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-9",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-9",
   "type": "Exercise",
   "number": "2.10",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-9.pg<\/em>.",
@@ -246,7 +246,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-1",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-1",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-1",
   "type": "Exercise",
   "number": "2.11",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-1.pg<\/em>.",
@@ -255,7 +255,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch2-local-uw-stout-math120-sulvn-R-5-problem-11",
   "level": "2",
-  "url": "exercises-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-11",
+  "url": "sethw-01b-polynomials-factoring-2.html#ch2-local-uw-stout-math120-sulvn-R-5-problem-11",
   "type": "Exercise",
   "number": "2.12",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-R-5\/problem-11.pg<\/em>.",
@@ -408,7 +408,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-Library-ASU-topics-setQuadraticFunction-sw3_3_1a",
   "level": "2",
-  "url": "exercises-4.html#ch4-Library-ASU-topics-setQuadraticFunction-sw3_3_1a",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-Library-ASU-topics-setQuadraticFunction-sw3_3_1a",
   "type": "Exercise",
   "number": "4.1",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setQuadraticFunction\/sw3_3_1a.pg<\/em>.",
@@ -417,7 +417,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem3",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem3",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem3",
   "type": "Exercise",
   "number": "4.2",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem3.pg<\/em>.",
@@ -426,7 +426,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem1",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem1",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem1",
   "type": "Exercise",
   "number": "4.3",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem1.pg<\/em>.",
@@ -435,7 +435,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem2",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem2",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem2",
   "type": "Exercise",
   "number": "4.4",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem2.pg<\/em>.",
@@ -444,7 +444,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem4",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem4",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem4",
   "type": "Exercise",
   "number": "4.5",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem4.pg<\/em>.",
@@ -453,7 +453,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem5",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem5",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem5",
   "type": "Exercise",
   "number": "4.6",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem5.pg<\/em>.",
@@ -462,7 +462,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem6",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem6",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem6",
   "type": "Exercise",
   "number": "4.7",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem6.pg<\/em>.",
@@ -471,7 +471,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem7",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem7",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem7",
   "type": "Exercise",
   "number": "4.8",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem7.pg<\/em>.",
@@ -480,7 +480,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem8",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem8",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem8",
   "type": "Exercise",
   "number": "4.9",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem8.pg<\/em>.",
@@ -489,7 +489,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem9",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem9",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem9",
   "type": "Exercise",
   "number": "4.10",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem9.pg<\/em>.",
@@ -498,7 +498,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem10",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem10",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem10",
   "type": "Exercise",
   "number": "4.11",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem10.pg<\/em>.",
@@ -507,7 +507,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem11",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem11",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem11",
   "type": "Exercise",
   "number": "4.12",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem11.pg<\/em>.",
@@ -516,7 +516,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem12",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem12",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem12",
   "type": "Exercise",
   "number": "4.13",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem12.pg<\/em>.",
@@ -525,7 +525,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem13",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem13",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem13",
   "type": "Exercise",
   "number": "4.14",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem13.pg<\/em>.",
@@ -534,7 +534,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem14",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem14",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem14",
   "type": "Exercise",
   "number": "4.15",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem14.pg<\/em>.",
@@ -543,7 +543,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem15",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem15",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem15",
   "type": "Exercise",
   "number": "4.16",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem15.pg<\/em>.",
@@ -552,7 +552,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem16",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem16",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem16",
   "type": "Exercise",
   "number": "4.17",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem16.pg<\/em>.",
@@ -561,7 +561,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem17",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem17",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem17",
   "type": "Exercise",
   "number": "4.18",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem17.pg<\/em>.",
@@ -570,7 +570,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-1",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-1",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-1",
   "type": "Exercise",
   "number": "4.19",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem-app-1.pg<\/em>.",
@@ -579,7 +579,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-2",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-2",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-2",
   "type": "Exercise",
   "number": "4.20",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem-app-2.pg<\/em>.",
@@ -588,7 +588,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-3",
   "level": "2",
-  "url": "exercises-4.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-3",
+  "url": "sethw-03-quadratic-equations-in-reals-2.html#ch4-local-PREP_2011_College_Algebra-02_Quadratic_equations-problem-app-3",
   "type": "Exercise",
   "number": "4.21",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/02_Quadratic_equations\/problem-app-3.pg<\/em>.",
@@ -606,7 +606,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-adding",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-adding",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-adding",
   "type": "Exercise",
   "number": "5.1",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/adding.pg<\/em>.",
@@ -615,7 +615,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_13",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_13",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_13",
   "type": "Exercise",
   "number": "5.2",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_13.pg<\/em>.",
@@ -624,7 +624,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_17",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_17",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-srw3_4_17",
   "type": "Exercise",
   "number": "5.3",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/srw3_4_17.pg<\/em>.",
@@ -633,7 +633,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Subtract",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Subtract",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Subtract",
   "type": "Exercise",
   "number": "5.4",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Subtract.pg<\/em>.",
@@ -642,7 +642,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Multiply",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Multiply",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Multiply",
   "type": "Exercise",
   "number": "5.5",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Multiply.pg<\/em>.",
@@ -651,7 +651,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_12",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_12",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_12",
   "type": "Exercise",
   "number": "5.6",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_12.pg<\/em>.",
@@ -660,7 +660,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p11",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p11",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p11",
   "type": "Exercise",
   "number": "5.7",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p11.pg<\/em>.",
@@ -669,7 +669,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p10",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p10",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-Utah-Intermediate_Algebra-set8_Quadratic_Equations_Functions_and_Inequalities-s8p10",
   "type": "Exercise",
   "number": "5.8",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Intermediate_Algebra\/set8_Quadratic_Equations_Functions_and_Inequalities\/s8p10.pg<\/em>.",
@@ -678,7 +678,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_1",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_1",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_1",
   "type": "Exercise",
   "number": "5.9",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_1.pg<\/em>.",
@@ -687,7 +687,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Divide",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Divide",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-Divide",
   "type": "Exercise",
   "number": "5.10",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra11ComplexNumbers\/Divide.pg<\/em>.",
@@ -696,7 +696,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_11",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_11",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_11",
   "type": "Exercise",
   "number": "5.11",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_11.pg<\/em>.",
@@ -705,7 +705,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_13",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_13",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-maCalcDB-setAlgebra11ComplexNumbers-ur_cn_1_13",
   "type": "Exercise",
   "number": "5.12",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra11ComplexNumbers\/ur_cn_1_13.pg<\/em>.",
@@ -714,7 +714,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch5-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_6",
   "level": "2",
-  "url": "exercises-5.html#ch5-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_6",
+  "url": "sethw-04a-review-of-complex-numbers-2.html#ch5-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_6",
   "type": "Exercise",
   "number": "5.13",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_6.pg<\/em>.",
@@ -732,7 +732,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch6-local-uw-stout-math120-sulvn-1-3-problem6",
   "level": "2",
-  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-problem6",
+  "url": "sethw-04b-quadratic-equations-in-complex-numbers-2.html#ch6-local-uw-stout-math120-sulvn-1-3-problem6",
   "type": "Exercise",
   "number": "6.1",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/problem6.pg<\/em>.",
@@ -741,7 +741,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch6-local-uw-stout-math120-sulvn-1-3-problem7",
   "level": "2",
-  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-problem7",
+  "url": "sethw-04b-quadratic-equations-in-complex-numbers-2.html#ch6-local-uw-stout-math120-sulvn-1-3-problem7",
   "type": "Exercise",
   "number": "6.2",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/problem7.pg<\/em>.",
@@ -750,7 +750,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-1",
   "level": "2",
-  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-1",
+  "url": "sethw-04b-quadratic-equations-in-complex-numbers-2.html#ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-1",
   "type": "Exercise",
   "number": "6.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-1.pg<\/em>.",
@@ -759,7 +759,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-2",
   "level": "2",
-  "url": "exercises-6.html#ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-2",
+  "url": "sethw-04b-quadratic-equations-in-complex-numbers-2.html#ch6-local-uw-stout-math120-sulvn-1-3-quadratic-complex-2-2",
   "type": "Exercise",
   "number": "6.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-1-3\/quadratic-complex-2-2.pg<\/em>.",
@@ -768,7 +768,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch6-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_33",
   "level": "2",
-  "url": "exercises-6.html#ch6-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_33",
+  "url": "sethw-04b-quadratic-equations-in-complex-numbers-2.html#ch6-Library-Rochester-setAlgebra11ComplexNumbers-ur_cn_1_33",
   "type": "Exercise",
   "number": "6.5",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra11ComplexNumbers\/ur_cn_1_33.pg<\/em>.",
@@ -786,7 +786,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch7-Library-ASU-topics-setSolveEquations-zhu4",
   "level": "2",
-  "url": "exercises-7.html#ch7-Library-ASU-topics-setSolveEquations-zhu4",
+  "url": "sethw-05a-rational-eqns-equiv-to-quadratic-2.html#ch7-Library-ASU-topics-setSolveEquations-zhu4",
   "type": "Exercise",
   "number": "7.1",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu4.pg<\/em>.",
@@ -795,7 +795,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch7-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p12",
   "level": "2",
-  "url": "exercises-7.html#ch7-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p12",
+  "url": "sethw-05a-rational-eqns-equiv-to-quadratic-2.html#ch7-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p12",
   "type": "Exercise",
   "number": "7.2",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p12.pg<\/em>.",
@@ -804,7 +804,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_22",
   "level": "2",
-  "url": "exercises-7.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_22",
+  "url": "sethw-05a-rational-eqns-equiv-to-quadratic-2.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_22",
   "type": "Exercise",
   "number": "7.3",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_22.pg<\/em>.",
@@ -813,7 +813,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_1",
   "level": "2",
-  "url": "exercises-7.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_1",
+  "url": "sethw-05a-rational-eqns-equiv-to-quadratic-2.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_1",
   "type": "Exercise",
   "number": "7.4",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_1.pg<\/em>.",
@@ -822,7 +822,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_59",
   "level": "2",
-  "url": "exercises-7.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_59",
+  "url": "sethw-05a-rational-eqns-equiv-to-quadratic-2.html#ch7-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_59",
   "type": "Exercise",
   "number": "7.5",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_59.pg<\/em>.",
@@ -835,21 +835,21 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "8",
   "title": "05b-radical-equations",
-  "body": " 05b-radical-equations   Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg   Solve for the only possible solution.    .  Does your solution satisfy the equation?   ?    Yes    No              Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveDualSqrt.pg   Solve for the only possible solution. Give your answer to the nearest thousandth.    .  Does your solution satisfy the equation? (yes or no)         yes       Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_36.pg   Solve the equation .  The only solution is  .            local\/Library\/ASU-topics\/setSolveEquations\/zhu7.pg   Solve the following equation:   Answer:            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg   Solve the equation by factoring.  The only solution is  .            local\/Library\/ASU-topics\/setSolveEquations\/zhu8.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).            local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg   Solve the equation   .            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/equationW2radicals.pg   Solve for :   The only possible root is  . It is a(n) root. (Fill in the second blank with REAL or EXTRANEOUS)         EXTRANEOUS        "
+  "body": " 05b-radical-equations   Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg   Solve for the only possible solution.    .  Does your solution satisfy the equation?   Yes    No              Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveDualSqrt.pg   Solve for the only possible solution. Give your answer to the nearest thousandth.    .  Does your solution satisfy the equation? (yes or no)         yes       Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_36.pg   Solve the equation .  The only solution is  .            local\/Library\/ASU-topics\/setSolveEquations\/zhu7.pg   Solve the following equation:   Answer:            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg   Solve the equation by factoring.  The only solution is  .            local\/Library\/ASU-topics\/setSolveEquations\/zhu8.pg   Solve the following equation.   Answer:  Note: If there is more than one answer, write them separated by commas (e.g., 1, 2).            local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg   Solve the equation   .            Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/equationW2radicals.pg   Solve for :   The only possible root is  . It is a(n) root. (Fill in the second blank with REAL or EXTRANEOUS)         EXTRANEOUS        "
 },
 {
   "id": "ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveSqrt",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveSqrt",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveSqrt",
   "type": "Exercise",
   "number": "8.1",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg<\/em>.",
-  "body": "Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg   Solve for the only possible solution.    .  Does your solution satisfy the equation?   ?    Yes    No             "
+  "body": "Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveSqrt.pg   Solve for the only possible solution.    .  Does your solution satisfy the equation?   Yes    No             "
 },
 {
   "id": "ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveDualSqrt",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveDualSqrt",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-Rochester-setAlgebra12EqnsOtherTypes-SolveDualSqrt",
   "type": "Exercise",
   "number": "8.2",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra12EqnsOtherTypes\/SolveDualSqrt.pg<\/em>.",
@@ -858,7 +858,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_36",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_36",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_36",
   "type": "Exercise",
   "number": "8.3",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_36.pg<\/em>.",
@@ -867,7 +867,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch8-Library-ASU-topics-setSolveEquations-zhu7",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-ASU-topics-setSolveEquations-zhu7",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-ASU-topics-setSolveEquations-zhu7",
   "type": "Exercise",
   "number": "8.4",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu7.pg<\/em>.",
@@ -876,7 +876,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
   "type": "Exercise",
   "number": "8.5",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg<\/em>.",
@@ -885,7 +885,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch8-Library-ASU-topics-setSolveEquations-zhu8",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-ASU-topics-setSolveEquations-zhu8",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-ASU-topics-setSolveEquations-zhu8",
   "type": "Exercise",
   "number": "8.6",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu8.pg<\/em>.",
@@ -894,7 +894,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
   "type": "Exercise",
   "number": "8.7",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg<\/em>.",
@@ -903,7 +903,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-equationW2radicals",
   "level": "2",
-  "url": "exercises-8.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-equationW2radicals",
+  "url": "sethw-05b-radical-equations-2.html#ch8-Library-maCalcDB-setAlgebra12EqnsOtherTypes-equationW2radicals",
   "type": "Exercise",
   "number": "8.8",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/equationW2radicals.pg<\/em>.",
@@ -921,7 +921,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch9-Library-ASU-topics-setSolveEquations-zhu6",
   "level": "2",
-  "url": "exercises-9.html#ch9-Library-ASU-topics-setSolveEquations-zhu6",
+  "url": "sethw-05c-other-quadratic-in-form-equations-2.html#ch9-Library-ASU-topics-setSolveEquations-zhu6",
   "type": "Exercise",
   "number": "9.1",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setSolveEquations\/zhu6.pg<\/em>.",
@@ -930,7 +930,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch9-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p13",
   "level": "2",
-  "url": "exercises-9.html#ch9-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p13",
+  "url": "sethw-05c-other-quadratic-in-form-equations-2.html#ch9-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p13",
   "type": "Exercise",
   "number": "9.2",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p13.pg<\/em>.",
@@ -939,7 +939,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
   "level": "2",
-  "url": "exercises-9.html#ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
+  "url": "sethw-05c-other-quadratic-in-form-equations-2.html#ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-lh1-6_21",
   "type": "Exercise",
   "number": "9.3",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/lh1-6_21.pg<\/em>.",
@@ -948,7 +948,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-quadWfractions",
   "level": "2",
-  "url": "exercises-9.html#ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-quadWfractions",
+  "url": "sethw-05c-other-quadratic-in-form-equations-2.html#ch9-Library-maCalcDB-setAlgebra12EqnsOtherTypes-quadWfractions",
   "type": "Exercise",
   "number": "9.4",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/quadWfractions.pg<\/em>.",
@@ -966,7 +966,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch10-Library-ASU-topics-setSolveEquations-zhu2",
   "level": "2",
-  "url": "exercises-10.html#ch10-Library-ASU-topics-setSolveEquations-zhu2",
+  "url": "sethw-05d-factorable-equations-misc-equations-2.html#ch10-Library-ASU-topics-setSolveEquations-zhu2",
   "type": "Exercise",
   "number": "10.1",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu2.pg<\/em>.",
@@ -975,7 +975,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch10-Library-ASU-topics-setSolveEquations-zhu1",
   "level": "2",
-  "url": "exercises-10.html#ch10-Library-ASU-topics-setSolveEquations-zhu1",
+  "url": "sethw-05d-factorable-equations-misc-equations-2.html#ch10-Library-ASU-topics-setSolveEquations-zhu1",
   "type": "Exercise",
   "number": "10.2",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setSolveEquations\/zhu1.pg<\/em>.",
@@ -984,7 +984,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch10-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p10",
   "level": "2",
-  "url": "exercises-10.html#ch10-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p10",
+  "url": "sethw-05d-factorable-equations-misc-equations-2.html#ch10-Library-Utah-Business_Algebra-set2_Linear_Equations_and_Functions-p10",
   "type": "Exercise",
   "number": "10.3",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set2_Linear_Equations_and_Functions\/p10.pg<\/em>.",
@@ -993,7 +993,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
   "level": "2",
-  "url": "exercises-10.html#ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
+  "url": "sethw-05d-factorable-equations-misc-equations-2.html#ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-ur_ab_5_4",
   "type": "Exercise",
   "number": "10.4",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/ur_ab_5_4.pg<\/em>.",
@@ -1002,7 +1002,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_61",
   "level": "2",
-  "url": "exercises-10.html#ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_61",
+  "url": "sethw-05d-factorable-equations-misc-equations-2.html#ch10-Library-maCalcDB-setAlgebra12EqnsOtherTypes-srw1_5_61",
   "type": "Exercise",
   "number": "10.5",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra12EqnsOtherTypes\/srw1_5_61.pg<\/em>.",
@@ -1020,7 +1020,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch11-Library-Union-setAlgebraInequalities-srw1_7_13",
   "level": "2",
-  "url": "exercises-11.html#ch11-Library-Union-setAlgebraInequalities-srw1_7_13",
+  "url": "sethw-06-Linear-Inequalities-2.html#ch11-Library-Union-setAlgebraInequalities-srw1_7_13",
   "type": "Exercise",
   "number": "11.1",
   "title": "<em class=\"alert\">Library\/Union\/setAlgebraInequalities\/srw1_7_13.pg<\/em>.",
@@ -1029,7 +1029,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch11-Library-FortLewis-Algebra-3-2-Solving-inequalities-MCH1-3-2-14-Solving-inequalities",
   "level": "2",
-  "url": "exercises-11.html#ch11-Library-FortLewis-Algebra-3-2-Solving-inequalities-MCH1-3-2-14-Solving-inequalities",
+  "url": "sethw-06-Linear-Inequalities-2.html#ch11-Library-FortLewis-Algebra-3-2-Solving-inequalities-MCH1-3-2-14-Solving-inequalities",
   "type": "Exercise",
   "number": "11.2",
   "title": "<em class=\"alert\">Library\/FortLewis\/Algebra\/3-2-Solving-inequalities\/MCH1-3-2-14-Solving-inequalities.pg<\/em>.",
@@ -1038,7 +1038,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch11-Library-maCalcDB-setAlgebra13Inequalities-ur_ab_7_1",
   "level": "2",
-  "url": "exercises-11.html#ch11-Library-maCalcDB-setAlgebra13Inequalities-ur_ab_7_1",
+  "url": "sethw-06-Linear-Inequalities-2.html#ch11-Library-maCalcDB-setAlgebra13Inequalities-ur_ab_7_1",
   "type": "Exercise",
   "number": "11.3",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra13Inequalities\/ur_ab_7_1.pg<\/em>.",
@@ -1047,7 +1047,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch11-Library-ASU-topics-setInequalities-zhu23",
   "level": "2",
-  "url": "exercises-11.html#ch11-Library-ASU-topics-setInequalities-zhu23",
+  "url": "sethw-06-Linear-Inequalities-2.html#ch11-Library-ASU-topics-setInequalities-zhu23",
   "type": "Exercise",
   "number": "11.4",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setInequalities\/zhu23.pg<\/em>.",
@@ -1056,7 +1056,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch11-Library-ASU-topics-setInequalities-zhu27",
   "level": "2",
-  "url": "exercises-11.html#ch11-Library-ASU-topics-setInequalities-zhu27",
+  "url": "sethw-06-Linear-Inequalities-2.html#ch11-Library-ASU-topics-setInequalities-zhu27",
   "type": "Exercise",
   "number": "11.5",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setInequalities\/zhu27.pg<\/em>.",
@@ -1065,7 +1065,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch11-Library-ASU-topics-setInequalities-p13",
   "level": "2",
-  "url": "exercises-11.html#ch11-Library-ASU-topics-setInequalities-p13",
+  "url": "sethw-06-Linear-Inequalities-2.html#ch11-Library-ASU-topics-setInequalities-p13",
   "type": "Exercise",
   "number": "11.6",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setInequalities\/p13.pg<\/em>.",
@@ -1083,7 +1083,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p10",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p10",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p10",
   "type": "Exercise",
   "number": "12.1",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set3_Inequalities_and_Linear_Programming\/p10.pg<\/em>.",
@@ -1092,7 +1092,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p11",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p11",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p11",
   "type": "Exercise",
   "number": "12.2",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set3_Inequalities_and_Linear_Programming\/p11.pg<\/em>.",
@@ -1101,7 +1101,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-ASU-topics-setAbsoluteValue-zhu1",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-ASU-topics-setAbsoluteValue-zhu1",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-ASU-topics-setAbsoluteValue-zhu1",
   "type": "Exercise",
   "number": "12.3",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setAbsoluteValue\/zhu1.pg<\/em>.",
@@ -1110,7 +1110,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-ASU-topics-setAbsoluteValue-zhu2",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-ASU-topics-setAbsoluteValue-zhu2",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-ASU-topics-setAbsoluteValue-zhu2",
   "type": "Exercise",
   "number": "12.4",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setAbsoluteValue\/zhu2.pg<\/em>.",
@@ -1119,7 +1119,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-Library-ASU-topics-setAbsoluteValue-zhu3",
   "level": "2",
-  "url": "exercises-12.html#ch12-Library-ASU-topics-setAbsoluteValue-zhu3",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-Library-ASU-topics-setAbsoluteValue-zhu3",
   "type": "Exercise",
   "number": "12.5",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setAbsoluteValue\/zhu3.pg<\/em>.",
@@ -1128,7 +1128,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-ASU-topics-setInequalities-pn4",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-ASU-topics-setInequalities-pn4",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-ASU-topics-setInequalities-pn4",
   "type": "Exercise",
   "number": "12.6",
   "title": "<em class=\"alert\">local\/Library\/ASU-topics\/setInequalities\/pn4.pg<\/em>.",
@@ -1137,7 +1137,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p12",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p12",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-Utah-Business_Algebra-set3_Inequalities_and_Linear_Programming-p12",
   "type": "Exercise",
   "number": "12.7",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set3_Inequalities_and_Linear_Programming\/p12.pg<\/em>.",
@@ -1146,7 +1146,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch12-local-Library-Union-setAlgebraAbsoluteValue-srw1_8_1",
   "level": "2",
-  "url": "exercises-12.html#ch12-local-Library-Union-setAlgebraAbsoluteValue-srw1_8_1",
+  "url": "sethw-07a-absolute-value-equations-2.html#ch12-local-Library-Union-setAlgebraAbsoluteValue-srw1_8_1",
   "type": "Exercise",
   "number": "12.8",
   "title": "<em class=\"alert\">local\/Library\/Union\/setAlgebraAbsoluteValue\/srw1_8_1.pg<\/em>.",
@@ -1164,7 +1164,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_20_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_20_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_20_AbsValIneq",
   "type": "Exercise",
   "number": "13.1",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_20_AbsValIneq.pg<\/em>.",
@@ -1173,7 +1173,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_22_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_22_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_22_AbsValIneq",
   "type": "Exercise",
   "number": "13.2",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_22_AbsValIneq.pg<\/em>.",
@@ -1182,7 +1182,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_30_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_30_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_30_AbsValIneq",
   "type": "Exercise",
   "number": "13.3",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_30_AbsValIneq.pg<\/em>.",
@@ -1191,7 +1191,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_26_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_26_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_26_AbsValIneq",
   "type": "Exercise",
   "number": "13.4",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_26_AbsValIneq.pg<\/em>.",
@@ -1200,7 +1200,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_16_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_16_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_16_AbsValIneq",
   "type": "Exercise",
   "number": "13.5",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_16_AbsValIneq.pg<\/em>.",
@@ -1209,7 +1209,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_25_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_25_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_25_AbsValIneq",
   "type": "Exercise",
   "number": "13.6",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_25_AbsValIneq.pg<\/em>.",
@@ -1218,7 +1218,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_28_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_28_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_28_AbsValIneq",
   "type": "Exercise",
   "number": "13.7",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_28_AbsValIneq.pg<\/em>.",
@@ -1227,7 +1227,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_23_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_23_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_23_AbsValIneq",
   "type": "Exercise",
   "number": "13.8",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_23_AbsValIneq.pg<\/em>.",
@@ -1236,7 +1236,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_18_AbsValIneq",
   "level": "2",
-  "url": "exercises-13.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_18_AbsValIneq",
+  "url": "sethw-07b-absolute-value-inequalities-2.html#ch13-Library-CollegeOfIdaho-setAlgebra_04_03_AbsoluteValue-43IntAlg_18_AbsValIneq",
   "type": "Exercise",
   "number": "13.9",
   "title": "<em class=\"alert\">Library\/CollegeOfIdaho\/setAlgebra_04_03_AbsoluteValue\/43IntAlg_18_AbsValIneq.pg<\/em>.",
@@ -1254,7 +1254,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_38",
   "level": "2",
-  "url": "exercises-14.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_38",
+  "url": "sethw-08-word-problems-2.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_38",
   "type": "Exercise",
   "number": "14.1",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_38.pg<\/em>.",
@@ -1263,7 +1263,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates--lh1-3_36",
   "level": "2",
-  "url": "exercises-14.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates--lh1-3_36",
+  "url": "sethw-08-word-problems-2.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates--lh1-3_36",
   "type": "Exercise",
   "number": "14.2",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/\/lh1-3_36.pg<\/em>.",
@@ -1272,7 +1272,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_39",
   "level": "2",
-  "url": "exercises-14.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_39",
+  "url": "sethw-08-word-problems-2.html#ch14-local-PREP_2011_College_Algebra-07_Word_Problems_Interest_Mixture_Motion_Rates-lh1-3_39",
   "type": "Exercise",
   "number": "14.3",
   "title": "<em class=\"alert\">local\/PREP_2011_College_Algebra\/07_Word_Problems_Interest_Mixture_Motion_Rates\/lh1-3_39.pg<\/em>.",
@@ -1281,7 +1281,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_32",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_32",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_32",
   "type": "Exercise",
   "number": "14.4",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_32.pg<\/em>.",
@@ -1290,7 +1290,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_17",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_17",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_17",
   "type": "Exercise",
   "number": "14.5",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_17.pg<\/em>.",
@@ -1299,7 +1299,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_51",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_51",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_51",
   "type": "Exercise",
   "number": "14.6",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg<\/em>.",
@@ -1308,7 +1308,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-lh1-3_51",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-lh1-3_51",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-lh1-3_51",
   "type": "Exercise",
   "number": "14.7",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/lh1-3_51.pg<\/em>.",
@@ -1317,7 +1317,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_25",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_25",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_25",
   "type": "Exercise",
   "number": "14.8",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_25.pg<\/em>.",
@@ -1326,7 +1326,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-srw1_6_11",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-srw1_6_11",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-srw1_6_11",
   "type": "Exercise",
   "number": "14.9",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/srw1_6_11.pg<\/em>.",
@@ -1335,7 +1335,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_28",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_28",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_28",
   "type": "Exercise",
   "number": "14.10",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_28.pg<\/em>.",
@@ -1344,7 +1344,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_46",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_46",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-lh1-3_46",
   "type": "Exercise",
   "number": "14.11",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/lh1-3_46.pg<\/em>.",
@@ -1353,7 +1353,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_13",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_13",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_13",
   "type": "Exercise",
   "number": "14.12",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_13.pg<\/em>.",
@@ -1362,7 +1362,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_52",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_52",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-Rochester-setAlgebra09LinearEqnsModeling-sw3_2_52",
   "type": "Exercise",
   "number": "14.13",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra09LinearEqnsModeling\/sw3_2_52.pg<\/em>.",
@@ -1371,7 +1371,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-paintingpartners",
   "level": "2",
-  "url": "exercises-14.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-paintingpartners",
+  "url": "sethw-08-word-problems-2.html#ch14-Library-maCalcDB-setAlgebra09LinearEqnsModeling-paintingpartners",
   "type": "Exercise",
   "number": "14.14",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra09LinearEqnsModeling\/paintingpartners.pg<\/em>.",
@@ -1389,7 +1389,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-ma117DB-set2-srw1_8_7",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-ma117DB-set2-srw1_8_7",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-ma117DB-set2-srw1_8_7",
   "type": "Exercise",
   "number": "15.1",
   "title": "<em class=\"alert\">Library\/ma117DB\/set2\/srw1_8_7.pg<\/em>.",
@@ -1398,7 +1398,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-ma117DB-set2-srw1_8_5",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-ma117DB-set2-srw1_8_5",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-ma117DB-set2-srw1_8_5",
   "type": "Exercise",
   "number": "15.2",
   "title": "<em class=\"alert\">Library\/ma117DB\/set2\/srw1_8_5.pg<\/em>.",
@@ -1407,7 +1407,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-ma117DB-set2-srw1_8_3",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-ma117DB-set2-srw1_8_3",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-ma117DB-set2-srw1_8_3",
   "type": "Exercise",
   "number": "15.3",
   "title": "<em class=\"alert\">Library\/ma117DB\/set2\/srw1_8_3.pg<\/em>.",
@@ -1416,7 +1416,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-maCalcDB-setAlgebra07PointsCircles-midpoint_hard",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-maCalcDB-setAlgebra07PointsCircles-midpoint_hard",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-maCalcDB-setAlgebra07PointsCircles-midpoint_hard",
   "type": "Exercise",
   "number": "15.4",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra07PointsCircles\/midpoint_hard.pg<\/em>.",
@@ -1425,7 +1425,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-Union-setAnalGeomDistance-distfindy",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-Union-setAnalGeomDistance-distfindy",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-Union-setAnalGeomDistance-distfindy",
   "type": "Exercise",
   "number": "15.5",
   "title": "<em class=\"alert\">Library\/Union\/setAnalGeomDistance\/distfindy.pg<\/em>.",
@@ -1434,7 +1434,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-ASU-topics-setCartesianPlane-srw1_9_2-sol",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-ASU-topics-setCartesianPlane-srw1_9_2-sol",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-ASU-topics-setCartesianPlane-srw1_9_2-sol",
   "type": "Exercise",
   "number": "15.6",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setCartesianPlane\/srw1_9_2-sol.pg<\/em>.",
@@ -1443,7 +1443,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-ASU-topics-setCartesianPlane-beth10",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-ASU-topics-setCartesianPlane-beth10",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-ASU-topics-setCartesianPlane-beth10",
   "type": "Exercise",
   "number": "15.7",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setCartesianPlane\/beth10.pg<\/em>.",
@@ -1452,7 +1452,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-ASU-topics-setCartesianPlane-jj1",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-ASU-topics-setCartesianPlane-jj1",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-ASU-topics-setCartesianPlane-jj1",
   "type": "Exercise",
   "number": "15.8",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setCartesianPlane\/jj1.pg<\/em>.",
@@ -1461,7 +1461,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch15-Library-Rochester-setGeometry1Points-srw1_9_2_mo",
   "level": "2",
-  "url": "exercises-15.html#ch15-Library-Rochester-setGeometry1Points-srw1_9_2_mo",
+  "url": "sethw-09-coordinates-distance-midpoint-2.html#ch15-Library-Rochester-setGeometry1Points-srw1_9_2_mo",
   "type": "Exercise",
   "number": "15.9",
   "title": "<em class=\"alert\">Library\/Rochester\/setGeometry1Points\/srw1_9_2_mo.pg<\/em>.",
@@ -1479,7 +1479,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-ma112DB-set3-sw2_2_8",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-ma112DB-set3-sw2_2_8",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-ma112DB-set3-sw2_2_8",
   "type": "Exercise",
   "number": "16.1",
   "title": "<em class=\"alert\">Library\/ma112DB\/set3\/sw2_2_8.pg<\/em>.",
@@ -1488,7 +1488,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-ma112DB-set3-sw2_2_7",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-ma112DB-set3-sw2_2_7",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-ma112DB-set3-sw2_2_7",
   "type": "Exercise",
   "number": "16.2",
   "title": "<em class=\"alert\">Library\/ma112DB\/set3\/sw2_2_7.pg<\/em>.",
@@ -1497,7 +1497,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-ma112DB-set3-sw2_2_18",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-ma112DB-set3-sw2_2_18",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-ma112DB-set3-sw2_2_18",
   "type": "Exercise",
   "number": "16.3",
   "title": "<em class=\"alert\">Library\/ma112DB\/set3\/sw2_2_18.pg<\/em>.",
@@ -1506,7 +1506,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_45",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_45",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_45",
   "type": "Exercise",
   "number": "16.4",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_45.pg<\/em>.",
@@ -1515,7 +1515,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-symm1",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-symm1",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-symm1",
   "type": "Exercise",
   "number": "16.5",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/symm1.pg<\/em>.",
@@ -1524,7 +1524,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_47",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_47",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_47",
   "type": "Exercise",
   "number": "16.6",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_47.pg<\/em>.",
@@ -1533,7 +1533,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_39",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_39",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_39",
   "type": "Exercise",
   "number": "16.7",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_39.pg<\/em>.",
@@ -1542,7 +1542,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1grapheq",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1grapheq",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1grapheq",
   "type": "Exercise",
   "number": "16.8",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1grapheq.pg<\/em>.",
@@ -1551,7 +1551,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p2",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p2",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p2",
   "type": "Exercise",
   "number": "16.9",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/p2.pg<\/em>.",
@@ -1560,7 +1560,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_65",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_65",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_65",
   "type": "Exercise",
   "number": "16.10",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_65.pg<\/em>.",
@@ -1569,7 +1569,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p3",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p3",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p3",
   "type": "Exercise",
   "number": "16.11",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/p3.pg<\/em>.",
@@ -1578,7 +1578,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_67",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_67",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_67",
   "type": "Exercise",
   "number": "16.12",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_67.pg<\/em>.",
@@ -1587,7 +1587,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_43",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_43",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-srw1_8_43",
   "type": "Exercise",
   "number": "16.13",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/srw1_8_43.pg<\/em>.",
@@ -1596,7 +1596,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-beth1",
   "type": "Exercise",
   "number": "16.14",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/beth1.pg<\/em>.",
@@ -1605,7 +1605,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p1",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p1",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-maCalcDB-setAlgebra06EqnGraphs-p1",
   "type": "Exercise",
   "number": "16.15",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra06EqnGraphs\/p1.pg<\/em>.",
@@ -1614,7 +1614,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch16-Library-Rochester-setAlgebra06EqnGraphs-sw2_2_41",
   "level": "2",
-  "url": "exercises-16.html#ch16-Library-Rochester-setAlgebra06EqnGraphs-sw2_2_41",
+  "url": "sethw-10-graphs-intercepts-symmetry-2.html#ch16-Library-Rochester-setAlgebra06EqnGraphs-sw2_2_41",
   "type": "Exercise",
   "number": "16.16",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra06EqnGraphs\/sw2_2_41.pg<\/em>.",
@@ -1632,7 +1632,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-slope",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-slope",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-slope",
   "type": "Exercise",
   "number": "17.1",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/slope.pg<\/em>.",
@@ -1641,7 +1641,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-slope1",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-slope1",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-slope1",
   "type": "Exercise",
   "number": "17.2",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/slope1.pg<\/em>.",
@@ -1650,7 +1650,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-equationofline",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-equationofline",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-equationofline",
   "type": "Exercise",
   "number": "17.3",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/equationofline.pg<\/em>.",
@@ -1659,7 +1659,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-parallelline",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-parallelline",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-parallelline",
   "type": "Exercise",
   "number": "17.4",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/parallelline.pg<\/em>.",
@@ -1668,7 +1668,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-slope2",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-slope2",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-slope2",
   "type": "Exercise",
   "number": "17.5",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/slope2.pg<\/em>.",
@@ -1677,7 +1677,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-equationofline1",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-equationofline1",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-equationofline1",
   "type": "Exercise",
   "number": "17.6",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/equationofline1.pg<\/em>.",
@@ -1686,7 +1686,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-parallelline1",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-parallelline1",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-parallelline1",
   "type": "Exercise",
   "number": "17.7",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/parallelline1.pg<\/em>.",
@@ -1695,7 +1695,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-equationofline2",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-equationofline2",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-equationofline2",
   "type": "Exercise",
   "number": "17.8",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/equationofline2.pg<\/em>.",
@@ -1704,7 +1704,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-Library-Utah-AP_Calculus_I-set1_Reviews_of_Fundamentals-1210s1p17",
   "level": "2",
-  "url": "exercises-17.html#ch17-Library-Utah-AP_Calculus_I-set1_Reviews_of_Fundamentals-1210s1p17",
+  "url": "sethw-11-Lines-2.html#ch17-Library-Utah-AP_Calculus_I-set1_Reviews_of_Fundamentals-1210s1p17",
   "type": "Exercise",
   "number": "17.9",
   "title": "<em class=\"alert\">local\/Library\/Utah\/AP_Calculus_I\/set1_Reviews_of_Fundamentals\/1210s1p17.pg<\/em>.",
@@ -1713,7 +1713,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-Library-Utah-Calculus_I-set1_Preliminaries-1210s1p18",
   "level": "2",
-  "url": "exercises-17.html#ch17-Library-Utah-Calculus_I-set1_Preliminaries-1210s1p18",
+  "url": "sethw-11-Lines-2.html#ch17-Library-Utah-Calculus_I-set1_Preliminaries-1210s1p18",
   "type": "Exercise",
   "number": "17.10",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Calculus_I\/set1_Preliminaries\/1210s1p18.pg<\/em>.",
@@ -1722,7 +1722,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch17-local-sethw-11-Lines-Problem11",
   "level": "2",
-  "url": "exercises-17.html#ch17-local-sethw-11-Lines-Problem11",
+  "url": "sethw-11-Lines-2.html#ch17-local-sethw-11-Lines-Problem11",
   "type": "Exercise",
   "number": "17.11",
   "title": "<em class=\"alert\">local\/sethw-11-Lines\/Problem11.pg<\/em>.",
@@ -1740,7 +1740,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-Union-setAnalGeomConics-circle2",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-Union-setAnalGeomConics-circle2",
+  "url": "sethw-12-circles-2.html#ch18-Library-Union-setAnalGeomConics-circle2",
   "type": "Exercise",
   "number": "18.1",
   "title": "<em class=\"alert\">Library\/Union\/setAnalGeomConics\/circle2.pg<\/em>.",
@@ -1749,7 +1749,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-Union-setAnalGeomConics-p5",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-Union-setAnalGeomConics-p5",
+  "url": "sethw-12-circles-2.html#ch18-Library-Union-setAnalGeomConics-p5",
   "type": "Exercise",
   "number": "18.2",
   "title": "<em class=\"alert\">Library\/Union\/setAnalGeomConics\/p5.pg<\/em>.",
@@ -1758,7 +1758,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-Union-setAnalGeomConics-circles-1",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-Union-setAnalGeomConics-circles-1",
+  "url": "sethw-12-circles-2.html#ch18-Library-Union-setAnalGeomConics-circles-1",
   "type": "Exercise",
   "number": "18.3",
   "title": "<em class=\"alert\">Library\/Union\/setAnalGeomConics\/circles-1.pg<\/em>.",
@@ -1767,7 +1767,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-circlenot1",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-circlenot1",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-circlenot1",
   "type": "Exercise",
   "number": "18.4",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/circlenot1.pg<\/em>.",
@@ -1776,7 +1776,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-circle3",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-circle3",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-circle3",
   "type": "Exercise",
   "number": "18.5",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/circle3.pg<\/em>.",
@@ -1785,7 +1785,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-circle2",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-circle2",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-circle2",
   "type": "Exercise",
   "number": "18.6",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/circle2.pg<\/em>.",
@@ -1794,7 +1794,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-srw1_8_73",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-srw1_8_73",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-srw1_8_73",
   "type": "Exercise",
   "number": "18.7",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/srw1_8_73.pg<\/em>.",
@@ -1803,7 +1803,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-p4",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-p4",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-p4",
   "type": "Exercise",
   "number": "18.8",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/p4.pg<\/em>.",
@@ -1812,7 +1812,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-p5",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-p5",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-p5",
   "type": "Exercise",
   "number": "18.9",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/p5.pg<\/em>.",
@@ -1821,7 +1821,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-Library-ASU-topics-setGraphEquations-sw2_2_53",
   "level": "2",
-  "url": "exercises-18.html#ch18-Library-ASU-topics-setGraphEquations-sw2_2_53",
+  "url": "sethw-12-circles-2.html#ch18-Library-ASU-topics-setGraphEquations-sw2_2_53",
   "type": "Exercise",
   "number": "18.10",
   "title": "<em class=\"alert\">Library\/ASU-topics\/setGraphEquations\/sw2_2_53.pg<\/em>.",
@@ -1830,7 +1830,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-1-center-radius",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-1-center-radius",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-1-center-radius",
   "type": "Exercise",
   "number": "18.11",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-1-center-radius.pg<\/em>.",
@@ -1839,7 +1839,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-2-center-radius",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-2-center-radius",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-2-center-radius",
   "type": "Exercise",
   "number": "18.12",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-2-center-radius.pg<\/em>.",
@@ -1848,7 +1848,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-3-center-point",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-3-center-point",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-3-center-point",
   "type": "Exercise",
   "number": "18.13",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-3-center-point.pg<\/em>.",
@@ -1857,7 +1857,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-4-from-general",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-4-from-general",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-4-from-general",
   "type": "Exercise",
   "number": "18.14",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-4-from-general.pg<\/em>.",
@@ -1866,7 +1866,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-5-from-general",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-5-from-general",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-5-from-general",
   "type": "Exercise",
   "number": "18.15",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-5-from-general.pg<\/em>.",
@@ -1875,7 +1875,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-6-from-general",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-6-from-general",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-6-from-general",
   "type": "Exercise",
   "number": "18.16",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-6-from-general.pg<\/em>.",
@@ -1884,7 +1884,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-7-from-diameter-points",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-7-from-diameter-points",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-7-from-diameter-points",
   "type": "Exercise",
   "number": "18.17",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-7-from-diameter-points.pg<\/em>.",
@@ -1893,7 +1893,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-8-harder",
   "level": "2",
-  "url": "exercises-18.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-8-harder",
+  "url": "sethw-12-circles-2.html#ch18-local-uw-stout-math120-sulvn-2-4-circle-problem-8-harder",
   "type": "Exercise",
   "number": "18.18",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-2-4\/circle-problem-8-harder.pg<\/em>.",
@@ -1911,7 +1911,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_1",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_1",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_1",
   "type": "Exercise",
   "number": "19.1",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_1.pg<\/em>.",
@@ -1920,7 +1920,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-find_const",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-find_const",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-find_const",
   "type": "Exercise",
   "number": "19.2",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/find_const.pg<\/em>.",
@@ -1929,7 +1929,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_26",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_26",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_26",
   "type": "Exercise",
   "number": "19.3",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_26.pg<\/em>.",
@@ -1938,7 +1938,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_2",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_2",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_2",
   "type": "Exercise",
   "number": "19.4",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_2.pg<\/em>.",
@@ -1947,7 +1947,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_ab_6_2",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_ab_6_2",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_ab_6_2",
   "type": "Exercise",
   "number": "19.5",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_ab_6_2.pg<\/em>.",
@@ -1956,7 +1956,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_3",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_3",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_3",
   "type": "Exercise",
   "number": "19.6",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_3.pg<\/em>.",
@@ -1965,7 +1965,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_4",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_4",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_4",
   "type": "Exercise",
   "number": "19.7",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_4.pg<\/em>.",
@@ -1974,7 +1974,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_50",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_50",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_50",
   "type": "Exercise",
   "number": "19.8",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_50.pg<\/em>.",
@@ -1983,7 +1983,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_5",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_5",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_5",
   "type": "Exercise",
   "number": "19.9",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_5.pg<\/em>.",
@@ -1992,7 +1992,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_54",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_54",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_54",
   "type": "Exercise",
   "number": "19.10",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_54.pg<\/em>.",
@@ -2001,7 +2001,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-variation_eqn2",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-variation_eqn2",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-variation_eqn2",
   "type": "Exercise",
   "number": "19.11",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/variation_eqn2.pg<\/em>.",
@@ -2010,7 +2010,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_6",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_6",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_6",
   "type": "Exercise",
   "number": "19.12",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_6.pg<\/em>.",
@@ -2019,7 +2019,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-variation_eqn",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-variation_eqn",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-variation_eqn",
   "type": "Exercise",
   "number": "19.13",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/variation_eqn.pg<\/em>.",
@@ -2028,7 +2028,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-joint",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-joint",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-joint",
   "type": "Exercise",
   "number": "19.14",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/joint.pg<\/em>.",
@@ -2037,7 +2037,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-lh3-5_60",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_60",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-lh3-5_60",
   "type": "Exercise",
   "number": "19.15",
   "title": "<em class=\"alert\">Library\/Rochester\/setAlgebra24Variation\/lh3-5_60.pg<\/em>.",
@@ -2046,7 +2046,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_9",
   "level": "2",
-  "url": "exercises-19.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_9",
+  "url": "sethw-13-variation-sci-formulas-2.html#ch19-Library-Rochester-setAlgebra24Variation-ur_alg_11_9",
   "type": "Exercise",
   "number": "19.16",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra24Variation\/ur_alg_11_9.pg<\/em>.",
@@ -2059,21 +2059,21 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "20",
   "title": "14a-Determine-And-Evaluate-Function",
-  "body": " 14a-Determine-And-Evaluate-Function   local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg   For each of the following graphs, determine whether or not it represents as a function of . Type YES or NO to the right of each graph.  a)   b)   c)   d)   e)     no    yes    no    yes    no       local\/Library\/ma117DB\/set3\/srw2_1_5.pg   can be expressed in words as \"Add 4, then divide by 13\". Is this statement true?  Your answer is (input Yes or No): .    No       local\/Library\/ma117DB\/set3\/srw2_1_17.pg   Given the function . Calculate the following values:                                          local\/Library\/ma117DB\/set3\/srw2_1_33.pg   Given the function , calculate the following values:                            local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_6.pg   Define a function by:      Looking only at values of to the left of , what would you expect to be?  Looking only at values of to the right of , what would you expect to be?  Now for fun, try graphing                           local\/Library\/Rochester\/setAlgebra15Functions\/beth4.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =            local\/Library\/Rochester\/setAlgebra15Functions\/beth3.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =            local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p6.pg   The remainder of the problems in this set are focused on the concept of a function.  Consider the function defined by Then                            local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_5.pg   Let be the function . Find the following:                                  local\/Library\/Utah\/Business_Algebra\/set4_Quadratic_and_Other_Special_Functions\/p16.pg   Suppose and Then   ,   ,   ,   ,                           local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg   The next few problems are focused on the combination of functions: Suppose and are two functions. Then we define  A.  B.  C.  D.  Suppose and Then  1.  ,  2.  ,  3.  ,  4.  ,                            "
+  "body": " 14a-Determine-And-Evaluate-Function   local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg    PTX:ERROR: WeBWorK problem local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg with seed 208 does not return valid XML It may not be PTX compatible Use -a to halt with returned content     local\/Library\/ma117DB\/set3\/srw2_1_5.pg   can be expressed in words as \"Add 4, then divide by 13\". Is this statement true?  Your answer is (input Yes or No): .    No       local\/Library\/ma117DB\/set3\/srw2_1_17.pg   Given the function . Calculate the following values:                                          local\/Library\/ma117DB\/set3\/srw2_1_33.pg   Given the function , calculate the following values:                            local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_6.pg   Define a function by:      Looking only at values of to the left of , what would you expect to be?  Looking only at values of to the right of , what would you expect to be?  Now for fun, try graphing                           local\/Library\/Rochester\/setAlgebra15Functions\/beth4.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =            local\/Library\/Rochester\/setAlgebra15Functions\/beth3.pg   List all real values of such that . If there are no such real , type DNE in the answer blank. If there is more that one real , give a comma separated list (e.g. 1,2).  =            local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p6.pg   The remainder of the problems in this set are focused on the concept of a function.  Consider the function defined by Then                            local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_5.pg   Let be the function . Find the following:                                  local\/Library\/Utah\/Business_Algebra\/set4_Quadratic_and_Other_Special_Functions\/p16.pg   Suppose and Then   ,   ,   ,   ,                           local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg   The next few problems are focused on the combination of functions: Suppose and are two functions. Then we define  A.  B.  C.  D.  Suppose and Then  1.  ,  2.  ,  3.  ,  4.  ,                            "
 },
 {
   "id": "ch20-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p17-p17",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p17-p17",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p17-p17",
   "type": "Exercise",
   "number": "20.1",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg<\/em>.",
-  "body": "local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg   For each of the following graphs, determine whether or not it represents as a function of . Type YES or NO to the right of each graph.  a)   b)   c)   d)   e)     no    yes    no    yes    no      "
+  "body": "local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg    PTX:ERROR: WeBWorK problem local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p17\/p17.pg with seed 208 does not return valid XML It may not be PTX compatible Use -a to halt with returned content    "
 },
 {
   "id": "ch20-local-Library-ma117DB-set3-srw2_1_5",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-ma117DB-set3-srw2_1_5",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-ma117DB-set3-srw2_1_5",
   "type": "Exercise",
   "number": "20.2",
   "title": "<em class=\"alert\">local\/Library\/ma117DB\/set3\/srw2_1_5.pg<\/em>.",
@@ -2082,7 +2082,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-ma117DB-set3-srw2_1_17",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-ma117DB-set3-srw2_1_17",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-ma117DB-set3-srw2_1_17",
   "type": "Exercise",
   "number": "20.3",
   "title": "<em class=\"alert\">local\/Library\/ma117DB\/set3\/srw2_1_17.pg<\/em>.",
@@ -2091,7 +2091,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-ma117DB-set3-srw2_1_33",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-ma117DB-set3-srw2_1_33",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-ma117DB-set3-srw2_1_33",
   "type": "Exercise",
   "number": "20.4",
   "title": "<em class=\"alert\">local\/Library\/ma117DB\/set3\/srw2_1_33.pg<\/em>.",
@@ -2100,7 +2100,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_6",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_6",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_6",
   "type": "Exercise",
   "number": "20.5",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_6.pg<\/em>.",
@@ -2109,7 +2109,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Rochester-setAlgebra15Functions-beth4",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-beth4",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Rochester-setAlgebra15Functions-beth4",
   "type": "Exercise",
   "number": "20.6",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/beth4.pg<\/em>.",
@@ -2118,7 +2118,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Rochester-setAlgebra15Functions-beth3",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-beth3",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Rochester-setAlgebra15Functions-beth3",
   "type": "Exercise",
   "number": "20.7",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/beth3.pg<\/em>.",
@@ -2127,7 +2127,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p6",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p6",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p6",
   "type": "Exercise",
   "number": "20.8",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p6.pg<\/em>.",
@@ -2136,7 +2136,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_5",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_5",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Rochester-setAlgebra15Functions-ur_fn_1_5",
   "type": "Exercise",
   "number": "20.9",
   "title": "<em class=\"alert\">local\/Library\/Rochester\/setAlgebra15Functions\/ur_fn_1_5.pg<\/em>.",
@@ -2145,7 +2145,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Utah-Business_Algebra-set4_Quadratic_and_Other_Special_Functions-p16",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Utah-Business_Algebra-set4_Quadratic_and_Other_Special_Functions-p16",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Utah-Business_Algebra-set4_Quadratic_and_Other_Special_Functions-p16",
   "type": "Exercise",
   "number": "20.10",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set4_Quadratic_and_Other_Special_Functions\/p16.pg<\/em>.",
@@ -2154,7 +2154,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p191",
   "level": "2",
-  "url": "exercises-20.html#ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p191",
+  "url": "sethw-14a-Determine-And-Evaluate-Function-2.html#ch20-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p191",
   "type": "Exercise",
   "number": "20.11",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p191.pg<\/em>.",
@@ -2172,7 +2172,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p10",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p10",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p10",
   "type": "Exercise",
   "number": "21.1",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p10.pg<\/em>.",
@@ -2181,7 +2181,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p13",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p13",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p13",
   "type": "Exercise",
   "number": "21.2",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p13.pg<\/em>.",
@@ -2190,7 +2190,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-1",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-1",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-1",
   "type": "Exercise",
   "number": "21.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-1.pg<\/em>.",
@@ -2199,7 +2199,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-2",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-2",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-2",
   "type": "Exercise",
   "number": "21.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-2.pg<\/em>.",
@@ -2208,7 +2208,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-3",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-3",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-3",
   "type": "Exercise",
   "number": "21.5",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-3.pg<\/em>.",
@@ -2217,7 +2217,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-4",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-4",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-uw-stout-math120-sulvn-3-1-sulvn-3-1-domain-problem-4",
   "type": "Exercise",
   "number": "21.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-1\/sulvn-3-1-domain-problem-4.pg<\/em>.",
@@ -2226,7 +2226,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-Library-Utah-Intermediate_Algebra-set5_Graphs_and_Functions-s5p41",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-Library-Utah-Intermediate_Algebra-set5_Graphs_and_Functions-s5p41",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-Library-Utah-Intermediate_Algebra-set5_Graphs_and_Functions-s5p41",
   "type": "Exercise",
   "number": "21.7",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Intermediate_Algebra\/set5_Graphs_and_Functions\/s5p41.pg<\/em>.",
@@ -2235,7 +2235,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p12",
   "level": "2",
-  "url": "exercises-21.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p12",
+  "url": "sethw-14b-functions-domain-2.html#ch21-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p12",
   "type": "Exercise",
   "number": "21.8",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p12.pg<\/em>.",
@@ -2248,21 +2248,21 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "22",
   "title": "15-graphs-of-basic-functions",
-  "body": " 15-graphs-of-basic-functions   local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg   Use   to answer the following questions:  1. Is point on the graph of ?  Your answer:   ?    No    Yes    2. If , what is ? What point is on the graph of ?   ,  the point on the graph is .  3. If , what is ? What point(s) are on the graph of ?   ,  the point(s) on the graph are .  4. What is the domain of ?  The domain of is  5. Find the intercepts of the graph of .  intercepts are at point(s)  6. Find the intercepts of the graph of .  intercepts are at point(s)                                               local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-cube-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     5     -5     8     -8     15     -15     27     -27     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                            local\/uw-stout\/math120-sulvn-3-4\/graph-cubic-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-square-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-square-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     4     5     9     10     15     16     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                             local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.   A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is           "
+  "body": " 15-graphs-of-basic-functions   local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg   Use   to answer the following questions:  1. Is point on the graph of ?  Your answer:   No    Yes    2. If , what is ? What point is on the graph of ?   ,  the point on the graph is .  3. If , what is ? What point(s) are on the graph of ?   ,  the point(s) on the graph are .  4. What is the domain of ?  The domain of is  5. Find the intercepts of the graph of .  intercepts are at point(s)  6. Find the intercepts of the graph of .  intercepts are at point(s)                                               local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-cube-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     5     -5     8     -8     15     -15     27     -27     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                            local\/uw-stout\/math120-sulvn-3-4\/graph-cubic-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-square-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     3     -3     4     -4     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-square-root-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     4     5     9     10     15     16     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                             local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.  \\{  image(\"1050s6p7-2.gif\", height => 384, width => 384);  \\}  A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is           "
 },
 {
   "id": "ch22-local-uw-stout-math120-sulvn-3-2-function-concepts-problem-1",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-2-function-concepts-problem-1",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-uw-stout-math120-sulvn-3-2-function-concepts-problem-1",
   "type": "Exercise",
   "number": "22.1",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg<\/em>.",
-  "body": "local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg   Use   to answer the following questions:  1. Is point on the graph of ?  Your answer:   ?    No    Yes    2. If , what is ? What point is on the graph of ?   ,  the point on the graph is .  3. If , what is ? What point(s) are on the graph of ?   ,  the point(s) on the graph are .  4. What is the domain of ?  The domain of is  5. Find the intercepts of the graph of .  intercepts are at point(s)  6. Find the intercepts of the graph of .  intercepts are at point(s)                                              "
+  "body": "local\/uw-stout\/math120-sulvn-3-2\/function-concepts-problem-1.pg   Use   to answer the following questions:  1. Is point on the graph of ?  Your answer:   No    Yes    2. If , what is ? What point is on the graph of ?   ,  the point on the graph is .  3. If , what is ? What point(s) are on the graph of ?   ,  the point(s) on the graph are .  4. What is the domain of ?  The domain of is  5. Find the intercepts of the graph of .  intercepts are at point(s)  6. Find the intercepts of the graph of .  intercepts are at point(s)                                              "
 },
 {
   "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
   "type": "Exercise",
   "number": "22.2",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg<\/em>.",
@@ -2271,7 +2271,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-cube-root-function",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-cube-root-function",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-cube-root-function",
   "type": "Exercise",
   "number": "22.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-cube-root-function.pg<\/em>.",
@@ -2280,7 +2280,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-cubic-function",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-cubic-function",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-cubic-function",
   "type": "Exercise",
   "number": "22.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-cubic-function.pg<\/em>.",
@@ -2289,7 +2289,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-square-function",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-square-function",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-square-function",
   "type": "Exercise",
   "number": "22.5",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-square-function.pg<\/em>.",
@@ -2298,7 +2298,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch22-local-uw-stout-math120-sulvn-3-4-graph-square-root-function",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-square-root-function",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-uw-stout-math120-sulvn-3-4-graph-square-root-function",
   "type": "Exercise",
   "number": "22.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-square-root-function.pg<\/em>.",
@@ -2307,11 +2307,11 @@ var ptx_lunr_docs = [
 {
   "id": "ch22-local-Library-Utah-College_Algebra-set6_Polynomial_and_Rational_Functions-1050s6p7-1050s6p7",
   "level": "2",
-  "url": "exercises-22.html#ch22-local-Library-Utah-College_Algebra-set6_Polynomial_and_Rational_Functions-1050s6p7-1050s6p7",
+  "url": "sethw-15-graphs-of-basic-functions-2.html#ch22-local-Library-Utah-College_Algebra-set6_Polynomial_and_Rational_Functions-1050s6p7-1050s6p7",
   "type": "Exercise",
   "number": "22.7",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg<\/em>.",
-  "body": "local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.   A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is         "
+  "body": "local\/Library\/Utah\/College_Algebra\/set6_Polynomial_and_Rational_Functions\/1050s6p7\/1050s6p7.pg    The Figure above shows the graph of the mystery function .  In the Figure below, match the colors of the graphs in this Figure with the functions given. Enter y for yellow, b for blue, r red,and g for green, as appropriate.  \\{  image(\"1050s6p7-2.gif\", height => 384, width => 384);  \\}  A.   B.   C.   D.     r    y    b    g   Solution: The Maple code to generate these graphs is         "
 },
 {
   "id": "sethw-16-properties-of-functions",
@@ -2325,7 +2325,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-uw-stout-math120-sulvn-3-3-problem31",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-problem31",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-uw-stout-math120-sulvn-3-3-problem31",
   "type": "Exercise",
   "number": "23.1",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/problem31.pg<\/em>.",
@@ -2334,7 +2334,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-uw-stout-math120-sulvn-3-3-problem32",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-problem32",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-uw-stout-math120-sulvn-3-3-problem32",
   "type": "Exercise",
   "number": "23.2",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/problem32.pg<\/em>.",
@@ -2343,7 +2343,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-uw-stout-math120-sulvn-3-3-problem33",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-problem33",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-uw-stout-math120-sulvn-3-3-problem33",
   "type": "Exercise",
   "number": "23.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/problem33.pg<\/em>.",
@@ -2352,7 +2352,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-uw-stout-math120-sulvn-3-3-sulvn-3-3-even-odd-problem-1",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-uw-stout-math120-sulvn-3-3-sulvn-3-3-even-odd-problem-1",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-uw-stout-math120-sulvn-3-3-sulvn-3-3-even-odd-problem-1",
   "type": "Exercise",
   "number": "23.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-3\/sulvn-3-3-even-odd-problem-1.pg<\/em>.",
@@ -2361,7 +2361,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p28",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p28",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p28",
   "type": "Exercise",
   "number": "23.5",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p28.pg<\/em>.",
@@ -2370,7 +2370,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p32",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p32",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-Library-Utah-College_Algebra-set5_Functions_and_Their_Graphs-1050s5p32",
   "type": "Exercise",
   "number": "23.6",
   "title": "<em class=\"alert\">local\/Library\/Utah\/College_Algebra\/set5_Functions_and_Their_Graphs\/1050s5p32.pg<\/em>.",
@@ -2379,7 +2379,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-Library-Utah-Trigonometry-set3_Algebra-s3p16",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-Library-Utah-Trigonometry-set3_Algebra-s3p16",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-Library-Utah-Trigonometry-set3_Algebra-s3p16",
   "type": "Exercise",
   "number": "23.7",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Trigonometry\/set3_Algebra\/s3p16.pg<\/em>.",
@@ -2388,7 +2388,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch23-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p23",
   "level": "2",
-  "url": "exercises-23.html#ch23-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p23",
+  "url": "sethw-16-properties-of-functions-2.html#ch23-local-Library-Utah-Business_Algebra-set5_Quadratic_and_Other_Special_Functions-p23",
   "type": "Exercise",
   "number": "23.8",
   "title": "<em class=\"alert\">local\/Library\/Utah\/Business_Algebra\/set5_Quadratic_and_Other_Special_Functions\/p23.pg<\/em>.",
@@ -2401,39 +2401,39 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "24",
   "title": "17-library-of-functions",
-  "body": " 17-library-of-functions   Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg   Match the functions with their graphs. Enter the letter of the graph below which corresponds to the function. ( Click on image for a larger view )                    Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                       Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                       local\/Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c0s1p1\/c0s1p1.pg   Error: PGchoicemacros: match_questions_list: Unknown displayMode: PTX.  Error: PGbasicmacros: imageRow: Unknown displayMode: PTX.       local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-1.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                                 local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                            "
+  "body": " 17-library-of-functions   Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg    PTX:ERROR: WeBWorK problem Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg with seed 242 is either empty or failed to compile Use -a to halt with returned content     Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg    PTX:ERROR: WeBWorK problem Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg with seed 243 is either empty or failed to compile Use -a to halt with returned content     Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg    PTX:ERROR: WeBWorK problem Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg with seed 244 is either empty or failed to compile Use -a to halt with returned content     local\/Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c0s1p1\/c0s1p1.pg   Error: PGchoicemacros: match_questions_list: Unknown displayMode: PTX.  Error: PGbasicmacros: imageRow: Unknown displayMode: PTX.       local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         0     1     -1     2     -2     5     -5     9     -9     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of matches...                                                                  local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-1.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                                 local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg   In this problem you will work on graphing function .  First you will find some points on the graph of         -3     -2     -1     0     1     2     3     Next you will plot the points you found above, and draw a line through the points.  Now, select the correct graph from the list below:  The graph of  matches...                                                            "
 },
 {
   "id": "ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c2s2p19_40-c2s2p19_40",
   "level": "2",
-  "url": "exercises-24.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c2s2p19_40-c2s2p19_40",
+  "url": "sethw-17-library-of-functions-2.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c2s2p19_40-c2s2p19_40",
   "type": "Exercise",
   "number": "24.1",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg<\/em>.",
-  "body": "Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg   Match the functions with their graphs. Enter the letter of the graph below which corresponds to the function. ( Click on image for a larger view )                   "
+  "body": "Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg    PTX:ERROR: WeBWorK problem Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c2s2p19_40\/c2s2p19_40.pg with seed 242 is either empty or failed to compile Use -a to halt with returned content    "
 },
 {
   "id": "ch24-Library-ma112DB-set6-c4s2p59_72-c4s2p59_72",
   "level": "2",
-  "url": "exercises-24.html#ch24-Library-ma112DB-set6-c4s2p59_72-c4s2p59_72",
+  "url": "sethw-17-library-of-functions-2.html#ch24-Library-ma112DB-set6-c4s2p59_72-c4s2p59_72",
   "type": "Exercise",
   "number": "24.2",
   "title": "<em class=\"alert\">Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg<\/em>.",
-  "body": "Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                      "
+  "body": "Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg    PTX:ERROR: WeBWorK problem Library\/ma112DB\/set6\/c4s2p59_72\/c4s2p59_72.pg with seed 243 is either empty or failed to compile Use -a to halt with returned content    "
 },
 {
   "id": "ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c4s2p59_72-c4s2p59_72",
   "level": "2",
-  "url": "exercises-24.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c4s2p59_72-c4s2p59_72",
+  "url": "sethw-17-library-of-functions-2.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c4s2p59_72-c4s2p59_72",
   "type": "Exercise",
   "number": "24.3",
   "title": "<em class=\"alert\">Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg<\/em>.",
-  "body": "Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg   Match the functons with their graphs. Enter the letter of the graph below which corresponds to the function.   Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if    Piecewise function: if , and if                      "
+  "body": "Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg    PTX:ERROR: WeBWorK problem Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c4s2p59_72\/c4s2p59_72.pg with seed 244 is either empty or failed to compile Use -a to halt with returned content    "
 },
 {
   "id": "ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c0s1p1-c0s1p1",
   "level": "2",
-  "url": "exercises-24.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c0s1p1-c0s1p1",
+  "url": "sethw-17-library-of-functions-2.html#ch24-Library-maCalcDB-setAlgebra16FunctionGraphs-c0s1p1-c0s1p1",
   "type": "Exercise",
   "number": "24.4",
   "title": "<em class=\"alert\">local\/Library\/maCalcDB\/setAlgebra16FunctionGraphs\/c0s1p1\/c0s1p1.pg<\/em>.",
@@ -2442,7 +2442,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch24-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
   "level": "2",
-  "url": "exercises-24.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
+  "url": "sethw-17-library-of-functions-2.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-abs-function",
   "type": "Exercise",
   "number": "24.5",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-abs-function.pg<\/em>.",
@@ -2451,7 +2451,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-1",
   "level": "2",
-  "url": "exercises-24.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-1",
+  "url": "sethw-17-library-of-functions-2.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-1",
   "type": "Exercise",
   "number": "24.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-1.pg<\/em>.",
@@ -2460,7 +2460,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-2",
   "level": "2",
-  "url": "exercises-24.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-2",
+  "url": "sethw-17-library-of-functions-2.html#ch24-local-uw-stout-math120-sulvn-3-4-graph-multi-function-ver-2",
   "type": "Exercise",
   "number": "24.7",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-4\/graph-multi-function-ver-2.pg<\/em>.",
@@ -2478,7 +2478,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18",
   "level": "2",
-  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q18",
   "type": "Exercise",
   "number": "25.1",
   "title": "<em class=\"alert\">Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q18.pg<\/em>.",
@@ -2487,7 +2487,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20",
   "level": "2",
-  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-Library-LoyolaChicago-Precalc-Chap5Review-Q20",
   "type": "Exercise",
   "number": "25.2",
   "title": "<em class=\"alert\">Library\/LoyolaChicago\/Precalc\/Chap5Review\/Q20.pg<\/em>.",
@@ -2496,7 +2496,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17",
   "level": "2",
-  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec3-Q17",
   "type": "Exercise",
   "number": "25.3",
   "title": "<em class=\"alert\">local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec3\/Q17.pg<\/em>.",
@@ -2505,7 +2505,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08",
   "level": "2",
-  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec1-Q08",
   "type": "Exercise",
   "number": "25.4",
   "title": "<em class=\"alert\">local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec1\/Q08.pg<\/em>.",
@@ -2514,7 +2514,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29",
   "level": "2",
-  "url": "exercises-25.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-Library-LoyolaChicago-Precalc-Chap5Sec2-Q29",
   "type": "Exercise",
   "number": "25.5",
   "title": "<em class=\"alert\">local\/Library\/LoyolaChicago\/Precalc\/Chap5Sec2\/Q29.pg<\/em>.",
@@ -2523,7 +2523,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-1",
   "type": "Exercise",
   "number": "25.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-1.pg<\/em>.",
@@ -2532,7 +2532,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-formula-to-transformations-problem-2",
   "type": "Exercise",
   "number": "25.7",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-formula-to-transformations-problem-2.pg<\/em>.",
@@ -2541,7 +2541,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-1",
   "type": "Exercise",
   "number": "25.8",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-1.pg<\/em>.",
@@ -2550,7 +2550,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-2",
   "type": "Exercise",
   "number": "25.9",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-2.pg<\/em>.",
@@ -2559,7 +2559,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-3",
   "type": "Exercise",
   "number": "25.10",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-3.pg<\/em>.",
@@ -2568,7 +2568,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-4",
   "type": "Exercise",
   "number": "25.11",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-4.pg<\/em>.",
@@ -2577,7 +2577,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-5",
   "type": "Exercise",
   "number": "25.12",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-5.pg<\/em>.",
@@ -2586,7 +2586,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-6",
   "type": "Exercise",
   "number": "25.13",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-6.pg<\/em>.",
@@ -2595,7 +2595,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-sulvn-3-5-transformations-to-formula-problem-7",
   "type": "Exercise",
   "number": "25.14",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/sulvn-3-5-transformations-to-formula-problem-7.pg<\/em>.",
@@ -2604,7 +2604,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-absolute-5-sequence",
   "type": "Exercise",
   "number": "25.15",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/absolute-5-sequence.pg<\/em>.",
@@ -2613,7 +2613,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-cubic-5-sequence",
   "type": "Exercise",
   "number": "25.16",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/cubic-5-sequence.pg<\/em>.",
@@ -2622,7 +2622,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-quadratic-5-sequence",
   "type": "Exercise",
   "number": "25.17",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/quadratic-5-sequence.pg<\/em>.",
@@ -2631,7 +2631,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence",
   "level": "2",
-  "url": "exercises-25.html#ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence",
+  "url": "sethw-18-graphing-transformations-2.html#ch25-local-uw-stout-math120-sulvn-3-5-square-root-5-sequence",
   "type": "Exercise",
   "number": "25.18",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-5\/square-root-5-sequence.pg<\/em>.",
@@ -2644,12 +2644,12 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "26",
   "title": "19-modeling-with-functions",
-  "body": " 19-modeling-with-functions   local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-01.pg   We consider a rectangular field that has perimeter of yards.  1. Determine formula for the area of the field, , in terms of the length of the field, .    2. What is the domain of the function ?  Domain of is  Note: use interval notation for the domain  3. If , what is ?    4. If , what is ?                             local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-02.pg   Let be a point on graph of .  (a) Express the distance from to the point as a function of .    (b) What is if    (c) What is if                        local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-03.pg   An open box with a square base is to be made from a square piece of cardboard inches on a side by cutting out a square from each corner and turning up the sides. See the figure on page 263 of our text.  (a) Express the volume of the box as a function of the length of the side of the square cut from each corner.    (b) What is the volume if a -inch square is cut out?    (c) What is the volume if a -inch square is cut out?    (d) What is domain of ?  Domain of is  Note: use interval notation for the domain                           local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-07.pg   A rectangle has one corner in quadrant I on the graph of , another at the origin, a third on the positive axis, and the fourth on the positive axis. See the figure below   (1) Width of rectangle in terms of is  (2) Height of rectangle in terms of is  (3) Express the area of the rectangle as a function of .  Area   (4) What is the domain of ?  Domain of is  Note: use interval notation for the domain  (5) Graph . For what value of is the largest?  Value of that makes largest is                                local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-08.pg   A rectangle is inscribed in a semicircle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the semicircle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                             local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg   A rectangle is inscribed in a circle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                              "
+  "body": " 19-modeling-with-functions   local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-01.pg   We consider a rectangular field that has perimeter of yards.  1. Determine formula for the area of the field, , in terms of the length of the field, .    2. What is the domain of the function ?  Domain of is  Note: use interval notation for the domain  3. If , what is ?    4. If , what is ?                             local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-02.pg   Let be a point on graph of .  (a) Express the distance from to the point as a function of .    (b) What is if    (c) What is if                        local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-03.pg   An open box with a square base is to be made from a square piece of cardboard inches on a side by cutting out a square from each corner and turning up the sides. See the figure on page 263 of our text.  (a) Express the volume of the box as a function of the length of the side of the square cut from each corner.    (b) What is the volume if a -inch square is cut out?    (c) What is the volume if a -inch square is cut out?    (d) What is domain of ?  Domain of is  Note: use interval notation for the domain                           local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-07.pg   A rectangle has one corner in quadrant I on the graph of , another at the origin, a third on the positive axis, and the fourth on the positive axis. See the figure below   (1) Width of rectangle in terms of is  (2) Height of rectangle in terms of is  (3) Express the area of the rectangle as a function of .  Area   (4) What is the domain of ?  Domain of is  Note: use interval notation for the domain  (5) Graph . For what value of is the largest?  Value of that makes largest is                                local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-08.pg   A rectangle is inscribed in a semicircle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the semicircle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                             local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg   A rectangle is inscribed in a circle of radius . See the figure below  \\{  image(\"section-3-6-problem-9-graph.png\", width => 601, height => 451, tex_size=>800);  \\}  Let be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                              "
 },
 {
   "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-01",
   "level": "2",
-  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-01",
+  "url": "sethw-19-modeling-with-functions-2.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-01",
   "type": "Exercise",
   "number": "26.1",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-01.pg<\/em>.",
@@ -2658,7 +2658,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-02",
   "level": "2",
-  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-02",
+  "url": "sethw-19-modeling-with-functions-2.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-02",
   "type": "Exercise",
   "number": "26.2",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-02.pg<\/em>.",
@@ -2667,7 +2667,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-03",
   "level": "2",
-  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-03",
+  "url": "sethw-19-modeling-with-functions-2.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-03",
   "type": "Exercise",
   "number": "26.3",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-03.pg<\/em>.",
@@ -2676,7 +2676,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-07",
   "level": "2",
-  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-07",
+  "url": "sethw-19-modeling-with-functions-2.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-07",
   "type": "Exercise",
   "number": "26.4",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-07.pg<\/em>.",
@@ -2685,7 +2685,7 @@ var ptx_lunr_docs = [
 {
   "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-08",
   "level": "2",
-  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-08",
+  "url": "sethw-19-modeling-with-functions-2.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-08",
   "type": "Exercise",
   "number": "26.5",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-08.pg<\/em>.",
@@ -2694,16 +2694,16 @@ var ptx_lunr_docs = [
 {
   "id": "ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-09",
   "level": "2",
-  "url": "exercises-26.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-09",
+  "url": "sethw-19-modeling-with-functions-2.html#ch26-local-uw-stout-math120-sulvn-3-6-functions-as-models-problem-09",
   "type": "Exercise",
   "number": "26.6",
   "title": "<em class=\"alert\">local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg<\/em>.",
-  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg   A rectangle is inscribed in a circle of radius . See the figure below   Let be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                            "
+  "body": "local\/uw-stout\/math120-sulvn-3-6\/functions-as-models-problem-09.pg   A rectangle is inscribed in a circle of radius . See the figure below  \\{  image(\"section-3-6-problem-9-graph.png\", width => 601, height => 451, tex_size=>800);  \\}  Let be the point in quadrant I that is a vertex of the rectangle and is on the circle of radius shown above.  (1) Express the area of the rectangle as a function of .    (2) Express the perimeter of the rectangle as a function of .    (3) Graph . For what value of is the largest ?    (4) Graph . For what value of is the largest ?                            "
 },
 {
-  "id": "colophon-2",
+  "id": "backmatter-2",
   "level": "1",
-  "url": "colophon-2.html",
+  "url": "backmatter-2.html",
   "type": "Colophon",
   "number": "",
   "title": "Colophon",
@@ -2715,6 +2715,7 @@ var ptx_lunr_idx = lunr(function () {
   this.ref('id')
   this.field('title')
   this.field('body')
+  this.metadataWhitelist = ['position']
 
   ptx_lunr_docs.forEach(function (doc) {
     this.add(doc)
